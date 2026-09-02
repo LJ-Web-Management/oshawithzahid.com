@@ -18,14 +18,15 @@ Plain static HTML/CSS/JS, no build step required.
 ## TODO before going live
 
 1. **Calendly**: in `book.html`, replace the placeholder `data-url` on the
-   `.calendly-inline-widget` div with Zahid's real Calendly scheduling link.
-2. **Typeform**: in `book.html`, replace `REPLACE_WITH_TYPEFORM_ID` in the
-   `data-tf-live` attribute with the real Typeform ID once provided.
-3. Once both are live, remove the two `.embed-note` placeholder banners on
-   `book.html`.
-4. Add a real `images/og-cover.png` (1200x630) for social share previews.
+   `.calendly-inline-widget` div with Zahid's real Calendly scheduling link,
+   then remove the remaining `.embed-note` placeholder banner in the
+   Calendly panel.
+2. ~~**Typeform**~~: done. `book.html` embeds the live Typeform
+   (`01M1J0JJRFGA8YMZEB1KJYTSVG`) as a popup button in the "Request Training
+   / Get a Quote" tab.
+3. Add a real `images/og-cover.png` (1200x630) for social share previews.
    Currently referenced but not included.
-5. When ready for production, point the `oshawithzahid.com` DNS at GitHub
+4. When ready for production, point the `oshawithzahid.com` DNS at GitHub
    Pages and add a `CNAME` file containing `oshawithzahid.com` to the repo
    root (not included yet since this deploy is for testing only).
 
