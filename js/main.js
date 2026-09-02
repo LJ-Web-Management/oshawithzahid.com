@@ -1,4 +1,4 @@
-// Osha With Zahid — shared site behavior
+// Osha With Zahid: shared site behavior
 
 document.addEventListener("DOMContentLoaded", function () {
   // Mobile nav toggle
