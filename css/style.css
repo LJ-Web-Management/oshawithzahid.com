@@ -373,33 +373,6 @@ p { margin: 0 0 1em; color: var(--gray-700); }
 .step h4 { font-size: 1.05rem; }
 
 /* Booking */
-.booking-tabs {
-  display: flex;
-  gap: 10px;
-  margin-bottom: 26px;
-  flex-wrap: wrap;
-}
-.booking-tab-btn {
-  padding: 12px 22px;
-  border-radius: 999px;
-  border: 2px solid var(--border);
-  background: var(--white);
-  font-weight: 700;
-  font-size: .9rem;
-  cursor: pointer;
-  color: var(--gray-700);
-}
-.booking-tab-btn.is-active { background: var(--navy); border-color: var(--navy); color: var(--white); }
-.booking-panel { display: none; }
-.booking-panel.is-active { display: block; }
-.embed-frame {
-  background: var(--white);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  box-shadow: var(--shadow);
-  overflow: hidden;
-}
-.embed-frame iframe { display: block; width: 100%; border: 0; }
 .typeform-card {
   max-width: 640px;
   margin: 0 auto;
@@ -413,19 +386,6 @@ p { margin: 0 0 1em; color: var(--gray-700); }
 .typeform-card h3 { font-size: 1.3rem; }
 .typeform-card p { max-width: 460px; margin-left: auto; margin-right: auto; }
 .typeform-card [data-tf-live] { margin-top: 22px; display: flex; justify-content: center; }
-.embed-note {
-  display: flex;
-  gap: 10px;
-  align-items: flex-start;
-  background: #fff7ec;
-  border: 1px solid #ffdca8;
-  color: #7a4a00;
-  padding: 14px 16px;
-  border-radius: 12px;
-  font-size: .85rem;
-  margin-bottom: 18px;
-}
-.embed-note svg { width: 18px; height: 18px; flex-shrink: 0; margin-top: 1px; }
 
 /* FAQ */
 .accordion { border-top: 1px solid var(--border); }

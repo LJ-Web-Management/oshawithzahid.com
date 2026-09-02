@@ -36,19 +36,6 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   });
 
-  // Booking tabs (Calendly / Typeform)
-  var tabButtons = document.querySelectorAll(".booking-tab-btn");
-  var panels = document.querySelectorAll(".booking-panel");
-  tabButtons.forEach(function (btn) {
-    btn.addEventListener("click", function () {
-      tabButtons.forEach(function (b) { b.classList.remove("is-active"); });
-      panels.forEach(function (p) { p.classList.remove("is-active"); });
-      btn.classList.add("is-active");
-      var target = document.getElementById(btn.getAttribute("data-target"));
-      if (target) target.classList.add("is-active");
-    });
-  });
-
   // Footer year
   document.querySelectorAll("[data-year]").forEach(function (el) {
     el.textContent = new Date().getFullYear();

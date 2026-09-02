@@ -44,7 +44,7 @@
   "mainEntity": [
     {
       "@type": "Question", "name": "How quickly can I schedule a session?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Most sessions can be booked within a week. Pick an open slot on the calendar, or submit a request form and Zahid will follow up with available dates for your group size and location." }
+      "acceptedAnswer": { "@type": "Answer", "text": "Most sessions can be booked within a week. Fill out the booking form with your group size and preferred dates, and Zahid will follow up to confirm availability." }
     },
     {
       "@type": "Question", "name": "Do you offer group rates for OSHA training?",
@@ -90,38 +90,21 @@
     <div class="container">
       <div class="breadcrumb"><a href="index.html">Home</a> / <span>Book a Session</span></div>
       <h1>Book your OSHA training session online</h1>
-      <p style="color:rgba(255,255,255,.85); max-width:640px; margin-top:12px;">Schedule a time directly on the calendar, or submit a quick request if you need a custom quote for a group. Either way, you'll hear back fast.</p>
+      <p style="color:rgba(255,255,255,.85); max-width:640px; margin-top:12px;">Fill out one quick form to share your training needs and pick a time that works. Zahid will follow up to confirm the details.</p>
     </div>
   </section>
 
   <section class="section">
     <div class="container">
       <div class="section-head center">
-        <span class="eyebrow">Choose How to Book</span>
-        <h2>Schedule a call or request your training</h2>
+        <span class="eyebrow">Book Online</span>
+        <h2>One form, start to finish</h2>
       </div>
 
-      <div class="booking-tabs" role="tablist" aria-label="Booking options">
-        <button class="booking-tab-btn is-active" data-target="panel-calendly" role="tab" aria-selected="true">Schedule a Time (Calendly)</button>
-        <button class="booking-tab-btn" data-target="panel-typeform" role="tab" aria-selected="false">Request Training / Get a Quote (Typeform)</button>
-      </div>
-
-      <div class="booking-panel is-active" id="panel-calendly">
-        <div class="embed-note">
-          <svg viewBox="0 0 24 24" fill="none"><path d="M12 9v4m0 4h.01M10.3 3.9L2.7 17a2 2 0 001.7 3h15.2a2 2 0 001.7-3L13.7 3.9a2 2 0 00-3.4 0z" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
-          <span>Calendly scheduler placeholder: replace the <code>data-url</code> in <code>book.html</code> with Zahid's real Calendly link to go live.</span>
-        </div>
-        <div class="embed-frame">
-          <div class="calendly-inline-widget" data-url="https://calendly.com/oshawithzahid/training-session?hide_gdpr_banner=1&primary_color=ff6a00" style="min-width:280px; height:700px;"></div>
-        </div>
-      </div>
-
-      <div class="booking-panel" id="panel-typeform">
-        <div class="typeform-card">
-          <h3>Request Training or Get a Quote</h3>
-          <p>Answer a few quick questions about your crew, industry, and timeline. Zahid will follow up with availability and pricing.</p>
-          <div data-tf-live="01M1J0JJRFGA8YMZEB1KJYTSVG"></div>
-        </div>
+      <div class="typeform-card">
+        <h3>Request Training or Get a Quote</h3>
+        <p>Answer a few quick questions about your crew, industry, and timeline, then pick a time that works for you. Zahid will follow up to confirm the details.</p>
+        <div data-tf-live="01M1J0JJRFGA8YMZEB1KJYTSVG"></div>
       </div>
     </div>
   </section>
@@ -135,8 +118,8 @@
       <div class="steps">
         <div class="step">
           <div class="step-num">1</div>
-          <h4>Choose your format</h4>
-          <p>Book an open calendar slot or submit a request for on-site / group training.</p>
+          <h4>Fill out the form</h4>
+          <p>Share your industry, group size, timeline, and preferred date in one quick step.</p>
         </div>
         <div class="step">
           <div class="step-num">2</div>
@@ -161,7 +144,7 @@
       <div class="accordion" style="max-width:760px; margin:0 auto;">
         <div class="accordion-item">
           <button class="accordion-trigger" aria-expanded="false" aria-controls="faq1">How quickly can I schedule a session?<span class="chevron">&#9662;</span></button>
-          <div class="accordion-panel" id="faq1"><p>Most sessions can be booked within a week. Pick an open slot on the calendar, or submit a request form and Zahid will follow up with available dates for your group size and location.</p></div>
+          <div class="accordion-panel" id="faq1"><p>Most sessions can be booked within a week. Fill out the booking form with your group size and preferred dates, and Zahid will follow up to confirm availability.</p></div>
         </div>
         <div class="accordion-item">
           <button class="accordion-trigger" aria-expanded="false" aria-controls="faq2">Do you offer group rates for OSHA training?<span class="chevron">&#9662;</span></button>
@@ -226,7 +209,6 @@
 </footer>
 
 <script src="js/main.js"></script>
-<script src="https://assets.calendly.com/assets/external/widget.js" async></script>
 <script src="https://embed.typeform.com/next/embed.js" async></script>
 </body>
 </html>
