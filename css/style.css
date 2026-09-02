@@ -121,14 +121,14 @@ p { margin: 0 0 1em; color: var(--gray-700); }
   font-size: 1.15rem;
   color: var(--navy);
 }
-.brand .brand-mark {
+.brand .brand-mark, .footer-brand .brand-mark {
   width: 40px; height: 40px;
   border-radius: 10px;
   background: var(--navy);
   display: flex; align-items: center; justify-content: center;
   flex-shrink: 0;
 }
-.brand .brand-mark svg { width: 22px; height: 22px; }
+.brand .brand-mark svg, .footer-brand .brand-mark svg { width: 22px; height: 22px; }
 .brand small {
   display: block;
   font-size: .62rem;
@@ -219,7 +219,7 @@ p { margin: 0 0 1em; color: var(--gray-700); }
 }
 .hero-card h3 { font-size: 1.1rem; margin-bottom: 4px; }
 .hero-card .muted { color: var(--gray-400); font-size: .85rem; margin-bottom: 20px; }
-.hero-stat-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-top: 6px; }
+.hero-stat-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-top: 28px; }
 .hero-stat { background: var(--gray-100); border-radius: 12px; padding: 16px; text-align: center; }
 .hero-stat strong { display: block; font-size: 1.5rem; color: var(--navy); }
 .hero-stat span { font-size: .78rem; color: var(--gray-700); }
@@ -283,7 +283,10 @@ p { margin: 0 0 1em; color: var(--gray-700); }
   flex-wrap: wrap;
   margin: 14px 0 4px;
 }
+.card .card-meta .pill { margin-bottom: 0; }
 .pill {
+  display: inline-block;
+  margin-bottom: 10px;
   font-size: .72rem;
   font-weight: 700;
   letter-spacing: .03em;
