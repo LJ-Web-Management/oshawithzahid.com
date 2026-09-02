@@ -22,16 +22,22 @@
 </head>
 <body>
 <header class="site-header">
-  <div class="container nav">
+  <div class="container nav" id="siteNav">
     <a href="index.html" class="brand">
       <span class="brand-mark"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M12 2L2 6v6c0 5.2 3.6 9.7 10 10 6.4-.3 10-4.8 10-10V6l-10-4z" fill="#FF6A00"/></svg></span>
       <span>Osha With Zahid<small>OSHA Outreach Training</small></span>
     </a>
     <nav class="nav-links" aria-label="Primary">
       <a href="index.html">Home</a>
+      <a href="about.html">About</a>
       <a href="services.html">Services</a>
       <a href="book.html">Book a Session</a>
+      <a href="contact.html">Contact</a>
     </nav>
+    <div class="nav-cta">
+      <a href="book.html" class="btn btn-primary">Book a Session</a>
+      <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false" aria-controls="siteNav"><span></span><span></span><span></span></button>
+    </div>
   </div>
 </header>
 <main>
@@ -47,5 +53,6 @@
     </div>
   </section>
 </main>
+<script src="js/main.js"></script>
 </body>
 </html>
