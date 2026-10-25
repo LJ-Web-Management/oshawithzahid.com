@@ -1,0 +1,33 @@
+<!--
+{
+  "out": "guides/index.html",
+  "nav": "guides",
+  "schema": "guides",
+  "priority": "0.9",
+  "title": "OSHA Training Guides: Cards, Hazards & Compliance | Osha With Zahid",
+  "llms_title": "OSHA guides",
+  "description": "Free, plain-English OSHA guides from an authorized Outreach Trainer: OSHA 10 vs 30, how to get your card, card expiration, fall protection, Focus Four hazards, Illinois requirements, and more.",
+  "breadcrumbs": [["Home", ""], ["Guides", "guides/"]]
+}
+-->
+<main id="main">
+  <section class="page-hero">
+    <div class="container">
+      {{crumbs}}
+      <span class="eyebrow">Safety guides</span>
+      <h1 style="margin-top:12px">OSHA guides for workers, supervisors &amp; employers</h1>
+      <p class="intro">Straight answers to the questions people ask most about OSHA cards, training, and job-site hazards, written by authorized Outreach Trainer Zahid Presswala.</p>
+    </div>
+  </section>
+
+  <section class="section" style="padding-top:56px">
+    <div class="container">
+{{filters}}
+      <div class="grid grid-3">
+{{guides:all}}
+      </div>
+    </div>
+  </section>
+
+{{cta}}
+</main>

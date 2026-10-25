@@ -1,0 +1,61 @@
+<!--
+{
+  "out": "book.html",
+  "nav": "",
+  "priority": "0.9",
+  "title": "Book OSHA 10 or 30-Hour Training Online | Osha With Zahid",
+  "llms_title": "Book a session",
+  "description": "Book OSHA 10 or 30-Hour Construction or General Industry training with Zahid Presswala. One short form to request a session or a group quote; Zahid follows up to confirm.",
+  "breadcrumbs": [["Home", ""], ["Book a Session", "book.html"]],
+  "scripts": "\n<script src=\"https://embed.typeform.com/next/embed.js\" async></script>",
+  "faq": [
+    ["How quickly can I schedule a session?", "Most sessions can be booked within a week. Fill out the booking form with your group size and preferred dates, and Zahid will follow up to confirm availability."],
+    ["Do you offer group rates for OSHA training?", "Yes. Group pricing is available for crews of any size. Include your headcount in the request form and you will receive a custom quote."],
+    ["Can training be done on-site at our location?", "Yes. On-site training is available at your job site, shop, or office, in addition to scheduled group sessions."],
+    ["What do I need to prepare before the session?", "Just a space for the group and a list of attendee names for the certification cards. Zahid handles course materials and testing."]
+  ]
+}
+-->
+<main id="main">
+  <section class="page-hero">
+    <div class="container">
+      {{crumbs}}
+      <span class="eyebrow">Book online</span>
+      <h1 style="margin-top:12px">Book your OSHA training session</h1>
+      <p class="intro">Fill out one quick form to share your training needs and pick a time that works. Zahid will follow up to confirm the details.</p>
+    </div>
+  </section>
+
+  <section class="section" style="padding-top:64px">
+    <div class="container split split--top">
+      <div class="panel">
+        <span class="eyebrow">{{icon:calendar}} Training request</span>
+        <h2 style="margin-top:12px;font-size:1.8rem">Request training or get a quote</h2>
+        <p>Answer a few quick questions about your crew, industry, and timeline, then pick a time. It takes less than a minute.</p>
+        <div class="tf-wrap" data-tf-live="01M1J0JJRFGA8YMZEB1KJYTSVG"></div>
+        <p style="font-size:.92rem;margin-top:16px">Form not loading? Call <a href="tel:{{tel}}">{{phone}}</a> or email <a href="mailto:{{email}}">{{email}}</a>.</p>
+      </div>
+      <div>
+        <h2 style="font-size:1.6rem">What happens next</h2>
+        <div class="grid steps" style="margin-top:20px">
+          <div class="feature reveal"><span class="num">1</span><div><h3>Fill out the form</h3><p>Share your industry, group size, timeline, and preferred date in one step.</p></div></div>
+          <div class="feature reveal"><span class="num">2</span><div><h3>Confirm the details</h3><p>Zahid confirms the course, group size, location, and pricing with you directly.</p></div></div>
+          <div class="feature reveal"><span class="num">3</span><div><h3>Train &amp; get certified</h3><p>Complete the session and every graduate receives an official DOL OSHA wallet card.</p></div></div>
+        </div>
+        <div class="callout callout--tip" style="margin-top:28px">
+          <p><strong>Not sure which course you need?</strong> Read <a href="{{root}}guides/osha-10-vs-osha-30.html">OSHA 10 vs OSHA 30</a> or just pick "Not sure" on the form and Zahid will help.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--white">
+    <div class="container container--narrow">
+      <div class="sec-head center">
+        <span class="eyebrow">Booking FAQ</span>
+        <h2>Common questions about scheduling</h2>
+      </div>
+{{faq}}
+    </div>
+  </section>
+</main>
