@@ -13,7 +13,8 @@ committed, so GitHub Pages needs no build step.
 - `_tools/build.py`: generator (shared header/footer, schema markup, sitemap, llms.txt)
 - `index.html`, `services.html`, `about.html`, `book.html`, `contact.html`, `404.html`, `guides/`: **generated, don't edit by hand**
 - `css/style.css`, `js/main.js`: shared styles/behavior (edit directly)
-- `images/og-cover.png`, `images/logo.png`: social share image and logo
+- `images/`: site logo (`logo.svg`, `logo-reversed.svg`), Google logo (`logo.png`), favicons, and social share image (`og-cover.png`)
+- `brand/logo/`: full logo kit (all versions in SVG and PNG, icons, social avatar, preview sheet)
 - `robots.txt`: allows search engines and AI crawlers
 - `sitemap.xml`, `llms.txt`, `llms-full.txt`: **generated**
 

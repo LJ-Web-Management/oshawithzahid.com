@@ -70,13 +70,6 @@ ICONS = {
     "message": '<path d="M4 4h16v12H8l-4 4z"/>',
 }
 
-LOGO = ('<svg class="mark" viewBox="0 0 40 56" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">'
-        '<defs><clipPath id="{cid}"><rect width="40" height="56"/></clipPath></defs>'
-        '<path d="M9 0h22l9 9v47H0V9z" fill="#0A6B47"/><circle cx="20" cy="10" r="3.6" fill="#F2F1EB" stroke="#C8F23A" stroke-width="1.6"/>'
-        '<path d="M9 19h22v5.5L17 37.5h14V43H9v-5.5L23 24.5H9z" fill="#F2F1EB"/><rect y="47" width="40" height="9" fill="#C8F23A"/>'
-        '<g fill="#0D1A14" clip-path="url(#{cid})"><path d="M-12 56h3.5l9-9H-3z"/><path d="M-5 56h3.5l9-9H4z"/><path d="M2 56h3.5l9-9H11z"/>'
-        '<path d="M9 56h3.5l9-9H18z"/><path d="M16 56h3.5l9-9H25z"/><path d="M23 56h3.5l9-9H32z"/><path d="M30 56h3.5l9-9H39z"/>'
-        '<path d="M37 56h3.5l9-9H46z"/></g></svg>')
 
 
 def icon(name, cls=""):
@@ -235,6 +228,8 @@ def head(meta, root, canonical):
 <meta name="twitter:description" content="{esc(desc)}">
 <meta name="twitter:image" content="{OG_IMAGE}">
 <link rel="icon" type="image/svg+xml" href="{root}favicon.svg">
+<link rel="icon" type="image/png" sizes="32x32" href="{root}images/favicon-32.png">
+<link rel="apple-touch-icon" href="{root}images/apple-touch-icon.png">
 <link rel="alternate" type="text/plain" title="LLM summary" href="{root}llms.txt">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -255,8 +250,7 @@ def header(active, root):
 <header class="site-header">
   <div class="container nav">
     <a href="{root}index.html" class="brand" aria-label="Osha With Zahid, home">
-      {LOGO.format(cid="lh")}
-      <span class="brand-name">Osha With Zahid<small>OSHA Authorized Outreach Trainer</small></span>
+      <img class="brand-logo" src="{root}images/logo.svg" alt="Osha With Zahid" width="98" height="54">
     </a>
     <nav class="nav-links" id="navLinks" aria-label="Primary">
 {links}
@@ -282,7 +276,7 @@ def footer(root, guides, extra_scripts=""):
   <div class="container">
     <div class="footer-grid">
       <div>
-        <div class="footer-brand">{LOGO.format(cid="lf")}<span>Osha With Zahid</span></div>
+        <a class="footer-brand" href="{root}index.html"><img src="{root}images/logo-reversed.svg" alt="Osha With Zahid" width="146" height="80"></a>
         <p>OSHA 10 and 30-Hour Outreach training for Construction and General Industry, taught by Zahid Presswala. Based in Naperville, IL, serving Chicagoland and available on-site nationwide.</p>
         <p><a href="{OSHA_VERIFY}" target="_blank" rel="noopener">Verify Zahid on OSHA.gov &nearr;</a></p>
       </div>
