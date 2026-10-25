@@ -1,0 +1,69 @@
+<!--
+{
+  "out": "contact.html",
+  "nav": "contact",
+  "priority": "0.6",
+  "title": "Contact Zahid Presswala, OSHA Trainer in Naperville, IL | Osha With Zahid",
+  "llms_title": "Contact",
+  "description": "Contact Zahid Presswala, OSHA Authorized Outreach Trainer in Naperville, IL, about OSHA 10 and 30-Hour Construction and General Industry training, group quotes, and on-site classes.",
+  "breadcrumbs": [["Home", ""], ["Contact", "contact.html"]]
+}
+-->
+<main id="main">
+  <section class="page-hero">
+    <div class="container">
+      {{crumbs}}
+      <span class="eyebrow">Contact</span>
+      <h1 style="margin-top:12px">Questions before you book?</h1>
+      <p class="intro">Reach out directly, or head to the booking page to schedule a session or request a custom quote for your crew.</p>
+    </div>
+  </section>
+
+  <section class="section" style="padding-top:64px">
+    <div class="container split split--top">
+      <div>
+        <h2 style="font-size:1.6rem">Get in touch</h2>
+        <div class="contact-list">
+          <a class="contact-item" href="tel:{{tel}}"><span class="icon-box">{{icon:phone}}</span><span><small>Phone</small><strong>{{phone}}</strong></span></a>
+          <a class="contact-item" href="mailto:{{email}}"><span class="icon-box">{{icon:mail}}</span><span><small>Email</small><strong>{{email}}</strong></span></a>
+          <div class="contact-item"><span class="icon-box">{{icon:map-pin}}</span><span><small>Location</small><strong>Naperville, IL</strong><br><span style="font-size:.92rem;color:var(--ink-3)">Serving Chicagoland, on-site travel available</span></span></div>
+          <a class="contact-item" href="{{verify}}" target="_blank" rel="noopener"><span class="icon-box">{{icon:shield}}</span><span><small>Verified trainer</small><strong>View listing on OSHA.gov &nearr;</strong></span></a>
+        </div>
+        <a href="{{root}}book.html" class="btn btn-primary">Prefer to book now? {{icon:arrow}}</a>
+      </div>
+
+      <div class="panel">
+        <span class="eyebrow">{{icon:message}} Send a message</span>
+        <p style="margin-top:10px">Fill this out and it will open in your email app, addressed to Zahid.</p>
+        <form id="contactForm" action="mailto:{{email}}" method="post" enctype="text/plain">
+          <div class="form-field">
+            <label for="name">Full name</label>
+            <input type="text" id="name" name="Name" autocomplete="name" required>
+          </div>
+          <div class="form-field">
+            <label for="email">Email address</label>
+            <input type="email" id="email" name="Email" autocomplete="email" required>
+          </div>
+          <div class="form-field">
+            <label for="course">Course of interest</label>
+            <select id="course" name="Course of Interest">
+              <option>OSHA 10-Hour Construction</option>
+              <option>OSHA 30-Hour Construction</option>
+              <option>OSHA 10-Hour General Industry</option>
+              <option>OSHA 30-Hour General Industry</option>
+              <option>Custom Workshop</option>
+              <option>Not Sure Yet</option>
+            </select>
+          </div>
+          <div class="form-field">
+            <label for="message">Message</label>
+            <textarea id="message" name="Message" placeholder="Group size, preferred dates, location, and any questions..." required></textarea>
+          </div>
+          <button type="submit" class="btn btn-primary btn-block">Send message {{icon:arrow}}</button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+{{cta}}
+</main>

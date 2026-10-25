@@ -1,0 +1,87 @@
+<!--
+{
+  "out": "about.html",
+  "nav": "about",
+  "schema": "about",
+  "priority": "0.8",
+  "title": "About Zahid Presswala, OSHA Authorized Outreach Trainer | Osha With Zahid",
+  "llms_title": "About Zahid Presswala",
+  "description": "Meet Zahid Presswala, an OSHA-authorized Outreach Trainer for Construction and General Industry with 25+ years of field experience. Based in Naperville, IL, teaching in English, Gujarati, and Urdu.",
+  "breadcrumbs": [["Home", ""], ["About", "about.html"]]
+}
+-->
+<main id="main">
+  <section class="page-hero">
+    <div class="container">
+      {{crumbs}}
+      <span class="eyebrow">About Zahid</span>
+      <h1 style="margin-top:12px">25+ years of field experience, now in the classroom</h1>
+      <p class="intro">Field-tested safety training from someone who has actually worked the job sites he teaches about.</p>
+    </div>
+  </section>
+
+  <section class="section" style="padding-top:64px">
+    <div class="container split split--top">
+      <div class="profile-card" style="background:var(--forest);">
+        <div class="profile-top">
+          <span class="avatar" aria-hidden="true">ZP</span>
+          <div>
+            <strong>Zahid Presswala</strong>
+            <span>OSHA Authorized Outreach Trainer</span><br>
+            <a class="verified" href="{{verify}}" target="_blank" rel="noopener">{{icon:shield}}Verified on OSHA.gov</a>
+          </div>
+        </div>
+        <div class="stats">
+          <div class="stat"><strong>25+</strong><span>Years in the field</span></div>
+          <div class="stat"><strong>2</strong><span>Authorized industries</span></div>
+          <div class="stat"><strong>3</strong><span>Languages</span></div>
+          <div class="stat"><strong>IL</strong><span>Naperville based</span></div>
+        </div>
+        <a href="{{root}}book.html" class="btn btn-hivis">Book a session with Zahid {{icon:arrow}}</a>
+      </div>
+      <div>
+        <h2>Field-tested safety training, not just a slide deck</h2>
+        <p>I'm Zahid Presswala, an OSHA-authorized Outreach Trainer based in Naperville, Illinois. Before I ever stepped into a classroom, I spent 25+ years working construction and industrial job sites, which means the hazards I teach about aren't theoretical to me. I've seen what happens when safety procedures are skipped, and I've seen how the right training prevents it.</p>
+        <p>Today I teach OSHA 10 and 30-Hour Outreach courses for both Construction and General Industry. Every course meets OSHA Outreach Training Program requirements while staying grounded in how crews actually work day to day. Sessions run on-site at your location, at a shared venue, or as custom workshops built around your trade.</p>
+        <ul class="checklist">
+          <li>{{icon:check-circle}}<span>OSHA Outreach authorized trainer: <a href="{{verify}}" target="_blank" rel="noopener">verified listing on OSHA.gov</a></span></li>
+          <li>{{icon:check-circle}}<span>Authorized for Construction and General Industry Outreach courses</span></li>
+          <li>{{icon:check-circle}}<span>25+ years of hands-on construction and field safety experience</span></li>
+          <li>{{icon:check-circle}}<span>Instruction in English, Gujarati, and Urdu</span></li>
+          <li>{{icon:check-circle}}<span>Based in Naperville, IL, serving Chicagoland and available for on-site travel</span></li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--dark">
+    <div class="container">
+      <div class="sec-head">
+        <span class="eyebrow text-hivis">My approach</span>
+        <h2 style="margin-top:14px">Training built for the people doing the work</h2>
+      </div>
+      <div class="grid grid-3">
+        <div class="card reveal"><div class="icon-box">{{icon:hardhat}}</div><h3>Practical, not theoretical</h3><p>Every course is grounded in real job-site scenarios from 25+ years in the field.</p></div>
+        <div class="card reveal"><div class="icon-box">{{icon:clipboard}}</div><h3>Fully compliant</h3><p>Courses follow OSHA Outreach Training Program requirements and end with an official DOL wallet card.</p></div>
+        <div class="card reveal"><div class="icon-box">{{icon:globe}}</div><h3>Accessible to every crew</h3><p>Instruction in English, Gujarati, and Urdu, so language is never a barrier to safety.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--white">
+    <div class="container">
+      <div class="sec-head-row">
+        <div class="sec-head">
+          <span class="eyebrow">From Zahid's guides</span>
+          <h2>Learn before you book</h2>
+        </div>
+        <a href="{{root}}guides/" class="btn btn-ghost">All guides {{icon:arrow}}</a>
+      </div>
+      <div class="grid grid-3">
+{{guides:3}}
+      </div>
+    </div>
+  </section>
+
+{{cta}}
+</main>

@@ -2,27 +2,87 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://oshawithzahid.com/</loc>
-    <changefreq>monthly</changefreq>
+    <lastmod>2026-10-25</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://oshawithzahid.com/about.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://oshawithzahid.com/book.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://oshawithzahid.com/guides/</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://oshawithzahid.com/services.html</loc>
-    <changefreq>monthly</changefreq>
+    <lastmod>2026-10-25</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://oshawithzahid.com/book.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <loc>https://oshawithzahid.com/about.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://oshawithzahid.com/contact.html</loc>
-    <changefreq>yearly</changefreq>
+    <lastmod>2026-10-25</lastmod>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://oshawithzahid.com/guides/osha-10-vs-osha-30.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://oshawithzahid.com/guides/how-to-get-osha-10-card.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://oshawithzahid.com/guides/do-osha-cards-expire.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://oshawithzahid.com/guides/construction-vs-general-industry.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://oshawithzahid.com/guides/focus-four-hazards.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://oshawithzahid.com/guides/osha-fall-protection-requirements.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://oshawithzahid.com/guides/most-cited-osha-standards.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://oshawithzahid.com/guides/osha-training-requirements-illinois.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://oshawithzahid.com/guides/online-vs-in-person-osha-training.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://oshawithzahid.com/guides/how-to-verify-osha-card.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://oshawithzahid.com/guides/osha-penalties-employers.html</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.7</priority>
   </url>
 </urlset>
