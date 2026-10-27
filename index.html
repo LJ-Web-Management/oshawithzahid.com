@@ -35,7 +35,9 @@
 <link rel="icon" type="image/svg+xml" href="favicon.svg">
 <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32.png">
 <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+<link rel="manifest" href="site.webmanifest">
 <link rel="alternate" type="text/plain" title="LLM summary" href="llms.txt">
+<link rel="alternate" type="text/markdown" title="Markdown version" href="https://oshawithzahid.com/index.html.md">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@600;700;800&display=swap" rel="stylesheet">
@@ -82,6 +84,42 @@
           "name": "Chicagoland"
         },
         {
+          "@type": "City",
+          "name": "Aurora, IL"
+        },
+        {
+          "@type": "City",
+          "name": "Joliet, IL"
+        },
+        {
+          "@type": "City",
+          "name": "Bolingbrook, IL"
+        },
+        {
+          "@type": "City",
+          "name": "Schaumburg, IL"
+        },
+        {
+          "@type": "City",
+          "name": "Elgin, IL"
+        },
+        {
+          "@type": "City",
+          "name": "Downers Grove, IL"
+        },
+        {
+          "@type": "City",
+          "name": "Oak Brook, IL"
+        },
+        {
+          "@type": "City",
+          "name": "Elk Grove Village, IL"
+        },
+        {
+          "@type": "City",
+          "name": "Wheaton, IL"
+        },
+        {
           "@type": "State",
           "name": "Illinois"
         },
@@ -95,9 +133,26 @@
         "Gujarati",
         "Urdu"
       ],
+      "knowsAbout": [
+        "OSHA 10-Hour training",
+        "OSHA 30-Hour training",
+        "OSHA Outreach Training Program",
+        "Construction safety",
+        "General industry safety",
+        "Fall protection",
+        "Hazard communication"
+      ],
       "sameAs": [
         "https://www.osha.gov/dte/outreach/outreach_trainers?page=0&last_name=Presswala"
       ],
+      "potentialAction": {
+        "@type": "ReserveAction",
+        "name": "Book OSHA training",
+        "target": {
+          "@type": "EntryPoint",
+          "urlTemplate": "https://oshawithzahid.com/book.html"
+        }
+      },
       "hasOfferCatalog": {
         "@type": "OfferCatalog",
         "name": "OSHA Outreach Training Courses",
@@ -107,7 +162,7 @@
             "itemOffered": {
               "@type": "Course",
               "name": "OSHA 10-Hour Construction",
-              "url": "https://oshawithzahid.com/services.html#c10"
+              "url": "https://oshawithzahid.com/osha-10-construction.html"
             }
           },
           {
@@ -115,7 +170,7 @@
             "itemOffered": {
               "@type": "Course",
               "name": "OSHA 30-Hour Construction",
-              "url": "https://oshawithzahid.com/services.html#c30"
+              "url": "https://oshawithzahid.com/osha-30-construction.html"
             }
           },
           {
@@ -123,7 +178,7 @@
             "itemOffered": {
               "@type": "Course",
               "name": "OSHA 10-Hour General Industry",
-              "url": "https://oshawithzahid.com/services.html#gi10"
+              "url": "https://oshawithzahid.com/osha-10-general-industry.html"
             }
           },
           {
@@ -131,7 +186,7 @@
             "itemOffered": {
               "@type": "Course",
               "name": "OSHA 30-Hour General Industry",
-              "url": "https://oshawithzahid.com/services.html#gi30"
+              "url": "https://oshawithzahid.com/osha-30-general-industry.html"
             }
           }
         ]
@@ -328,25 +383,25 @@
         <a href="services.html" class="btn btn-ghost">Compare all courses <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
       </div>
       <div class="grid grid-4">
-        <a class="card course-card reveal" href="services.html#c10">
+        <a class="card course-card reveal" href="osha-10-construction.html">
           <div class="top"><span class="tag tag--green">Construction</span><span class="hours">10<small>hrs</small></span></div>
           <h3>OSHA 10 Construction</h3>
           <ul><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg>Focus Four hazards</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg>PPE &amp; health hazards</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg>Worker rights</li></ul>
           <span class="more">Course details <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>
         </a>
-        <a class="card course-card reveal" href="services.html#c30">
+        <a class="card course-card reveal" href="osha-30-construction.html">
           <div class="top"><span class="tag tag--green">Construction</span><span class="hours">30<small>hrs</small></span></div>
           <h3>OSHA 30 Construction</h3>
           <ul><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg>For supervisors &amp; leads</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg>Excavation, scaffolds, cranes</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg>Safety program basics</li></ul>
           <span class="more">Course details <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>
         </a>
-        <a class="card course-card gi reveal" href="services.html#gi10">
+        <a class="card course-card gi reveal" href="osha-10-general-industry.html">
           <div class="top"><span class="tag tag--ink">General Industry</span><span class="hours">10<small>hrs</small></span></div>
           <h3>OSHA 10 General Industry</h3>
           <ul><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg>Walking-working surfaces</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg>HazCom &amp; electrical</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg>Emergency action plans</li></ul>
           <span class="more">Course details <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>
         </a>
-        <a class="card course-card gi reveal" href="services.html#gi30">
+        <a class="card course-card gi reveal" href="osha-30-general-industry.html">
           <div class="top"><span class="tag tag--ink">General Industry</span><span class="hours">30<small>hrs</small></span></div>
           <h3>OSHA 30 General Industry</h3>
           <ul><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg>Lockout/tagout</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg>Confined spaces</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg>Recordkeeping</li></ul>
@@ -389,6 +444,76 @@
   </section>
 
   <section class="section section--white">
+    <div class="container">
+      <div class="sec-head-row">
+        <div class="sec-head">
+          <span class="eyebrow">Service areas</span>
+          <h2>On-site OSHA training across Chicagoland</h2>
+          <p>Based in Naperville and training crews at job sites, plants, and offices throughout Chicago and the suburbs, plus nationwide by arrangement.</p>
+        </div>
+        <a href="locations/" class="btn btn-ghost">All service areas <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+      </div>
+      <div class="grid grid-3">
+<a class="card reveal" href="locations/osha-training-chicago.html">
+  <div class="icon-box"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7-6.2-7-12a7 7 0 0 1 14 0c0 5.8-7 12-7 12z"/><circle cx="12" cy="9" r="2.5"/></svg></div>
+  <h3>OSHA training in Chicago</h3>
+  <p>On-site OSHA 10 and 30 at Chicago job sites, plants, and facilities, from the Loop to O&#x27;Hare.</p>
+</a>
+<a class="card reveal" href="locations/osha-training-naperville.html">
+  <div class="icon-box"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7-6.2-7-12a7 7 0 0 1 14 0c0 5.8-7 12-7 12z"/><circle cx="12" cy="9" r="2.5"/></svg></div>
+  <h3>OSHA training in Naperville</h3>
+  <p>Zahid&#x27;s home base. OSHA 10 and 30 on-site anywhere in Naperville with the easiest scheduling.</p>
+</a>
+<a class="card reveal" href="locations/osha-training-aurora.html">
+  <div class="icon-box"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7-6.2-7-12a7 7 0 0 1 14 0c0 5.8-7 12-7 12z"/><circle cx="12" cy="9" r="2.5"/></svg></div>
+  <h3>OSHA training in Aurora</h3>
+  <p>OSHA 10 and 30 for Aurora manufacturers, warehouses, and contractors along I-88.</p>
+</a>
+<a class="card reveal" href="locations/osha-training-joliet.html">
+  <div class="icon-box"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7-6.2-7-12a7 7 0 0 1 14 0c0 5.8-7 12-7 12z"/><circle cx="12" cy="9" r="2.5"/></svg></div>
+  <h3>OSHA training in Joliet</h3>
+  <p>On-site OSHA training for Joliet&#x27;s logistics hub, intermodal, and construction crews.</p>
+</a>
+<a class="card reveal" href="locations/osha-training-bolingbrook.html">
+  <div class="icon-box"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7-6.2-7-12a7 7 0 0 1 14 0c0 5.8-7 12-7 12z"/><circle cx="12" cy="9" r="2.5"/></svg></div>
+  <h3>OSHA training in Bolingbrook</h3>
+  <p>OSHA 10 and 30 for Bolingbrook&#x27;s I-55 distribution centers and contractors.</p>
+</a>
+<a class="card reveal" href="locations/osha-training-schaumburg.html">
+  <div class="icon-box"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7-6.2-7-12a7 7 0 0 1 14 0c0 5.8-7 12-7 12z"/><circle cx="12" cy="9" r="2.5"/></svg></div>
+  <h3>OSHA training in Schaumburg</h3>
+  <p>OSHA training for Schaumburg&#x27;s hotels, retail, offices, and commercial construction.</p>
+</a>
+<a class="card reveal" href="locations/osha-training-elgin.html">
+  <div class="icon-box"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7-6.2-7-12a7 7 0 0 1 14 0c0 5.8-7 12-7 12z"/><circle cx="12" cy="9" r="2.5"/></svg></div>
+  <h3>OSHA training in Elgin</h3>
+  <p>OSHA 10 and 30 for Elgin manufacturers, industrial parks, and contractors.</p>
+</a>
+<a class="card reveal" href="locations/osha-training-downers-grove.html">
+  <div class="icon-box"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7-6.2-7-12a7 7 0 0 1 14 0c0 5.8-7 12-7 12z"/><circle cx="12" cy="9" r="2.5"/></svg></div>
+  <h3>OSHA training in Downers Grove</h3>
+  <p>OSHA training for Downers Grove contractors, healthcare, and office facilities.</p>
+</a>
+<a class="card reveal" href="locations/osha-training-oak-brook.html">
+  <div class="icon-box"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7-6.2-7-12a7 7 0 0 1 14 0c0 5.8-7 12-7 12z"/><circle cx="12" cy="9" r="2.5"/></svg></div>
+  <h3>OSHA training in Oak Brook</h3>
+  <p>OSHA training for Oak Brook property management, corporate facilities, and contractors.</p>
+</a>
+<a class="card reveal" href="locations/osha-training-elk-grove-village.html">
+  <div class="icon-box"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7-6.2-7-12a7 7 0 0 1 14 0c0 5.8-7 12-7 12z"/><circle cx="12" cy="9" r="2.5"/></svg></div>
+  <h3>OSHA training in Elk Grove Village</h3>
+  <p>OSHA 10 and 30 for Elk Grove Village&#x27;s industrial park, plants, and data centers.</p>
+</a>
+<a class="card reveal" href="locations/osha-training-wheaton.html">
+  <div class="icon-box"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7-6.2-7-12a7 7 0 0 1 14 0c0 5.8-7 12-7 12z"/><circle cx="12" cy="9" r="2.5"/></svg></div>
+  <h3>OSHA training in Wheaton</h3>
+  <p>OSHA training for Wheaton contractors and public-sector teams under Illinois OSHA.</p>
+</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
     <div class="container">
       <div class="sec-head-row">
         <div class="sec-head">
@@ -490,11 +615,24 @@
       <div>
         <h4>Courses</h4>
         <ul>
-          <li><a href="services.html#c10">OSHA 10 Construction</a></li>
-          <li><a href="services.html#c30">OSHA 30 Construction</a></li>
-          <li><a href="services.html#gi10">OSHA 10 General Industry</a></li>
-          <li><a href="services.html#gi30">OSHA 30 General Industry</a></li>
-          <li><a href="book.html">Book a session</a></li>
+          <li><a href="osha-10-construction.html">OSHA 10 Construction</a></li>
+          <li><a href="osha-30-construction.html">OSHA 30 Construction</a></li>
+          <li><a href="osha-10-general-industry.html">OSHA 10 General Industry</a></li>
+          <li><a href="osha-30-general-industry.html">OSHA 30 General Industry</a></li>
+          <li><a href="on-site-osha-training.html">On-site group training</a></li>
+          <li><a href="osha-training-gujarati.html">Training in Gujarati</a></li>
+          <li><a href="osha-training-urdu.html">Training in Urdu</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Service areas</h4>
+        <ul>
+          <li><a href="locations/osha-training-chicago.html">Chicago</a></li>
+          <li><a href="locations/osha-training-naperville.html">Naperville</a></li>
+          <li><a href="locations/osha-training-aurora.html">Aurora</a></li>
+          <li><a href="locations/osha-training-joliet.html">Joliet</a></li>
+          <li><a href="locations/osha-training-schaumburg.html">Schaumburg</a></li>
+          <li><a href="locations/">All service areas &rarr;</a></li>
         </ul>
       </div>
       <div>
@@ -516,6 +654,7 @@
           <li>Naperville, IL</li>
           <li><a href="about.html">About Zahid</a></li>
           <li><a href="contact.html">Contact page</a></li>
+          <li><a href="book.html">Book a session</a></li>
         </ul>
       </div>
     </div>

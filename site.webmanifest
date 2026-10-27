@@ -1,0 +1,15 @@
+{
+  "name": "Osha With Zahid",
+  "short_name": "OSHA Zahid",
+  "description": "OSHA 10 and 30-Hour Construction and General Industry training with authorized trainer Zahid Presswala. On-site across Chicagoland.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "browser",
+  "background_color": "#ffffff",
+  "theme_color": "#0b2a20",
+  "icons": [
+    {"src": "/images/apple-touch-icon.png", "sizes": "180x180", "type": "image/png"},
+    {"src": "/brand/logo/oshawithzahid-icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml"}
+  ]
+}
