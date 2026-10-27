@@ -4,7 +4,7 @@
 
 URL: https://oshawithzahid.com/guides/osha-10-vs-osha-30.html
 Author: Zahid Presswala, OSHA Authorized Outreach Trainer
-Updated: 2026-10-25
+Updated: 2026-10-27
 
 **OSHA 10** is a 10-hour course for entry-level workers that teaches basic hazard recognition and worker rights. **OSHA 30** is a 30-hour course for supervisors, foremen, and anyone with safety responsibility, covering the same foundations in far more depth plus how to manage safety on a site. If you direct other people's work, take OSHA 30. If you're new to the trade, start with OSHA 10.
 
@@ -70,7 +70,7 @@ If you're in Illinois, see our [guide to OSHA training in Illinois](https://osha
 
 ## How much do OSHA 10 and OSHA 30 cost?
 
-Pricing varies by format. Self-paced online courses from OSHA-accepted providers commonly run under $100 for OSHA 10 and roughly $150 to $200 for OSHA 30. In-person classes are often priced per group, which can make on-site training cost-effective for a crew, especially once you count the value of hands-on discussion and a trainer who can answer questions about your actual site. [Request a group quote](https://oshawithzahid.com/book.html) for on-site pricing.
+Pricing varies by format, provider, and group size, and OSHA 30 costs more than OSHA 10 because it's three times as long. In-person classes are often priced per group, which can make on-site training cost-effective for a crew, especially once you count the value of hands-on discussion and a trainer who can answer questions about your actual site. [Request a group quote](https://oshawithzahid.com/book.html) for on-site pricing.
 
 ## How to choose for your crew
 

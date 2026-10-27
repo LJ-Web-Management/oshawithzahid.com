@@ -1,32 +1,32 @@
 # How Much Does OSHA 10 and OSHA 30 Training Cost?
 
-> Typical OSHA 10 and OSHA 30 prices for online courses, in-person classes, and on-site group training, what drives the cost, and how employers can lower the price per worker.
+> What OSHA 10 and OSHA 30 training costs depends on format, course length, and group size. How online, in-person, and on-site group pricing compare, and how employers can lower the cost per worker.
 
 URL: https://oshawithzahid.com/guides/osha-10-cost.html
 Author: Zahid Presswala, OSHA Authorized Outreach Trainer
 Updated: 2026-10-27
 
-As a general guide, online OSHA 10 courses from OSHA-authorized providers commonly cost about $60 to $90 per person, and online OSHA 30 courses about $160 to $200. In-person classes usually cost more per person, but on-site group training brings the per-worker price down as headcount grows. Prices well below these ranges, or promises of a card in one day, are warning signs of a fake card.
+There is no official OSHA price. Cost depends on the course (OSHA 30 costs more than OSHA 10), the format (self-paced online, in-person, or on-site), and group size. On-site group training spreads the trainer's cost across the whole crew, so the price per worker drops as headcount grows. Prices that seem far too low, or promises of a card in one day, are warning signs of a fake card. For an on-site quote, contact Zahid Presswala through the booking form.
 
 ## Key takeaways
 
-- Online OSHA 10 commonly runs about $60 to $90; online OSHA 30 about $160 to $200.
+- There is no official OSHA price; each authorized trainer and provider sets its own.
 - In-person and on-site classes are priced per person or per group, depending on the trainer.
 - On-site group training usually gives employers the lowest cost per worker for crews of five or more.
 - Every legitimate course ends with an official DOL card, so compare total cost, not just the sticker price.
 - A deal that skips the 10 or 30 hours is not a real OSHA card.
 
-## Typical OSHA 10 and OSHA 30 prices
+## How OSHA 10 and OSHA 30 pricing works
 
-There's no official price. OSHA authorizes trainers and online providers, and each sets its own rates. Here's what we commonly see in the market:
+There's no official price. OSHA authorizes trainers and online providers, and each sets its own rates. Here's how the formats compare:
 
 | Format | OSHA 10 | OSHA 30 | Notes |
 | --- | --- | --- | --- |
-| **Online (OSHA-authorized provider)** | About $60 to $90 | About $160 to $200 | Self-paced; limited to 7.5 hours per day |
+| **Online (OSHA-authorized provider)** | Priced per person | Priced per person, higher than OSHA 10 | Self-paced; limited to 7.5 hours per day |
 | **In-person public class** | Varies, usually more than online | Varies, usually more than online | Live trainer, fixed dates and location |
 | **On-site group class** | Quoted per group | Quoted per group | Cost per worker drops as headcount rises |
 
-These are general ranges, not quotes. Prices change, and many providers run discounts or volume pricing.
+Prices change, and many providers offer discounts or volume pricing. For on-site training, [request a quote](https://oshawithzahid.com/book.html) with your headcount and location.
 
 ## What affects the price
 
@@ -43,7 +43,7 @@ For a company, the sticker price is only part of the cost. Consider:
 - **Paid time and lost production** while workers train, which is the same whichever format you choose.
 - **Travel time** if you send people to an off-site class.
 - **Tracking** who finished an online course, and who didn't.
-- **Effectiveness.** Training that sticks prevents injuries and [OSHA penalties](https://oshawithzahid.com/guides/osha-penalties-employers.html), which can exceed $16,000 per serious violation.
+- **Effectiveness.** Training that sticks prevents injuries and [OSHA penalties](https://oshawithzahid.com/guides/osha-penalties-employers.html), which can run into the tens of thousands of dollars per violation.
 
 That's why many contractors and facilities choose [on-site group training](https://oshawithzahid.com/on-site-osha-training.html): one class, everyone done, no travel.
 
