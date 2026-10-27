@@ -1,0 +1,95 @@
+# OSHA 10-Hour Construction Training
+
+> OSHA 10-Hour Construction training taught on-site by authorized trainer Zahid Presswala. Focus Four hazards, PPE, and worker rights, plus an official DOL OSHA 10 card. Serving Chicago, Naperville and all of Chicagoland.
+
+URL: https://oshawithzahid.com/osha-10-construction.html
+Author: Zahid Presswala, OSHA Authorized Outreach Trainer
+Updated: 2026-10-27
+
+OSHA 10-Hour Construction is a 10-hour OSHA Outreach Training Program course that teaches entry-level construction workers to recognize and prevent job-site hazards, including OSHA's Focus Four: falls, electrocution, struck-by, and caught-in or between. It takes at least two days (OSHA caps class time at 7.5 hours per day) and ends with an official U.S. Department of Labor OSHA 10 wallet card. Zahid Presswala teaches it on-site across Chicagoland.
+
+| Length | 10 contact hours, at least 2 days |
+| --- | --- |
+| Standard | 29 CFR 1926 (Construction) |
+| Who it's for | Laborers, apprentices, new hires, and tradespeople |
+| Card | Official DOL OSHA 10-Hour Construction wallet card |
+| Format | In person, on-site at your job site, shop, or office |
+| Languages | English, Gujarati, Urdu |
+| Area | Chicago, Naperville, and all of Chicagoland; nationwide by arrangement |
+
+## What is OSHA 10-Hour Construction?
+
+OSHA 10-Hour Construction is the most requested safety course on American job sites. It's part of OSHA's voluntary **Outreach Training Program**, and it gives new and entry-level workers a working knowledge of the hazards they'll face on a construction site, how to protect themselves, and what their rights are under federal law.
+
+It is not a license or certification to perform a specific task. It _is_ the card most general contractors, project owners, and unions in the Chicago area ask to see before a worker steps on site.
+
+## What the course covers
+
+OSHA sets the outline for every Outreach course. The 10-hour Construction class includes:
+
+| Topic | Time | What you learn |
+| --- | --- | --- |
+| **Introduction to OSHA** | 2 hrs | Worker rights, employer responsibilities, how to file a complaint, how inspections work |
+| **Focus Four hazards** | 4 hrs | Falls, electrocution, struck-by, and caught-in or between, the leading causes of construction deaths |
+| **Personal protective and lifesaving equipment** | Required | Choosing, wearing, and inspecting PPE |
+| **Health hazards in construction** | Required | Noise, silica, lead, chemicals, heat, and other exposures |
+| **Electives** | 2+ hrs | Chosen for your crew, such as scaffolds, ladders and stairways, excavations, materials handling, or tools |
+
+Because Zahid chooses electives based on your work, a roofing crew spends its elective time on very different material than an electrical or concrete crew. See [what's covered in OSHA 10](https://oshawithzahid.com/guides/what-is-covered-in-osha-10.html) for the full breakdown.
+
+## Who should take OSHA 10 Construction?
+
+- **New hires and apprentices** starting their first construction job.
+- **Laborers and tradespeople**: carpenters, framers, drywall, concrete, roofing, masonry, electrical, plumbing, HVAC, painting, and demolition crews.
+- **Workers on projects that require a card**: hospitals, universities, data centers, public works, and most large commercial jobs in Cook, DuPage, Will, Kane, and Lake counties.
+- **Remodelers and small contractors** who want documented training for insurance and bids.
+
+If you supervise others or are responsible for site safety, [OSHA 30 Construction](https://oshawithzahid.com/osha-30-construction.html) is the better fit. Not sure? Read [OSHA 10 vs OSHA 30](https://oshawithzahid.com/guides/osha-10-vs-osha-30.html).
+
+## Why take it in person with Zahid?
+
+- **Taught by someone who's done the work.** Zahid has 25+ years on construction and industrial sites, so the examples come from real jobs.
+- **At your site, on your schedule.** No travel days, and the class can use your actual equipment and conditions as examples.
+- **In your crew's language.** Classes are available in English, Gujarati, and Urdu.
+- **Real questions, real answers.** Workers can ask about the scaffold, ladder, or trench they'll be on next week, which online courses can't offer.
+- **Legitimate cards.** Every graduate receives an official DOL card. [Here's how to verify one.](https://oshawithzahid.com/guides/how-to-verify-osha-card.html)
+
+## How to book an OSHA 10 Construction class
+
+1. [Fill out the booking form](https://oshawithzahid.com/book.html) with your headcount, location, and preferred dates.
+2. Zahid confirms the schedule, electives, language, and group price.
+3. Your crew trains on-site over two or more days and receives DOL wallet cards.
+
+**Tip:** If a project start date is driving the requirement, book at least two weeks ahead. A legitimate OSHA 10 can't be finished in one day.
+
+## Frequently asked questions
+
+### How long does the OSHA 10 Construction course take?
+
+OSHA 10 is 10 contact hours. OSHA's Outreach rules limit training to 7.5 hours per day, so the class always runs at least two days. Most on-site classes are scheduled as two consecutive days.
+
+### Is the OSHA 10 card from this class official?
+
+Yes. Zahid Presswala is an OSHA-authorized Outreach Trainer for Construction, listed in OSHA's trainer directory. Students who complete the course receive the official U.S. Department of Labor OSHA 10-Hour Construction wallet card.
+
+### When will I get my OSHA 10 card?
+
+You leave class with proof of completion, and OSHA requires authorized trainers to issue the official wallet card within 90 days of the course. Most students receive it well before that.
+
+### Is there a test at the end of OSHA 10?
+
+OSHA requires trainers to verify that students have learned the material. In Zahid's classes that means participation, hands-on discussion, and a short knowledge check covering the main topics.
+
+### Can you teach OSHA 10 at our job site?
+
+Yes. On-site training is the most common format. Zahid brings everything needed and teaches at your job site trailer, shop, office, or a nearby venue anywhere in Chicagoland.
+
+### How much does OSHA 10 Construction cost?
+
+On-site group classes are quoted per group, so the per-person cost goes down as your headcount goes up. Send your headcount and location through the booking form for a quote. See our [OSHA 10 and 30 cost guide](https://oshawithzahid.com/guides/osha-10-cost.html) for typical market prices.
+
+## Sources & further reading
+
+- [OSHA Outreach Training Program](https://www.osha.gov/training/outreach)
+- [OSHA Outreach Training Program: Construction Industry Procedures](https://www.osha.gov/training/outreach/construction)
+- [OSHA Construction Industry standards (29 CFR 1926)](https://www.osha.gov/laws-regs/regulations/standardnumber/1926)

@@ -3,8 +3,10 @@
 
 Sources live in _src/ (pages/ and guides/). Each source file starts with a
 JSON front-matter block inside an HTML comment, followed by the page body.
-Running this script writes finished HTML to the repo root, plus sitemap.xml,
-llms.txt and llms-full.txt. GitHub Pages (Jekyll) ignores folders that start
+Keyword landing pages (courses, service areas, languages) live in
+_src/landing/. Running this script writes finished HTML to the repo root, a
+Markdown copy of every page (page.html.md, for AI assistants), plus
+sitemap.xml, llms.txt and llms-full.txt. GitHub Pages (Jekyll) ignores folders that start
 with an underscore, so _src/ and _tools/ are never published.
 
 Usage:  python3 _tools/build.py
@@ -16,6 +18,7 @@ import json
 import math
 import re
 from pathlib import Path
+from urllib.parse import urljoin
 
 ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "_src"
@@ -68,6 +71,21 @@ ICONS = {
     "award": '<circle cx="12" cy="9" r="6"/><path d="m8.5 14-1.5 8 5-3 5 3-1.5-8"/>',
     "tool": '<path d="M14.7 6.3a4 4 0 0 0-5.4 5.4L3 18l3 3 6.3-6.3a4 4 0 0 0 5.4-5.4l-2.5 2.5-2.4-.6-.6-2.4z"/>',
     "message": '<path d="M4 4h16v12H8l-4 4z"/>',
+    "building": '<rect x="4" y="3" width="16" height="18" rx="1.5"/><path d="M9 7h1M14 7h1M9 11h1M14 11h1M9 15h1M14 15h1M10 21v-3h4v3"/>',
+}
+
+COURSE_PAGES = {
+    "c10": "osha-10-construction.html",
+    "c30": "osha-30-construction.html",
+    "gi10": "osha-10-general-industry.html",
+    "gi30": "osha-30-general-industry.html",
+}
+
+LANDING_KINDS = {
+    "course": "Courses",
+    "location": "Service areas",
+    "language": "Languages",
+    "service": "Training formats",
 }
 
 
@@ -162,18 +180,31 @@ BUSINESS = {
         {"@type": "City", "name": "Naperville, IL"},
         {"@type": "City", "name": "Chicago, IL"},
         {"@type": "AdministrativeArea", "name": "Chicagoland"},
+        {"@type": "City", "name": "Aurora, IL"},
+        {"@type": "City", "name": "Joliet, IL"},
+        {"@type": "City", "name": "Bolingbrook, IL"},
+        {"@type": "City", "name": "Schaumburg, IL"},
+        {"@type": "City", "name": "Elgin, IL"},
+        {"@type": "City", "name": "Downers Grove, IL"},
+        {"@type": "City", "name": "Oak Brook, IL"},
+        {"@type": "City", "name": "Elk Grove Village, IL"},
+        {"@type": "City", "name": "Wheaton, IL"},
         {"@type": "State", "name": "Illinois"},
         {"@type": "Country", "name": "United States"},
     ],
     "knowsLanguage": ["English", "Gujarati", "Urdu"],
+    "knowsAbout": ["OSHA 10-Hour training", "OSHA 30-Hour training", "OSHA Outreach Training Program",
+                   "Construction safety", "General industry safety", "Fall protection", "Hazard communication"],
     "sameAs": [OSHA_VERIFY],
+    "potentialAction": {"@type": "ReserveAction", "name": "Book OSHA training",
+                        "target": {"@type": "EntryPoint", "urlTemplate": SITE + "/book.html"}},
     "hasOfferCatalog": {
         "@type": "OfferCatalog",
         "name": "OSHA Outreach Training Courses",
         "itemListElement": [
-            {"@type": "Offer", "itemOffered": {"@type": "Course", "name": n, "url": SITE + "/services.html#" + a}}
-            for n, a in [("OSHA 10-Hour Construction", "c10"), ("OSHA 30-Hour Construction", "c30"),
-                         ("OSHA 10-Hour General Industry", "gi10"), ("OSHA 30-Hour General Industry", "gi30")]
+            {"@type": "Offer", "itemOffered": {"@type": "Course", "name": n, "url": f"{SITE}/{a}.html"}}
+            for n, a in [("OSHA 10-Hour Construction", "osha-10-construction"), ("OSHA 30-Hour Construction", "osha-30-construction"),
+                         ("OSHA 10-Hour General Industry", "osha-10-general-industry"), ("OSHA 30-Hour General Industry", "osha-30-general-industry")]
         ],
     },
 }
@@ -194,6 +225,8 @@ def head(meta, root, canonical):
                         f'\n<meta property="article:author" content="Zahid Presswala">'
                         f'\n<meta property="article:section" content="{esc(CATEGORIES[meta["category"]])}">')
     canon = f'<link rel="canonical" href="{canonical}">\n' if canonical else ""
+    md_url = canonical + ("index.html.md" if canonical and canonical.endswith("/") else ".md") if canonical else ""
+    md_link = f'\n<link rel="alternate" type="text/markdown" title="Markdown version" href="{md_url}">' if md_url else ""
     return f"""<!doctype html>
 <html lang="en">
 <head>
@@ -230,7 +263,8 @@ def head(meta, root, canonical):
 <link rel="icon" type="image/svg+xml" href="{root}favicon.svg">
 <link rel="icon" type="image/png" sizes="32x32" href="{root}images/favicon-32.png">
 <link rel="apple-touch-icon" href="{root}images/apple-touch-icon.png">
-<link rel="alternate" type="text/plain" title="LLM summary" href="{root}llms.txt">
+<link rel="manifest" href="{root}site.webmanifest">
+<link rel="alternate" type="text/plain" title="LLM summary" href="{root}llms.txt">{md_link}
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@600;700;800&display=swap" rel="stylesheet">
@@ -283,11 +317,24 @@ def footer(root, guides, extra_scripts=""):
       <div>
         <h4>Courses</h4>
         <ul>
-          <li><a href="{root}services.html#c10">OSHA 10 Construction</a></li>
-          <li><a href="{root}services.html#c30">OSHA 30 Construction</a></li>
-          <li><a href="{root}services.html#gi10">OSHA 10 General Industry</a></li>
-          <li><a href="{root}services.html#gi30">OSHA 30 General Industry</a></li>
-          <li><a href="{root}book.html">Book a session</a></li>
+          <li><a href="{root}osha-10-construction.html">OSHA 10 Construction</a></li>
+          <li><a href="{root}osha-30-construction.html">OSHA 30 Construction</a></li>
+          <li><a href="{root}osha-10-general-industry.html">OSHA 10 General Industry</a></li>
+          <li><a href="{root}osha-30-general-industry.html">OSHA 30 General Industry</a></li>
+          <li><a href="{root}on-site-osha-training.html">On-site group training</a></li>
+          <li><a href="{root}osha-training-gujarati.html">Training in Gujarati</a></li>
+          <li><a href="{root}osha-training-urdu.html">Training in Urdu</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Service areas</h4>
+        <ul>
+          <li><a href="{root}locations/osha-training-chicago.html">Chicago</a></li>
+          <li><a href="{root}locations/osha-training-naperville.html">Naperville</a></li>
+          <li><a href="{root}locations/osha-training-aurora.html">Aurora</a></li>
+          <li><a href="{root}locations/osha-training-joliet.html">Joliet</a></li>
+          <li><a href="{root}locations/osha-training-schaumburg.html">Schaumburg</a></li>
+          <li><a href="{root}locations/">All service areas &rarr;</a></li>
         </ul>
       </div>
       <div>
@@ -305,6 +352,7 @@ def footer(root, guides, extra_scripts=""):
           <li>Naperville, IL</li>
           <li><a href="{root}about.html">About Zahid</a></li>
           <li><a href="{root}contact.html">Contact page</a></li>
+          <li><a href="{root}book.html">Book a session</a></li>
         </ul>
       </div>
     </div>
@@ -372,6 +420,14 @@ def guide_card(g, root, heading="h3"):
 </a>"""
 
 
+def landing_card(p, root):
+    return f"""<a class="card reveal" href="{root}{p['out']}">
+  <div class="icon-box">{icon(p.get('icon', 'map-pin'))}</div>
+  <h3>{esc(p.get('card_title', p['short']))}</h3>
+  <p>{esc(p.get('card_text', p['description']))}</p>
+</a>"""
+
+
 def cta_band(root, title="Ready to get your crew trained?",
              text="Book OSHA 10 or 30-Hour training on-site at your location. One short form, and Zahid follows up to confirm the details."):
     return f"""<section class="section--tight">
@@ -430,6 +486,8 @@ def render_template(body, root, guides, meta):
         if key == "guides":
             picked = guides if arg == "all" else [g for g in guides if g.get("featured")][: int(arg)]
             return "\n".join(guide_card(g, root) for g in picked)
+        if key == "landings":
+            return "\n".join(landing_card(p, root) for p in LANDINGS if p["kind"] == arg)
         if key == "filters":
             btns = ['<button class="filter" data-filter="all" aria-pressed="true">All guides</button>']
             btns += [f'<button class="filter" data-filter="{k}" aria-pressed="false">{esc(v)}</button>' for k, v in CATEGORIES.items()]
@@ -466,7 +524,7 @@ def build_page(path, guides):
         ]:
             courses.append({
                 "@type": "Course", "@id": f"{SITE}/services.html#{cid}", "name": name, "description": desc,
-                "url": f"{SITE}/services.html#{cid}", "provider": {"@id": ORG_ID},
+                "url": f"{SITE}/{COURSE_PAGES[cid]}", "provider": {"@id": ORG_ID},
                 "educationalCredentialAwarded": f"DOL OSHA {hours}-Hour {field} wallet card",
                 "inLanguage": ["en", "gu", "ur"], "teaches": f"OSHA {field} safety standards and hazard recognition",
                 "timeRequired": f"PT{hours}H",
@@ -492,7 +550,11 @@ def build_page(path, guides):
     page = head(meta, root, canonical) + "\n" + header(meta.get("nav"), root) + content + footer(root, guides, extra)
     (ROOT / out).parent.mkdir(parents=True, exist_ok=True)
     (ROOT / out).write_text(page, encoding="utf-8")
-    return {"loc": canonical, "meta": meta, "text": strip_tags(content)} if canonical else None
+    if not canonical:
+        return None
+    if out.endswith(".html"):
+        write_md(out, meta.get("og_title", meta["title"]), canonical, meta["description"], content)
+    return {"loc": canonical, "meta": meta, "text": strip_tags(content)}
 
 
 def build_guide(g, guides):
@@ -643,22 +705,314 @@ def build_guide(g, guides):
     out = ROOT / "guides" / f"{g['slug']}.html"
     out.parent.mkdir(exist_ok=True)
     out.write_text(page, encoding="utf-8")
+    write_md(f"guides/{g['slug']}.html", g["title"], canonical, g["description"],
+             answer + takeaways + body + faq_block + sources, updated=g["updated"])
     text = strip_tags(f"<p>{g.get('answer', '')}</p>" + body + "".join(f"<h3>{q}</h3><p>{a}</p>" for q, a in faq))
     return {"loc": canonical, "meta": g, "text": text}
+
+
+def html_to_md(h, base):
+    """Convert the site's own (simple, well-formed) HTML to Markdown."""
+    h = re.sub(r"<(script|style|svg|aside|nav)[^>]*>.*?</\1>", "", h, flags=re.S)
+    h = re.sub(r'<span class="eyebrow">.*?</span>', "", h, flags=re.S)
+    h = re.sub(r"<summary>(.*?)</summary>", r"\n### \1\n", h, flags=re.S)
+    for n in range(1, 5):
+        h = re.sub(rf"<h{n}[^>]*>(.*?)</h{n}>", lambda m, n=n: "\n" + "#" * n + " " + m.group(1) + "\n", h, flags=re.S)
+    h = re.sub(r'<a [^>]*href="([^"]+)"[^>]*>(.*?)</a>',
+               lambda m: f"[{m.group(2)}]({urljoin(base, html.unescape(m.group(1)))})", h, flags=re.S)
+    h = re.sub(r"</li>\s+<li", "</li><li", h)
+    h = re.sub(r"</?(strong|b)>", "**", h)
+    h = re.sub(r"</?(em|i)>", "_", h)
+
+    def table(m):
+        rows = re.findall(r"<tr[^>]*>(.*?)</tr>", m.group(0), flags=re.S)
+        out = []
+        for i, r in enumerate(rows):
+            cells = [re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", c)).strip() for c in re.findall(r"<t[hd][^>]*>(.*?)</t[hd]>", r, flags=re.S)]
+            out.append("| " + " | ".join(cells) + " |")
+            if i == 0:
+                out.append("|" + " --- |" * len(cells))
+        return "\n" + "\n".join(out) + "\n"
+    h = re.sub(r"<table[^>]*>.*?</table>", table, h, flags=re.S)
+
+    def ol(m):
+        items = re.findall(r"<li[^>]*>(.*?)</li>", m.group(1), flags=re.S)
+        return "\n" + "\n".join(f"{i + 1}. {x.strip()}" for i, x in enumerate(items)) + "\n"
+    h = re.sub(r"<ol[^>]*>(.*?)</ol>", ol, h, flags=re.S)
+    h = re.sub(r"<li[^>]*>(.*?)</li>", lambda m: "\n- " + m.group(1).strip(), h, flags=re.S)
+    h = re.sub(r"</(p|ul|div|section|tr)>", "\n\n", h)
+    h = re.sub(r"<br\s*/?>", "\n", h)
+    h = re.sub(r"<[^>]+>", "", h)
+    h = html.unescape(h)
+    h = re.sub(r"[ \t]+", " ", h)
+    h = "\n".join(line.strip() for line in h.splitlines())
+    return re.sub(r"\n{3,}", "\n\n", h).strip()
+
+
+def write_md(out, title, url, desc, content_html, updated=None):
+    """Write a Markdown copy at <page>.html.md, per the llms.txt convention."""
+    meta = f"URL: {url}\nAuthor: Zahid Presswala, OSHA Authorized Outreach Trainer\n"
+    if updated:
+        meta += f"Updated: {updated}\n"
+    md = f"# {title}\n\n> {desc}\n\n{meta}\n{html_to_md(content_html, url)}\n"
+    md = re.sub(r"\A(# .*\n\n> .*\n\n(?:.*\n)+?\n)# [^\n]*\n", r"\1", md)  # drop duplicate H1 from the body
+    (ROOT / (out + ".md")).write_text(md, encoding="utf-8")
+
+
+# ---------- Keyword landing pages ----------
+
+def load_landings():
+    items = []
+    for path in sorted((SRC / "landing").glob("*.html")):
+        meta, body = parse(path)
+        meta["slug"] = path.stem
+        meta["body"] = body
+        meta.setdefault("short", meta["title"])
+        items.append(meta)
+    items.sort(key=lambda p: (list(LANDING_KINDS).index(p["kind"]), p.get("order", 99), p["title"]))
+    return items
+
+
+def landing_schema(p, canonical):
+    kind = p["kind"]
+    if kind == "course":
+        c = p["course"]
+        return {
+            "@context": "https://schema.org",
+            "@type": "Course",
+            "@id": canonical + "#course",
+            "name": c["name"],
+            "description": p["description"],
+            "url": canonical,
+            "courseCode": c.get("code"),
+            "provider": {"@type": "Organization", "@id": ORG_ID, "name": "Osha With Zahid", "url": SITE + "/"},
+            "educationalCredentialAwarded": f"U.S. Department of Labor OSHA {c['hours']}-Hour {c['field']} Outreach wallet card",
+            "educationalLevel": c.get("level", "Beginner"),
+            "audience": {"@type": "Audience", "audienceType": c["audience"]},
+            "teaches": c["teaches"],
+            "about": [{"@type": "Thing", "name": f"OSHA {c['field']} safety standards ({c['cfr']})"}],
+            "inLanguage": ["en", "gu", "ur"],
+            "availableLanguage": ["English", "Gujarati", "Urdu"],
+            "timeRequired": f"PT{c['hours']}H",
+            "isAccessibleForFree": False,
+            "hasCourseInstance": [{
+                "@type": "CourseInstance",
+                "courseMode": "Onsite",
+                "courseWorkload": f"PT{c['hours']}H",
+                "courseSchedule": {"@type": "Schedule", "repeatFrequency": "P1D", "repeatCount": c["min_days"]},
+                "instructor": {"@id": PERSON_ID, "@type": "Person", "name": "Zahid Presswala"},
+                "location": {"@type": "Place", "name": "Your job site, shop, office, or a shared venue in Chicagoland",
+                             "address": {"@type": "PostalAddress", "addressLocality": "Naperville", "addressRegion": "IL", "addressCountry": "US"}},
+            }],
+            "offers": {"@type": "Offer", "category": "Paid", "url": SITE + "/book.html",
+                       "availability": "https://schema.org/InStock", "seller": {"@id": ORG_ID}},
+        }
+    service = {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "@id": canonical + "#service",
+        "name": p["title"],
+        "serviceType": "OSHA Outreach Training (OSHA 10-Hour and 30-Hour)",
+        "description": p["description"],
+        "url": canonical,
+        "provider": {**{k: v for k, v in BUSINESS.items() if k != "hasOfferCatalog"}},
+        "availableChannel": {"@type": "ServiceChannel", "serviceUrl": SITE + "/book.html",
+                             "servicePhone": {"@type": "ContactPoint", "telephone": "+1-847-863-4798", "contactType": "booking"}},
+        "offers": {"@type": "Offer", "url": SITE + "/book.html", "availability": "https://schema.org/InStock"},
+    }
+    if kind == "location":
+        loc = p["location"]
+        service["areaServed"] = {"@type": "City", "name": f"{loc['city']}, IL",
+                                 "containedInPlace": {"@type": "AdministrativeArea", "name": loc["county"]}}
+    else:
+        service["areaServed"] = BUSINESS["areaServed"]
+    if kind == "language":
+        service["availableLanguage"] = {"@type": "Language", "name": p["language"]["name"], "alternateName": p["language"]["code"]}
+    return service
+
+
+def build_landing(p, guides):
+    out = p["out"]
+    root = "../" * out.count("/")
+    canonical = f"{SITE}/{out}"
+    body = p["body"]
+
+    toc = []
+    def h2(m):
+        attrs, inner = m.group(1), m.group(2)
+        idm = re.search(r'id="([^"]+)"', attrs)
+        hid = idm.group(1) if idm else slugify(inner)
+        toc.append((hid, re.sub(r"<[^>]+>", "", inner)))
+        return f'<h2 id="{hid}">{inner}</h2>' if not idm else m.group(0)
+    body = re.sub(r"<h2([^>]*)>(.*?)</h2>", h2, body)
+    body = render_template(body, root, guides, p)
+
+    crumbs = [("Home", "")]
+    if p["kind"] == "location":
+        crumbs.append(("Service areas", "locations/"))
+    elif p["kind"] == "course":
+        crumbs.append(("Courses", "services.html"))
+    crumbs.append((p["short"], out))
+    faq = p.get("faq", [])
+    if faq:
+        toc.append(("faq", "Frequently asked questions"))
+
+    webpage_ld = {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": canonical,
+        "url": canonical,
+        "name": p["title"],
+        "description": p["description"],
+        "inLanguage": "en-US",
+        "datePublished": p["published"],
+        "dateModified": p["updated"],
+        "isPartOf": {"@type": "WebSite", "@id": SITE + "/#website", "url": SITE + "/", "name": "Osha With Zahid"},
+        "author": {"@id": PERSON_ID, "@type": "Person", "name": "Zahid Presswala"},
+        "keywords": p.get("keywords", []),
+        "speakable": {"@type": "SpeakableSpecification", "cssSelector": [".answer-box p"]},
+    }
+    lds = [webpage_ld, landing_schema(p, canonical), breadcrumbs_ld(crumbs)]
+    if faq:
+        lds.append(faq_ld(faq))
+
+    meta = {
+        "title": p.get("seo_title", p["title"] + " | Osha With Zahid"),
+        "og_title": p["title"],
+        "description": p["description"],
+        "_ld": [ld(x) for x in lds],
+    }
+
+    toc_html = "\n".join(f'          <li><a href="#{hid}">{esc(t)}</a></li>' for hid, t in toc)
+    answer = ""
+    if p.get("answer"):
+        answer = f'<div class="answer-box"><span class="eyebrow">{icon("check-circle")} Quick answer</span><p>{p["answer"]}</p></div>'
+    facts = ""
+    if p.get("facts"):
+        rows = "".join(f"<tr><th scope='row'>{esc(k)}</th><td>{v}</td></tr>" for k, v in p["facts"])
+        facts = f'<div class="table-wrap"><table class="facts"><caption class="visually-hidden">At a glance</caption><tbody>{rows}</tbody></table></div>'
+    highlights = ""
+    if p.get("highlights"):
+        lis = "".join(f"<li>{icon('check')}<span>{t}</span></li>" for t in p["highlights"])
+        highlights = f'<div class="takeaways"><h2 id="highlights">At a glance</h2><ul>{lis}</ul></div>'
+        toc.insert(0, ("highlights", "At a glance"))
+        toc_html = "\n".join(f'          <li><a href="#{hid}">{esc(t)}</a></li>' for hid, t in toc)
+    faq_block = ""
+    if faq:
+        faq_block = f'<section class="article-faq"><h2 id="faq">Frequently asked questions</h2>\n{faq_html(faq)}</section>'
+    sources = ""
+    if p.get("sources"):
+        lis = "".join(f'<li><a href="{esc(u)}" target="_blank" rel="noopener">{esc(t)}</a></li>' for t, u in p["sources"])
+        sources = f'<div class="sources"><h2 id="sources">Sources &amp; further reading</h2><ul>{lis}</ul></div>'
+
+    siblings = [x for x in LANDINGS if x["slug"] in p.get("related_pages", [])]
+    sibling_html = "\n".join(landing_card(x, root) for x in siblings[:6])
+    related = [x for x in guides if x["slug"] in p.get("related", [])][:3]
+    related_html = "\n".join(guide_card(x, root) for x in related)
+
+    content = f"""<main id="main">
+  <article>
+  <header class="article-hero">
+    <div class="container">
+      {breadcrumbs_html(crumbs, root)}
+      <span class="tag tag--green">{esc(p.get('eyebrow', LANDING_KINDS[p['kind']]))}</span>
+      <h1 style="margin-top:16px">{esc(p['title'])}</h1>
+      <p class="dek">{p['dek']}</p>
+      <div class="hero-actions" style="margin-top:24px">
+        <a href="{root}book.html" class="btn btn-primary">Book training {icon('arrow')}</a>
+        <a href="tel:{PHONE_TEL}" class="btn btn-ghost">{icon('phone')} {PHONE}</a>
+      </div>
+      <div class="byline">
+        <span class="avatar" aria-hidden="true">ZP</span>
+        <div class="who"><strong>Taught by <a href="{root}about.html" rel="author">Zahid Presswala</a></strong>OSHA Authorized Outreach Trainer &middot; <a href="{esc(OSHA_VERIFY)}" target="_blank" rel="noopener">Verified on OSHA.gov</a> &middot; Updated <time datetime="{p['updated']}">{fmt_date(p['updated'])}</time></div>
+      </div>
+    </div>
+  </header>
+
+  <div class="container article-layout">
+    <div class="prose">
+      {answer}
+      {facts}
+      {highlights}
+{body}
+      {faq_block}
+      {sources}
+      <div class="author-box">
+        <span class="avatar" aria-hidden="true">ZP</span>
+        <div>
+          <h3>Your trainer: Zahid Presswala</h3>
+          <p>Zahid is an OSHA-authorized Outreach Trainer for Construction and General Industry with more than 25 years of hands-on field experience. He teaches OSHA 10 and 30-Hour courses on-site across Chicagoland and beyond, in English, Gujarati, and Urdu, and every graduate receives an official DOL wallet card.</p>
+          <a href="{root}about.html">More about Zahid &rarr;</a> &nbsp; <a href="{esc(OSHA_VERIFY)}" target="_blank" rel="noopener">Verify on OSHA.gov &nearr;</a>
+        </div>
+      </div>
+    </div>
+    <aside class="article-aside" aria-label="On this page">
+      <div class="sticky">
+        <nav class="toc" aria-label="Table of contents">
+          <h4>On this page</h4>
+          <ol>
+{toc_html}
+          </ol>
+        </nav>
+        <div class="aside-cta">
+          <h4>Get a quote for your crew</h4>
+          <p>OSHA 10 &amp; 30-Hour courses on-site at your location. Group pricing. Official DOL cards.</p>
+          <a href="{root}book.html" class="btn btn-hivis btn-sm">Book a session {icon('arrow')}</a>
+        </div>
+      </div>
+    </aside>
+  </div>
+  </article>
+"""
+    if sibling_html:
+        content += f"""
+  <section class="section section--white">
+    <div class="container">
+      <div class="sec-head"><span class="eyebrow">Explore more</span><h2>{esc(p.get('related_heading', 'Related training pages'))}</h2></div>
+      <div class="grid grid-3">
+{sibling_html}
+      </div>
+    </div>
+  </section>
+"""
+    if related_html:
+        content += f"""
+  <section class="section">
+    <div class="container">
+      <div class="sec-head-row">
+        <div class="sec-head"><span class="eyebrow">Free guides</span><h2>Helpful reading</h2></div>
+        <a href="{root}guides/" class="btn btn-ghost">All guides {icon('arrow')}</a>
+      </div>
+      <div class="grid grid-3">
+{related_html}
+      </div>
+    </div>
+  </section>
+"""
+    content += f"""
+  {cta_band(root)}
+</main>
+"""
+    page = head(meta, root, canonical) + "\n" + header(p.get("nav", "services"), root) + content + footer(root, guides)
+    (ROOT / out).parent.mkdir(parents=True, exist_ok=True)
+    (ROOT / out).write_text(page, encoding="utf-8")
+    write_md(out, p["title"], canonical, p["description"], answer + facts + highlights + body + faq_block + sources, updated=p["updated"])
+    text = strip_tags(f"<p>{p.get('answer', '')}</p>" + body + "".join(f"<h3>{q}</h3><p>{a}</p>" for q, a in faq))
+    return {"loc": canonical, "meta": p, "text": text}
 
 
 def write_sitemap(entries):
     rows = []
     for e in entries:
         lastmod = e["meta"].get("updated", BUILD_DATE)
-        prio = e["meta"].get("priority", "0.7")
+        prio = e["meta"].get("priority", "0.8" if "kind" in e["meta"] else "0.7")
         rows.append(f"  <url>\n    <loc>{e['loc']}</loc>\n    <lastmod>{lastmod}</lastmod>\n    <priority>{prio}</priority>\n  </url>")
     (ROOT / "sitemap.xml").write_text(
         '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
         + "\n".join(rows) + "\n</urlset>\n", encoding="utf-8")
 
 
-def write_llms(pages, guides_out):
+def write_llms(pages, landings_out, guides_out):
     intro = f"""# Osha With Zahid
 
 > Osha With Zahid is the training business of Zahid Presswala, an OSHA-authorized Outreach Trainer for Construction and General Industry based in Naperville, Illinois. Zahid has 25+ years of hands-on field experience and teaches OSHA 10-Hour and 30-Hour Outreach courses on-site at job sites, shops, and offices across Chicagoland and nationwide, in English, Gujarati, and Urdu. Every course ends with an official U.S. Department of Labor (DOL) OSHA wallet card.
@@ -676,31 +1030,42 @@ Key facts:
     lines = [intro, "## Main pages\n"]
     for e in pages:
         lines.append(f"- [{e['meta'].get('llms_title', e['meta']['title'])}]({e['loc']}): {e['meta']['description']}")
+    for kind, label in LANDING_KINDS.items():
+        rows = [e for e in landings_out if e["meta"]["kind"] == kind]
+        if rows:
+            lines.append(f"\n## {label}\n")
+            lines += [f"- [{e['meta']['title']}]({e['loc']}): {e['meta']['description']}" for e in rows]
     lines.append("\n## Guides\n")
     for e in guides_out:
         g = e["meta"]
         lines.append(f"- [{g['title']}]({e['loc']}): {g['description']}")
-    lines.append(f"\n## Optional\n\n- [Full text of all guides]({SITE}/llms-full.txt): plain-text version of every guide on this site.\n")
+    lines.append(f"\n## For AI agents\n\n- [Agent instructions]({SITE}/agents.md): how to help a user book, choose a course, or contact Zahid, plus facts to keep accurate.\n- [AI usage policy]({SITE}/ai.txt)")
+    lines.append(f"\n## Optional\n\n- [Full text of all pages and guides]({SITE}/llms-full.txt): plain-text version of every guide and training page on this site.\n"
+                 f"- Markdown copies: append `.md` to any page URL ending in .html (for example {SITE}/guides/osha-10-vs-osha-30.html.md).\n"
+                 f"- [Sitemap]({SITE}/sitemap.xml)\n")
     (ROOT / "llms.txt").write_text("\n".join(lines), encoding="utf-8")
 
     full = [intro]
-    for e in guides_out:
+    for e in landings_out + guides_out:
         g = e["meta"]
         full.append(f"\n---\n\n# {g['title']}\n\nURL: {e['loc']}\nAuthor: Zahid Presswala, OSHA Authorized Outreach Trainer\nUpdated: {g['updated']}\n\n{e['text']}\n")
     (ROOT / "llms-full.txt").write_text("\n".join(full), encoding="utf-8")
 
 
 BUILD_DATE = datetime.date.today().isoformat()
+LANDINGS = []
 
 
 def main():
     guides = load_guides()
+    LANDINGS.extend(load_landings())
     pages = [p for p in (build_page(path, guides) for path in sorted((SRC / "pages").glob("*.html"))) if p]
     pages.sort(key=lambda e: -float(e["meta"].get("priority", "0.5")))
+    landings_out = [build_landing(p, guides) for p in LANDINGS]
     guides_out = [build_guide(g, guides) for g in guides]
-    write_sitemap(pages + guides_out)
-    write_llms(pages, guides_out)
-    print(f"Built {len(pages)} pages and {len(guides_out)} guides.")
+    write_sitemap(pages + landings_out + guides_out)
+    write_llms(pages, landings_out, guides_out)
+    print(f"Built {len(pages)} pages, {len(landings_out)} landing pages and {len(guides_out)} guides.")
 
 
 if __name__ == "__main__":

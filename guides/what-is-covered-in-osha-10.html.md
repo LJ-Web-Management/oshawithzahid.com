@@ -1,0 +1,75 @@
+# What Is Covered in OSHA 10? Topics for Construction and General Industry
+
+> The required and elective topics in OSHA 10-Hour Construction and General Industry courses: Introduction to OSHA, the Focus Four, PPE, health hazards, walking-working surfaces, HazCom, and more.
+
+URL: https://oshawithzahid.com/guides/what-is-covered-in-osha-10.html
+Author: Zahid Presswala, OSHA Authorized Outreach Trainer
+Updated: 2026-10-27
+
+OSHA 10-Hour Construction covers Introduction to OSHA (2 hours), the Focus Four hazards (falls, electrocution, struck-by, caught-in or between), personal protective equipment, and health hazards, plus electives such as scaffolds, ladders, and excavations. OSHA 10-Hour General Industry covers Introduction to OSHA, walking-working surfaces, exit routes and emergency action plans, electrical safety, PPE, and hazard communication, plus electives such as forklifts, machine guarding, and lockout/tagout.
+
+## Key takeaways
+
+- Both versions start with a 2-hour Introduction to OSHA covering worker rights and employer duties.
+- Construction centers on the Focus Four hazards: falls, electrocution, struck-by, and caught-in or between.
+- General Industry centers on walking-working surfaces, emergency plans, electrical, PPE, and hazard communication.
+- Trainers pick electives to match the students' work.
+- OSHA 30 covers the same core topics in more depth, plus many more.
+
+## OSHA 10-Hour Construction topics
+
+OSHA 10 Construction follows the construction standards in 29 CFR 1926. The course outline includes:
+
+| Section | Topics |
+| --- | --- |
+| **Required** | Introduction to OSHA (2 hours): worker rights, employer responsibilities, filing a complaint, inspections |
+| **Required** | OSHA Focus Four hazards (4 hours): falls, electrocution, struck-by, caught-in or between |
+| **Required** | Personal protective and lifesaving equipment |
+| **Required** | Health hazards in construction: noise, silica, lead, chemicals, heat |
+| **Electives** | Chosen by the trainer, such as cranes and rigging, excavations, materials handling, scaffolds, stairways and ladders, tools, or fire protection |
+| **Optional** | Any construction topic that fits the class, or more time on required topics |
+
+Read more about the [Focus Four hazards](https://oshawithzahid.com/guides/focus-four-hazards.html), the heart of the construction course. Ready to train? See [OSHA 10 Construction with Zahid](https://oshawithzahid.com/osha-10-construction.html).
+
+## OSHA 10-Hour General Industry topics
+
+OSHA 10 General Industry follows 29 CFR 1910. The course outline includes:
+
+| Section | Topics |
+| --- | --- |
+| **Required** | Introduction to OSHA (2 hours) |
+| **Required** | Walking and working surfaces, including fall protection |
+| **Required** | Exit routes, emergency action plans, fire prevention plans, and fire protection |
+| **Required** | Electrical safety |
+| **Required** | Personal protective equipment |
+| **Required** | Hazard communication |
+| **Electives** | Such as hazardous materials, materials handling, machine guarding, lockout/tagout, powered industrial trucks, ergonomics, bloodborne pathogens, or safety and health programs |
+
+See [OSHA 10 General Industry with Zahid](https://oshawithzahid.com/osha-10-general-industry.html).
+
+## How OSHA 30 compares
+
+OSHA 30 covers everything above in more depth and adds a much longer list of topics, along with safety management for supervisors. Read [OSHA 10 vs OSHA 30](https://oshawithzahid.com/guides/osha-10-vs-osha-30.html) to choose.
+
+## What OSHA 10 doesn't cover
+
+OSHA 10 is an awareness course. It does not qualify anyone to operate a forklift, erect a scaffold, enter a confined space, or serve as a "competent person." Employers must still provide the task- and site-specific training OSHA standards require.
+
+## Frequently asked questions
+
+### Is there a test at the end of OSHA 10?
+
+OSHA requires trainers to confirm students learned the material. Online courses use quizzes and a final exam; in-person trainers use knowledge checks and participation.
+
+### Does OSHA 10 certify me to operate a forklift or scaffold?
+
+No. OSHA 10 teaches hazard recognition. Tasks like forklift operation, scaffold erection, or respirator use require separate, specific training from your employer.
+
+### Can the trainer change the topics?
+
+Trainers must teach OSHA's required topics but choose electives and examples. A good trainer tailors those to the crew's actual work.
+
+## Sources & further reading
+
+- [OSHA Outreach Training Program: Construction Industry Procedures](https://www.osha.gov/training/outreach/construction)
+- [OSHA Outreach Training Program: General Industry Procedures](https://www.osha.gov/training/outreach/general-industry)

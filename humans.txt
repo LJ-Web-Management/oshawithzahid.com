@@ -1,0 +1,12 @@
+/* TEAM */
+Trainer: Zahid Presswala
+Role: OSHA Authorized Outreach Trainer (Construction & General Industry)
+Location: Naperville, Illinois, USA
+Contact: zahidh786@gmail.com
+Phone: +1 (847) 863-4798
+
+/* SITE */
+Built by: LJ Web Management
+Standards: HTML5, CSS3, schema.org JSON-LD
+Languages taught: English, Gujarati, Urdu
+Last update: 2026/10/27

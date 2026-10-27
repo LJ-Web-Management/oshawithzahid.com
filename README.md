@@ -10,6 +10,7 @@ committed, so GitHub Pages needs no build step.
 
 - `_src/pages/*.html`: source for the main pages (home, courses, about, book, contact, guides hub, 404)
 - `_src/guides/*.html`: one file per guide/article
+- `_src/landing/*.html`: keyword landing pages (courses, service areas in `locations/`, languages, on-site training). Same JSON front matter idea; `kind` is `course`, `location`, `language`, or `service`
 - `_tools/build.py`: generator (shared header/footer, schema markup, sitemap, llms.txt)
 - `index.html`, `services.html`, `about.html`, `book.html`, `contact.html`, `404.html`, `guides/`: **generated, don't edit by hand**
 - `css/style.css`, `js/main.js`: shared styles/behavior (edit directly)
@@ -17,6 +18,11 @@ committed, so GitHub Pages needs no build step.
 - `brand/logo/`: full logo kit (all versions in SVG and PNG, icons, social avatar, preview sheet)
 - `robots.txt`: allows search engines and AI crawlers
 - `sitemap.xml`, `llms.txt`, `llms-full.txt`: **generated**
+- `*.html.md`: **generated** Markdown copy of every page, for AI assistants (llms.txt convention)
+- `ai.txt`, `agents.md`, `humans.txt`, `.well-known/security.txt`, `site.webmanifest`: hand-edited files for AI crawlers, AI agents, and browsers
+- `_config.yml`: tells GitHub Pages to publish `.well-known/` and serve `.md` files raw
+
+Submit `https://oshawithzahid.com/sitemap.xml` in Google Search Console and Bing Webmaster Tools.
 
 Folders starting with `_` are ignored by GitHub Pages, so sources are never published.
 
