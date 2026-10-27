@@ -226,7 +226,7 @@ OSHA Cards
 
 OSHA 10 is for entry-level workers; OSHA 30 is for supervisors and anyone with safety responsibility. Compare length, topics, cost, and who needs which card.
 
-4 min readUpdated October 25, 2026
+4 min readUpdated October 27, 2026
 
 ](https://oshawithzahid.com/guides/osha-10-vs-osha-30.html)
 [
@@ -236,7 +236,7 @@ OSHA Cards
 
 How to get a legitimate OSHA 10 card: choose the right course, find an authorized trainer, finish the 10 hours, and receive your DOL wallet card. Timelines, costs, and red flags.
 
-4 min readUpdated October 25, 2026
+4 min readUpdated October 27, 2026
 
 ](https://oshawithzahid.com/guides/how-to-get-osha-10-card.html)
 [

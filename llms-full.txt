@@ -1223,7 +1223,7 @@ Often, yes. Include your preferred days and times in the booking form.
 
 URL: https://oshawithzahid.com/guides/osha-10-vs-osha-30.html
 Author: Zahid Presswala, OSHA Authorized Outreach Trainer
-Updated: 2026-10-25
+Updated: 2026-10-27
 
 OSHA 10 is a 10-hour course for entry-level workers that teaches basic hazard recognition and worker rights. OSHA 30 is a 30-hour course for supervisors, foremen, and anyone with safety responsibility, covering the same foundations in far more depth plus how to manage safety on a site. If you direct other people's work, take OSHA 30. If you're new to the trade, start with OSHA 10.
 The short version
@@ -1296,7 +1296,7 @@ If you're in Illinois, see our guide to OSHA training in Illinois.
 
 How much do OSHA 10 and OSHA 30 cost?
 
-Pricing varies by format. Self-paced online courses from OSHA-accepted providers commonly run under $100 for OSHA 10 and roughly $150 to $200 for OSHA 30. In-person classes are often priced per group, which can make on-site training cost-effective for a crew, especially once you count the value of hands-on discussion and a trainer who can answer questions about your actual site. Request a group quote for on-site pricing.
+Pricing varies by format, provider, and group size, and OSHA 30 costs more than OSHA 10 because it's three times as long. In-person classes are often priced per group, which can make on-site training cost-effective for a crew, especially once you count the value of hands-on discussion and a trainer who can answer questions about your actual site. Request a group quote for on-site pricing.
 
 How to choose for your crew
 
@@ -1326,7 +1326,7 @@ Technically, neither is a certification. OSHA calls the card proof of completing
 
 URL: https://oshawithzahid.com/guides/how-to-get-osha-10-card.html
 Author: Zahid Presswala, OSHA Authorized Outreach Trainer
-Updated: 2026-10-25
+Updated: 2026-10-27
 
 To get an OSHA 10 card: (1) choose Construction or General Industry, (2) enroll with an OSHA-authorized Outreach trainer or an OSHA-accepted online provider, (3) complete all 10 contact hours over at least two days and pass the course assessment, and (4) receive your official Department of Labor wallet card, which trainers must issue within 90 days.
 Step 1: Choose the right industry
@@ -1383,7 +1383,7 @@ How long does the whole process take?
 
 How much does an OSHA 10 card cost?
 
-Online OSHA 10 courses from accepted providers commonly cost under $100 per person. In-person classes vary by trainer, location, and group size. For employers training several workers, on-site group pricing is often competitive with per-seat online pricing and avoids lost time from workers clicking through modules on their own. Get a quote for your crew.
+Prices vary by format and provider. In-person classes vary by trainer, location, and group size. For employers training several workers, on-site group pricing is often competitive with per-seat online pricing and avoids lost time from workers clicking through modules on their own. Get a quote for your crew.
 
 After you get your card
 
@@ -2142,20 +2142,20 @@ URL: https://oshawithzahid.com/guides/osha-10-cost.html
 Author: Zahid Presswala, OSHA Authorized Outreach Trainer
 Updated: 2026-10-27
 
-As a general guide, online OSHA 10 courses from OSHA-authorized providers commonly cost about $60 to $90 per person, and online OSHA 30 courses about $160 to $200. In-person classes usually cost more per person, but on-site group training brings the per-worker price down as headcount grows. Prices well below these ranges, or promises of a card in one day, are warning signs of a fake card.
-Typical OSHA 10 and OSHA 30 prices
+There is no official OSHA price. Cost depends on the course (OSHA 30 costs more than OSHA 10), the format (self-paced online, in-person, or on-site), and group size. On-site group training spreads the trainer's cost across the whole crew, so the price per worker drops as headcount grows. Prices that seem far too low, or promises of a card in one day, are warning signs of a fake card. For an on-site quote, contact Zahid Presswala through the booking form.
+How OSHA 10 and OSHA 30 pricing works
 
-There's no official price. OSHA authorizes trainers and online providers, and each sets its own rates. Here's what we commonly see in the market:
+There's no official price. OSHA authorizes trainers and online providers, and each sets its own rates. Here's how the formats compare:
 
  FormatOSHA 10OSHA 30Notes
 
- Online (OSHA-authorized provider)About $60 to $90About $160 to $200Self-paced; limited to 7.5 hours per day
+ Online (OSHA-authorized provider)Priced per personPriced per person, higher than OSHA 10Self-paced; limited to 7.5 hours per day
 
  In-person public classVaries, usually more than onlineVaries, usually more than onlineLive trainer, fixed dates and location
 
  On-site group classQuoted per groupQuoted per groupCost per worker drops as headcount rises
 
-These are general ranges, not quotes. Prices change, and many providers run discounts or volume pricing.
+Prices change, and many providers offer discounts or volume pricing. For on-site training, request a quote with your headcount and location.
 
 What affects the price
 
@@ -2179,7 +2179,7 @@ For a company, the sticker price is only part of the cost. Consider:
 
  Tracking who finished an online course, and who didn't.
 
- Effectiveness. Training that sticks prevents injuries and OSHA penalties, which can exceed $16,000 per serious violation.
+ Effectiveness. Training that sticks prevents injuries and OSHA penalties, which can run into the tens of thousands of dollars per violation.
 
 That's why many contractors and facilities choose on-site group training: one class, everyone done, no travel.
 

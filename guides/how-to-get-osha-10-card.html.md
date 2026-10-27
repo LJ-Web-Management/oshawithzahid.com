@@ -4,7 +4,7 @@
 
 URL: https://oshawithzahid.com/guides/how-to-get-osha-10-card.html
 Author: Zahid Presswala, OSHA Authorized Outreach Trainer
-Updated: 2026-10-25
+Updated: 2026-10-27
 
 To get an OSHA 10 card: (1) choose Construction or General Industry, (2) enroll with an OSHA-authorized Outreach trainer or an OSHA-accepted online provider, (3) complete all 10 contact hours over at least two days and pass the course assessment, and (4) receive your official Department of Labor wallet card, which trainers must issue within 90 days.
 
@@ -62,7 +62,7 @@ When it arrives, check that your name is spelled correctly and the industry (Con
 
 ## How much does an OSHA 10 card cost?
 
-Online OSHA 10 courses from accepted providers commonly cost under $100 per person. In-person classes vary by trainer, location, and group size. For employers training several workers, on-site group pricing is often competitive with per-seat online pricing and avoids lost time from workers clicking through modules on their own. [Get a quote for your crew](https://oshawithzahid.com/book.html).
+Prices vary by format and provider. In-person classes vary by trainer, location, and group size. For employers training several workers, on-site group pricing is often competitive with per-seat online pricing and avoids lost time from workers clicking through modules on their own. [Get a quote for your crew](https://oshawithzahid.com/book.html).
 
 ## After you get your card
 
