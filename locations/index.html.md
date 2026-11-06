@@ -121,7 +121,7 @@ OSHA 10 and 30 taught in Urdu (and understood by Hindi speakers). Official DOL c
 
 ### What areas do you serve for OSHA training?
 
-Zahid Presswala is based in Naperville, Illinois, and teaches OSHA 10 and 30 on-site throughout Chicagoland, including Cook, DuPage, Will, Kane, Lake, McHenry, and Kendall counties. Training anywhere else in the U.S. is available nationwide with a week's notice.
+Zahid Presswala is based in Naperville, Illinois, and teaches OSHA 10 and 30 on-site throughout Chicagoland, including Cook, DuPage, Will, Kane, Lake, McHenry, and Kendall counties. Training anywhere else in the U.S. is available with a week's notice.
 
 ### Is there an extra charge for travel?
 
