@@ -1,19 +1,18 @@
 # OSHA 10 & 30 Training in Elk Grove Village, IL
 
-> OSHA 10 and 30-Hour Construction and General Industry training in Elk Grove Village, Illinois, taught on-site by OSHA-authorized trainer Zahid Presswala. Group pricing, English, Gujarati and Urdu, official DOL cards.
+> OSHA 10 and 30-Hour Construction and General Industry training in Elk Grove Village, Illinois, taught on-site by OSHA-authorized trainer Zahid Presswala. Group pricing, English and Spanish, official DOL cards.
 
 URL: https://oshawithzahid.com/locations/osha-training-elk-grove-village.html
 Author: Zahid Presswala, OSHA Authorized Outreach Trainer
-Updated: 2026-10-27
+Updated: 2026-11-06
 
-Zahid Presswala, an OSHA-authorized Outreach Trainer for Construction and General Industry, teaches OSHA 10 and OSHA 30 on-site in Elk Grove Village, Illinois (Cook and DuPage counties). Classes run at your job site, shop, or office, are available in English, Gujarati, and Urdu, and every graduate receives an official U.S. Department of Labor OSHA wallet card. Book online or call (847) 863-4798.
+Zahid Presswala, an OSHA-authorized Outreach Trainer for Construction and General Industry, teaches OSHA 10 and OSHA 30 on-site in Elk Grove Village, Illinois (Cook and DuPage counties). Classes run at your job site, shop, or office, are available in English and Spanish, and every graduate receives an official U.S. Department of Labor OSHA wallet card. Book online or email zahidh786@gmail.com.
 
 | Trainer | Zahid Presswala, OSHA-authorized Outreach Trainer |
 | --- | --- |
 | Courses | OSHA 10 & 30, Construction and General Industry |
 | Location | On-site anywhere in Elk Grove Village (Cook and DuPage counties) |
-| Distance from Naperville base | about 25 miles |
-| Languages | English, Gujarati, Urdu |
+| Languages | English, Spanish |
 | Card | Official DOL OSHA wallet card |
 
 ## OSHA training in Elk Grove Village
@@ -57,7 +56,7 @@ Along with Elk Grove Village, Zahid regularly trains crews in Des Plaines, Itasc
 
 ### Where can I get OSHA training in Elk Grove Village?
 
-Zahid Presswala teaches OSHA 10 and 30 on-site at Elk Grove Village plants, warehouses, and job sites. Use the booking form or call (847) 863-4798.
+Zahid Presswala teaches OSHA 10 and 30 on-site at Elk Grove Village plants, warehouses, and job sites. Use the booking form or email zahidh786@gmail.com.
 
 ### Do data center projects require OSHA 10 or OSHA 30?
 
@@ -67,9 +66,9 @@ Most data center owners and general contractors require OSHA 10 for all workers 
 
 OSHA 10 and 30 cover hazard recognition using your equipment as examples. Machine-specific operator training is a separate employer responsibility.
 
-### Do you teach in Urdu or Gujarati?
+### Do you teach in Spanish?
 
-Yes. Classes are available in English, Gujarati, and Urdu.
+Yes. Classes are available in English and Spanish.
 
 ## Sources & further reading
 

@@ -1,24 +1,23 @@
 # OSHA 10 & 30 Training in Naperville, IL
 
-> OSHA 10 and 30-Hour Construction and General Industry training in Naperville, Illinois, taught on-site by OSHA-authorized trainer Zahid Presswala. Group pricing, English, Gujarati and Urdu, official DOL cards.
+> OSHA 10 and 30-Hour Construction and General Industry training in Naperville, Illinois, taught on-site by OSHA-authorized trainer Zahid Presswala. Group pricing, English and Spanish, official DOL cards.
 
 URL: https://oshawithzahid.com/locations/osha-training-naperville.html
 Author: Zahid Presswala, OSHA Authorized Outreach Trainer
-Updated: 2026-10-27
+Updated: 2026-11-06
 
-Zahid Presswala, an OSHA-authorized Outreach Trainer for Construction and General Industry, teaches OSHA 10 and OSHA 30 on-site in Naperville, Illinois (DuPage and Will counties). Classes run at your job site, shop, or office, are available in English, Gujarati, and Urdu, and every graduate receives an official U.S. Department of Labor OSHA wallet card. Book online or call (847) 863-4798.
+Zahid Presswala, an OSHA-authorized Outreach Trainer for Construction and General Industry, teaches OSHA 10 and OSHA 30 on-site in Naperville, Illinois (DuPage and Will counties). Classes run at your job site, shop, or office, are available in English and Spanish, and every graduate receives an official U.S. Department of Labor OSHA wallet card. Book online or email zahidh786@gmail.com.
 
 | Trainer | Zahid Presswala, OSHA-authorized Outreach Trainer |
 | --- | --- |
 | Courses | OSHA 10 & 30, Construction and General Industry |
 | Location | On-site anywhere in Naperville (DuPage and Will counties) |
-| Distance from Naperville base | home base |
-| Languages | English, Gujarati, Urdu |
+| Languages | English, Spanish |
 | Card | Official DOL OSHA wallet card |
 
 ## OSHA training in Naperville
 
-Naperville is home base for Osha With Zahid, so local employers get the shortest travel, the most flexible scheduling, and a trainer who knows the area. Whether you're a residential builder working the new subdivisions, a commercial contractor on a Route 59 or downtown project, or a facility team on one of the I-88 corporate campuses, Zahid can teach OSHA 10 or OSHA 30 right at your site.
+Zahid regularly trains crews across Naperville and knows the area well. Whether you're a residential builder working the new subdivisions, a commercial contractor on a Route 59 or downtown project, or a facility team on one of the I-88 corporate campuses, Zahid can teach OSHA 10 or OSHA 30 right at your site.
 
 ## Who we train in Naperville
 
@@ -57,15 +56,15 @@ Along with Naperville, Zahid regularly trains crews in Aurora, Lisle, Warrenvill
 
 ### Is there an OSHA trainer in Naperville?
 
-Yes. Zahid Presswala is an OSHA-authorized Outreach Trainer for Construction and General Industry based in Naperville, Illinois. You can verify his listing on OSHA.gov.
+Yes. Zahid Presswala, an OSHA-authorized Outreach Trainer for Construction and General Industry, teaches OSHA 10 and 30 on-site in Naperville. You can verify his listing on OSHA.gov.
 
 ### Can I take OSHA 10 near Naperville as an individual?
 
-Classes are primarily on-site for employers, but individuals can often join a scheduled group session. Call (847) 863-4798 to ask about upcoming openings.
+Classes are primarily on-site for employers, but individuals can often join a scheduled group session. Email zahidh786@gmail.com to ask about upcoming openings.
 
 ### How quickly can you schedule a class in Naperville?
 
-Because Naperville is home base, local classes are usually the easiest to schedule. Send your preferred dates and Zahid will confirm availability.
+Classes can often be scheduled with as little as a week's notice. Send your preferred dates and Zahid will confirm availability.
 
 ### Do Naperville employers have to provide OSHA 10?
 

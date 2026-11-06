@@ -1,24 +1,23 @@
 # OSHA 10 & 30 Training in Downers Grove, IL
 
-> OSHA 10 and 30-Hour Construction and General Industry training in Downers Grove, Illinois, taught on-site by OSHA-authorized trainer Zahid Presswala. Group pricing, English, Gujarati and Urdu, official DOL cards.
+> OSHA 10 and 30-Hour Construction and General Industry training in Downers Grove, Illinois, taught on-site by OSHA-authorized trainer Zahid Presswala. Group pricing, English and Spanish, official DOL cards.
 
 URL: https://oshawithzahid.com/locations/osha-training-downers-grove.html
 Author: Zahid Presswala, OSHA Authorized Outreach Trainer
-Updated: 2026-10-27
+Updated: 2026-11-06
 
-Zahid Presswala, an OSHA-authorized Outreach Trainer for Construction and General Industry, teaches OSHA 10 and OSHA 30 on-site in Downers Grove, Illinois (DuPage County). Classes run at your job site, shop, or office, are available in English, Gujarati, and Urdu, and every graduate receives an official U.S. Department of Labor OSHA wallet card. Book online or call (847) 863-4798.
+Zahid Presswala, an OSHA-authorized Outreach Trainer for Construction and General Industry, teaches OSHA 10 and OSHA 30 on-site in Downers Grove, Illinois (DuPage County). Classes run at your job site, shop, or office, are available in English and Spanish, and every graduate receives an official U.S. Department of Labor OSHA wallet card. Book online or email zahidh786@gmail.com.
 
 | Trainer | Zahid Presswala, OSHA-authorized Outreach Trainer |
 | --- | --- |
 | Courses | OSHA 10 & 30, Construction and General Industry |
 | Location | On-site anywhere in Downers Grove (DuPage County) |
-| Distance from Naperville base | about 10 miles |
-| Languages | English, Gujarati, Urdu |
+| Languages | English, Spanish |
 | Card | Official DOL OSHA wallet card |
 
 ## OSHA training in Downers Grove
 
-Downers Grove sits at the I-88 and I-355 interchange, with corporate offices, a major hospital campus, busy retail corridors, and steady residential and commercial construction. It's a quick trip from Naperville, so Zahid can easily teach OSHA 10 or 30 on-site for local contractors and facility teams.
+Downers Grove sits at the I-88 and I-355 interchange, with corporate offices, a major hospital campus, busy retail corridors, and steady residential and commercial construction. Zahid can easily teach OSHA 10 or 30 on-site for local contractors and facility teams.
 
 ## Who we train in Downers Grove
 
@@ -57,7 +56,7 @@ Along with Downers Grove, Zahid regularly trains crews in Westmont, Woodridge, L
 
 ### Where can I take OSHA 10 in Downers Grove?
 
-Zahid Presswala teaches OSHA 10 and 30 on-site in Downers Grove. Use the booking form or call (847) 863-4798.
+Zahid Presswala teaches OSHA 10 and 30 on-site in Downers Grove. Use the booking form or email zahidh786@gmail.com.
 
 ### Do hospital contractors need OSHA 10?
 
@@ -67,7 +66,7 @@ Many hospital systems require contractors to have OSHA 10 (and supervisors OSHA 
 
 Yes. OSHA 10 or 30 General Industry can be taught at your building and scheduled around operations.
 
-### Do you teach in Gujarati and Urdu?
+### Do you teach in Spanish?
 
 Yes, along with English.
 

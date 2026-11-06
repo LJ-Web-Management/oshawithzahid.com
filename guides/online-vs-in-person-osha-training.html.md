@@ -4,7 +4,7 @@
 
 URL: https://oshawithzahid.com/guides/online-vs-in-person-osha-training.html
 Author: Zahid Presswala, OSHA Authorized Outreach Trainer
-Updated: 2026-10-25
+Updated: 2026-11-06
 
 Both online and in-person OSHA Outreach courses earn the same DOL wallet card, as long as the provider is OSHA-authorized or OSHA-accepted. **Online** works well for one person who needs flexibility. **In-person, on-site training** usually works better for crews: it's interactive, tailored to your actual hazards, available in workers' preferred languages, and everyone finishes on the same schedule.
 
@@ -47,7 +47,7 @@ An online module can't look at your scaffold, your trench, or your loading dock.
 
 ### Your crew speaks more than one language
 
-People learn safety best in the language they think in. Being able to explain a lockout procedure or a fall arrest system in Gujarati or Urdu, and not just English, makes a real difference for many crews I train.
+People learn safety best in the language they think in. Being able to explain a lockout procedure or a fall arrest system in Spanish, and not just English, makes a real difference for many crews I train.
 
 ### Retention matters to you
 
@@ -57,7 +57,7 @@ Clicking "next" through slides isn't the same as discussing a near-miss with you
 
 Some employers do both: online OSHA 10 for a new hire who starts between classes, and on-site OSHA 10 or 30 for the main crew and supervisors. Either way, follow up with toolbox talks and task-specific training.
 
-Ready to train your crew in person? [Book an on-site class](https://oshawithzahid.com/book.html) anywhere in Chicagoland.
+Ready to train your crew in person? [Book an on-site class](https://oshawithzahid.com/book.html) anywhere in the U.S. with as little as a week's notice.
 
 ## Frequently asked questions
 
@@ -75,7 +75,7 @@ No. Online Outreach courses also limit training to 7.5 hours per day, so OSHA 10
 
 ### Can on-site training be taught in another language?
 
-Yes. Outreach trainers can teach in any language they're fluent in. Zahid teaches in English, Gujarati, and Urdu.
+Yes. Outreach trainers can teach in any language they're fluent in. Zahid teaches in English and [Spanish](https://oshawithzahid.com/osha-training-spanish.html).
 
 ## Sources & further reading
 

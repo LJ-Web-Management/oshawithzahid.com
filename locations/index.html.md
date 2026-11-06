@@ -9,7 +9,7 @@ Author: Zahid Presswala, OSHA Authorized Outreach Trainer
 2. Service areas
 
 
-Zahid Presswala is based in Naperville and brings OSHA 10 and 30-Hour Construction and General Industry courses to job sites, plants, warehouses, and offices throughout Chicagoland, and nationwide with a week's notice.
+Zahid Presswala brings OSHA 10 and 30-Hour Construction and General Industry courses to job sites, plants, warehouses, and offices throughout Chicagoland, and is available nationwide with as little as a week's notice.
 
 [
 
@@ -22,7 +22,7 @@ On-site OSHA 10 and 30 at Chicago job sites, plants, and facilities, from the Lo
 
 ### OSHA training in Naperville
 
-Zahid's home base. OSHA 10 and 30 on-site anywhere in Naperville with the easiest scheduling.
+OSHA 10 and 30 on-site anywhere in Naperville, from downtown job sites to the I-88 corridor.
 
 ](https://oshawithzahid.com/locations/osha-training-naperville.html)
 [
@@ -91,7 +91,7 @@ OSHA training for Wheaton contractors and public-sector teams under Illinois OSH
 
 ## We train wherever your crew works
 
-These are just the places we train most often. Zahid regularly teaches in Plainfield, Lisle, Woodridge, Romeoville, Oswego, St. Charles, Elmhurst, Des Plaines, Arlington Heights, Waukegan, Lake County, McHenry County, and Northwest Indiana. Classes anywhere in the U.S. are available with a week's notice.
+These are just the places we train most often. Zahid regularly teaches in Plainfield, Lisle, Woodridge, Romeoville, Oswego, St. Charles, Elmhurst, Des Plaines, Arlington Heights, Waukegan, Lake County, McHenry County, and Northwest Indiana. Classes anywhere in the U.S. are available with as little as a week's notice.
 
 [Request training at your location ](https://oshawithzahid.com/book.html)
 
@@ -104,24 +104,17 @@ OSHA 10 and 30 taught at your job site or facility, scheduled around your crew. 
 ](https://oshawithzahid.com/on-site-osha-training.html)
 [
 
-### Training in Gujarati
+### Training in Spanish
 
-OSHA 10 and 30 taught in Gujarati by an authorized trainer. Official DOL cards.
+OSHA 10 and 30 taught in Spanish by an authorized trainer. Official DOL cards.
 
-](https://oshawithzahid.com/osha-training-gujarati.html)
-[
-
-### Training in Urdu
-
-OSHA 10 and 30 taught in Urdu (and understood by Hindi speakers). Official DOL cards.
-
-](https://oshawithzahid.com/osha-training-urdu.html)
+](https://oshawithzahid.com/osha-training-spanish.html)
 
 ## Questions about where we train
 
 ### What areas do you serve for OSHA training?
 
-Zahid Presswala is based in Naperville, Illinois, and teaches OSHA 10 and 30 on-site throughout Chicagoland, including Cook, DuPage, Will, Kane, Lake, McHenry, and Kendall counties. Training anywhere else in the U.S. is available with a week's notice.
+Zahid Presswala teaches OSHA 10 and 30 on-site nationwide with as little as a week's notice. He trains most often throughout Chicagoland, including Cook, DuPage, Will, Kane, Lake, McHenry, and Kendall counties.
 
 ### Is there an extra charge for travel?
 
@@ -129,11 +122,11 @@ Travel within the Chicago area is usually included in the group quote. For longe
 
 ### Can you train outside Illinois?
 
-Yes. On-site training in other states is available for groups with just a week's notice. Federal OSHA Outreach cards are recognized nationwide.
+Yes. On-site training in other states is available for groups with as little as a week's notice. Federal OSHA Outreach cards are recognized nationwide.
 
 ## Ready to get your crew trained?
 
 Book OSHA 10 or 30-Hour training on-site at your location. One short form, and Zahid follows up to confirm the details.
 
 [Book a session ](https://oshawithzahid.com/book.html)
-[ (847) 863-4798](tel:+18478634798)
+[ Email Zahid](mailto:zahidh786@gmail.com)

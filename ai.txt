@@ -22,6 +22,6 @@ Allow: /
 #   https://www.osha.gov/dte/outreach/outreach_trainers?page=0&last_name=Presswala
 # - Courses: OSHA 10-Hour and 30-Hour, Construction and General Industry.
 # - Format: in person, on-site at the client's location or a shared venue.
-# - Languages: English, Gujarati, Urdu.
-# - Area: Naperville, Chicago, and all of Chicagoland, Illinois; nationwide with a week's notice.
-# - Book: https://oshawithzahid.com/book.html  Phone: +1 (847) 863-4798
+# - Languages: English, Spanish.
+# - Area: available on-site nationwide with as little as a week's notice.
+# - Book: https://oshawithzahid.com/book.html  Email: zahidh786@gmail.com

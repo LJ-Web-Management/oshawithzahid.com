@@ -1,24 +1,23 @@
 # OSHA 10 & 30 Training in Bolingbrook, IL
 
-> OSHA 10 and 30-Hour Construction and General Industry training in Bolingbrook, Illinois, taught on-site by OSHA-authorized trainer Zahid Presswala. Group pricing, English, Gujarati and Urdu, official DOL cards.
+> OSHA 10 and 30-Hour Construction and General Industry training in Bolingbrook, Illinois, taught on-site by OSHA-authorized trainer Zahid Presswala. Group pricing, English and Spanish, official DOL cards.
 
 URL: https://oshawithzahid.com/locations/osha-training-bolingbrook.html
 Author: Zahid Presswala, OSHA Authorized Outreach Trainer
-Updated: 2026-10-27
+Updated: 2026-11-06
 
-Zahid Presswala, an OSHA-authorized Outreach Trainer for Construction and General Industry, teaches OSHA 10 and OSHA 30 on-site in Bolingbrook, Illinois (Will and DuPage counties). Classes run at your job site, shop, or office, are available in English, Gujarati, and Urdu, and every graduate receives an official U.S. Department of Labor OSHA wallet card. Book online or call (847) 863-4798.
+Zahid Presswala, an OSHA-authorized Outreach Trainer for Construction and General Industry, teaches OSHA 10 and OSHA 30 on-site in Bolingbrook, Illinois (Will and DuPage counties). Classes run at your job site, shop, or office, are available in English and Spanish, and every graduate receives an official U.S. Department of Labor OSHA wallet card. Book online or email zahidh786@gmail.com.
 
 | Trainer | Zahid Presswala, OSHA-authorized Outreach Trainer |
 | --- | --- |
 | Courses | OSHA 10 & 30, Construction and General Industry |
 | Location | On-site anywhere in Bolingbrook (Will and DuPage counties) |
-| Distance from Naperville base | about 8 miles |
-| Languages | English, Gujarati, Urdu |
+| Languages | English, Spanish |
 | Card | Official DOL OSHA wallet card |
 
 ## OSHA training in Bolingbrook
 
-Bolingbrook's position on I-55 has made it one of the Chicago area's busiest warehouse and distribution towns, alongside steady commercial and residential construction. It's a short drive from Naperville, so Zahid can easily run on-site OSHA 10 and 30 classes for Bolingbrook warehouses, shops, and job sites.
+Bolingbrook's position on I-55 has made it one of the Chicago area's busiest warehouse and distribution towns, alongside steady commercial and residential construction. Zahid can easily run on-site OSHA 10 and 30 classes for Bolingbrook warehouses, shops, and job sites.
 
 ## Who we train in Bolingbrook
 
@@ -57,7 +56,7 @@ Along with Bolingbrook, Zahid regularly trains crews in Romeoville, Woodridge, N
 
 ### Is there OSHA training near Bolingbrook?
 
-Yes. Zahid Presswala is based in nearby Naperville and teaches OSHA 10 and 30 on-site in Bolingbrook. Use the booking form or call (847) 863-4798.
+Yes. Zahid Presswala teaches OSHA 10 and 30 on-site in Bolingbrook. Use the booking form or email zahidh786@gmail.com.
 
 ### What OSHA course do Bolingbrook warehouse workers need?
 
@@ -69,7 +68,7 @@ Yes. On-site training is the most common format. Zahid uses your docks, racking,
 
 ### Do you teach in languages other than English?
 
-Yes. Zahid teaches in English, Gujarati, and Urdu.
+Yes. Zahid teaches in English and Spanish.
 
 ## Sources & further reading
 

@@ -1,19 +1,18 @@
 # OSHA 10 & 30 Training in Chicago, IL
 
-> OSHA 10 and 30-Hour Construction and General Industry training in Chicago, Illinois, taught on-site by OSHA-authorized trainer Zahid Presswala. Group pricing, English, Gujarati and Urdu, official DOL cards.
+> OSHA 10 and 30-Hour Construction and General Industry training in Chicago, Illinois, taught on-site by OSHA-authorized trainer Zahid Presswala. Group pricing, English and Spanish, official DOL cards.
 
 URL: https://oshawithzahid.com/locations/osha-training-chicago.html
 Author: Zahid Presswala, OSHA Authorized Outreach Trainer
-Updated: 2026-10-27
+Updated: 2026-11-06
 
-Zahid Presswala, an OSHA-authorized Outreach Trainer for Construction and General Industry, teaches OSHA 10 and OSHA 30 on-site in Chicago, Illinois (Cook County). Classes run at your job site, shop, or office, are available in English, Gujarati, and Urdu, and every graduate receives an official U.S. Department of Labor OSHA wallet card. Book online or call (847) 863-4798.
+Zahid Presswala, an OSHA-authorized Outreach Trainer for Construction and General Industry, teaches OSHA 10 and OSHA 30 on-site in Chicago, Illinois (Cook County). Classes run at your job site, shop, or office, are available in English and Spanish, and every graduate receives an official U.S. Department of Labor OSHA wallet card. Book online or email zahidh786@gmail.com.
 
 | Trainer | Zahid Presswala, OSHA-authorized Outreach Trainer |
 | --- | --- |
 | Courses | OSHA 10 & 30, Construction and General Industry |
 | Location | On-site anywhere in Chicago (Cook County) |
-| Distance from Naperville base | about 30 miles |
-| Languages | English, Gujarati, Urdu |
+| Languages | English, Spanish |
 | Card | Official DOL OSHA wallet card |
 
 ## OSHA training in Chicago
@@ -57,7 +56,7 @@ Along with Chicago, Zahid regularly trains crews in Evanston, Oak Park, Cicero, 
 
 ### Where can I take OSHA 10 in Chicago?
 
-Zahid Presswala, an OSHA-authorized Outreach Trainer, teaches OSHA 10 and OSHA 30 on-site at your Chicago job site, shop, or office, or at a shared venue for smaller groups. Use the booking form or call (847) 863-4798.
+Zahid Presswala, an OSHA-authorized Outreach Trainer, teaches OSHA 10 and OSHA 30 on-site at your Chicago job site, shop, or office, or at a shared venue for smaller groups. Use the booking form or email zahidh786@gmail.com.
 
 ### Do Chicago construction jobs require OSHA 10?
 
@@ -67,9 +66,9 @@ Most larger Chicago projects do. The requirement usually comes from the owner, g
 
 Often, yes. Include your preferred days and times on the booking form and Zahid will build a schedule around your shifts.
 
-### Do you offer OSHA training in Gujarati or Urdu in Chicago?
+### Do you offer OSHA training in Spanish in Chicago?
 
-Yes. Classes are available in English, Gujarati, and Urdu anywhere in the Chicago area.
+Yes. Classes are available in English and Spanish anywhere in the Chicago area.
 
 ## Sources & further reading
 

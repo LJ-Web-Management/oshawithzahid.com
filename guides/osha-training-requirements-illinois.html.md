@@ -4,9 +4,9 @@
 
 URL: https://oshawithzahid.com/guides/osha-training-requirements-illinois.html
 Author: Zahid Presswala, OSHA Authorized Outreach Trainer
-Updated: 2026-10-25
+Updated: 2026-11-06
 
-In Illinois, **federal OSHA** covers private-sector employers, while **Illinois OSHA** (part of the Illinois Department of Labor) covers state and local government employees. State law doesn't broadly require OSHA 10 or 30 cards for private workers, but many Chicagoland contractors, project owners, unions, and public agencies require them. Authorized trainers like Zahid Presswala in Naperville offer on-site OSHA 10 and 30 classes across the region.
+In Illinois, **federal OSHA** covers private-sector employers, while **Illinois OSHA** (part of the Illinois Department of Labor) covers state and local government employees. State law doesn't broadly require OSHA 10 or 30 cards for private workers, but many Chicagoland contractors, project owners, unions, and public agencies require them. Authorized trainers like Zahid Presswala offer on-site OSHA 10 and 30 classes across the region.
 
 ## Key takeaways
 
@@ -14,7 +14,7 @@ In Illinois, **federal OSHA** covers private-sector employers, while **Illinois 
 - Public-sector employers (state, counties, cities, schools) are covered by Illinois OSHA's state plan.
 - OSHA 10 and 30 requirements in Illinois usually come from contracts, owners, and unions rather than a broad state law.
 - Large projects in Chicago and the suburbs routinely require OSHA 10 for workers and OSHA 30 for supervisors.
-- On-site training lets you train a whole crew at your location in English, Gujarati, or Urdu.
+- On-site training lets you train a whole crew at your location in English or Spanish.
 
 ## Who enforces OSHA in Illinois?
 
@@ -54,7 +54,7 @@ Even when no card is required, OSHA standards require employers to train workers
 
 ## Getting your crew trained in Illinois
 
-I'm based in Naperville and teach OSHA 10 and 30 courses on-site throughout the region, including Chicago, Aurora, Joliet, Bolingbrook, Plainfield, Downers Grove, Oak Brook, Schaumburg, Elgin, and beyond. Classes are available in **English, Gujarati, and Urdu**, and every graduate receives an official DOL wallet card.
+I teach OSHA 10 and 30 courses on-site throughout the region, including Chicago, Aurora, Joliet, Bolingbrook, Plainfield, Downers Grove, Oak Brook, Schaumburg, Elgin, and beyond. Classes are available in **English and Spanish**, and every graduate receives an official DOL wallet card.
 
 1. [Fill out the booking form](https://oshawithzahid.com/book.html) with your industry, headcount, and dates.
 2. I'll confirm the course, location, and group pricing.
@@ -72,7 +72,7 @@ Federal OSHA enforces workplace safety for private employers in Illinois through
 
 ### Where can I take OSHA 10 near Naperville or Chicago?
 
-Zahid Presswala is an OSHA-authorized Outreach Trainer based in Naperville who teaches OSHA 10 and 30 Construction and General Industry classes on-site at your location throughout Chicagoland, including Chicago, Aurora, Joliet, Bolingbrook, Elgin, and the western suburbs.
+Zahid Presswala is an OSHA-authorized Outreach Trainer who teaches OSHA 10 and 30 Construction and General Industry classes on-site at your location throughout Chicagoland, including Chicago, Aurora, Joliet, Bolingbrook, Elgin, and Schaumburg. On-site training is also available nationwide with as little as a week's notice.
 
 ### Can OSHA training be held at our job site in Illinois?
 

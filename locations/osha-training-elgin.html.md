@@ -1,19 +1,18 @@
 # OSHA 10 & 30 Training in Elgin, IL
 
-> OSHA 10 and 30-Hour Construction and General Industry training in Elgin, Illinois, taught on-site by OSHA-authorized trainer Zahid Presswala. Group pricing, English, Gujarati and Urdu, official DOL cards.
+> OSHA 10 and 30-Hour Construction and General Industry training in Elgin, Illinois, taught on-site by OSHA-authorized trainer Zahid Presswala. Group pricing, English and Spanish, official DOL cards.
 
 URL: https://oshawithzahid.com/locations/osha-training-elgin.html
 Author: Zahid Presswala, OSHA Authorized Outreach Trainer
-Updated: 2026-10-27
+Updated: 2026-11-06
 
-Zahid Presswala, an OSHA-authorized Outreach Trainer for Construction and General Industry, teaches OSHA 10 and OSHA 30 on-site in Elgin, Illinois (Kane and Cook counties). Classes run at your job site, shop, or office, are available in English, Gujarati, and Urdu, and every graduate receives an official U.S. Department of Labor OSHA wallet card. Book online or call (847) 863-4798.
+Zahid Presswala, an OSHA-authorized Outreach Trainer for Construction and General Industry, teaches OSHA 10 and OSHA 30 on-site in Elgin, Illinois (Kane and Cook counties). Classes run at your job site, shop, or office, are available in English and Spanish, and every graduate receives an official U.S. Department of Labor OSHA wallet card. Book online or email zahidh786@gmail.com.
 
 | Trainer | Zahid Presswala, OSHA-authorized Outreach Trainer |
 | --- | --- |
 | Courses | OSHA 10 & 30, Construction and General Industry |
 | Location | On-site anywhere in Elgin (Kane and Cook counties) |
-| Distance from Naperville base | about 25 miles |
-| Languages | English, Gujarati, Urdu |
+| Languages | English, Spanish |
 | Card | Official DOL OSHA wallet card |
 
 ## OSHA training in Elgin
@@ -57,7 +56,7 @@ Along with Elgin, Zahid regularly trains crews in South Elgin, Bartlett, Carpent
 
 ### Is OSHA 10 training available in Elgin, IL?
 
-Yes. Zahid Presswala teaches OSHA 10 and 30 on-site in Elgin. Use the booking form or call (847) 863-4798.
+Yes. Zahid Presswala teaches OSHA 10 and 30 on-site in Elgin. Use the booking form or email zahidh786@gmail.com.
 
 ### Which course is best for Elgin manufacturing workers?
 

@@ -1,19 +1,18 @@
 # OSHA 10 & 30 Training in Oak Brook, IL
 
-> OSHA 10 and 30-Hour Construction and General Industry training in Oak Brook, Illinois, taught on-site by OSHA-authorized trainer Zahid Presswala. Group pricing, English, Gujarati and Urdu, official DOL cards.
+> OSHA 10 and 30-Hour Construction and General Industry training in Oak Brook, Illinois, taught on-site by OSHA-authorized trainer Zahid Presswala. Group pricing, English and Spanish, official DOL cards.
 
 URL: https://oshawithzahid.com/locations/osha-training-oak-brook.html
 Author: Zahid Presswala, OSHA Authorized Outreach Trainer
-Updated: 2026-10-27
+Updated: 2026-11-06
 
-Zahid Presswala, an OSHA-authorized Outreach Trainer for Construction and General Industry, teaches OSHA 10 and OSHA 30 on-site in Oak Brook, Illinois (DuPage and Cook counties). Classes run at your job site, shop, or office, are available in English, Gujarati, and Urdu, and every graduate receives an official U.S. Department of Labor OSHA wallet card. Book online or call (847) 863-4798.
+Zahid Presswala, an OSHA-authorized Outreach Trainer for Construction and General Industry, teaches OSHA 10 and OSHA 30 on-site in Oak Brook, Illinois (DuPage and Cook counties). Classes run at your job site, shop, or office, are available in English and Spanish, and every graduate receives an official U.S. Department of Labor OSHA wallet card. Book online or email zahidh786@gmail.com.
 
 | Trainer | Zahid Presswala, OSHA-authorized Outreach Trainer |
 | --- | --- |
 | Courses | OSHA 10 & 30, Construction and General Industry |
 | Location | On-site anywhere in Oak Brook (DuPage and Cook counties) |
-| Distance from Naperville base | about 15 miles |
-| Languages | English, Gujarati, Urdu |
+| Languages | English, Spanish |
 | Card | Official DOL OSHA wallet card |
 
 ## OSHA training in Oak Brook
@@ -57,7 +56,7 @@ Along with Oak Brook, Zahid regularly trains crews in Oakbrook Terrace, Elmhurst
 
 ### Is OSHA training available in Oak Brook?
 
-Yes. Zahid Presswala teaches OSHA 10 and 30 on-site in Oak Brook and Oakbrook Terrace. Use the booking form or call (847) 863-4798.
+Yes. Zahid Presswala teaches OSHA 10 and 30 on-site in Oak Brook and Oakbrook Terrace. Use the booking form or email zahidh786@gmail.com.
 
 ### Should building engineers take OSHA 10 or OSHA 30?
 

@@ -15,7 +15,7 @@ Fill out one quick form to share your training needs and pick a time that works.
 
 Answer a few quick questions about your crew, industry, and timeline, then pick a time. It takes less than a minute.
 
-Form not loading? Call [(847) 863-4798](tel:+18478634798) or email [zahidh786@gmail.com](mailto:zahidh786@gmail.com).
+Form not loading? Email [zahidh786@gmail.com](mailto:zahidh786@gmail.com).
 
 ## What happens next
 

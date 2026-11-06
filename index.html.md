@@ -1,11 +1,11 @@
 # Osha With Zahid | OSHA 10/30 Authorized Trainer
 
-> OSHA 10 and 30-Hour Construction and General Industry training with Zahid Presswala, an OSHA-authorized Outreach Trainer with 25+ years of field experience. On-site across Chicagoland. Official DOL cards.
+> OSHA 10 and 30-Hour Construction and General Industry training with Zahid Presswala, an OSHA-authorized Outreach Trainer with 25+ years of field experience. On-site nationwide with as little as a week's notice. Official DOL cards.
 
 URL: https://oshawithzahid.com/
 Author: Zahid Presswala, OSHA Authorized Outreach Trainer
 
-OSHA-Authorized Outreach Trainer · Naperville, IL
+OSHA-Authorized Outreach Trainer · Available Nationwide
 
 
 I'm Zahid Presswala. After 25+ years in the field, I teach OSHA 10 and 30-Hour Construction and General Industry courses that are practical, fully compliant, and built around how real crews work.
@@ -15,7 +15,7 @@ I'm Zahid Presswala. After 25+ years in the field, I teach OSHA 10 and 30-Hour C
 
 Official DOL wallet cards
 On-site at your location
-English, Gujarati & Urdu
+English & Spanish
 
 ZP
 
@@ -30,7 +30,7 @@ Construction & General Industry
 
 **2**Industries authorized
 
-**3**Languages taught
+**2**Languages taught
 
 [Get a quote for your crew ](https://oshawithzahid.com/book.html)
 
@@ -38,9 +38,9 @@ Construction & General Industry
 
 **DOL wallet card**Issued to every graduate
 
-**Chicagoland**Nationwide with a week's notice
+**Available nationwide**With as little as a week's notice
 
-**Multilingual**English, Gujarati, Urdu
+**Bilingual**English & Spanish
 
 ## Four OSHA Outreach courses, one trusted trainer
 
@@ -108,7 +108,7 @@ Listed in OSHA's official Outreach Trainer directory for Construction and Genera
 On-site at your job site, shop, or office. No travel days for your crew.
 
 ### Taught in your language
-Classes in English, Gujarati, and Urdu so nothing gets lost in translation.
+Classes in English and Spanish so nothing gets lost in translation.
 
 ### Built for your trade
 Examples and electives matched to the hazards your crew actually faces.
@@ -129,9 +129,9 @@ He follows up to confirm the course, schedule, location, and group pricing.
 ### Train & get carded
 Your crew completes the course on-site and every graduate receives a DOL wallet card.
 
-## On-site OSHA training across Chicagoland
+## On-site OSHA training wherever your crew works
 
-Based in Naperville and training crews at job sites, plants, and offices throughout Chicago and the suburbs, plus nationwide with a week's notice.
+Available nationwide with as little as a week's notice. These are the Chicago-area communities where we train most often.
 
 [All service areas ](https://oshawithzahid.com/locations/)
 
@@ -146,7 +146,7 @@ On-site OSHA 10 and 30 at Chicago job sites, plants, and facilities, from the Lo
 
 ### OSHA training in Naperville
 
-Zahid's home base. OSHA 10 and 30 on-site anywhere in Naperville with the easiest scheduling.
+OSHA 10 and 30 on-site anywhere in Naperville, from downtown job sites to the I-88 corridor.
 
 ](https://oshawithzahid.com/locations/osha-training-naperville.html)
 [
@@ -236,7 +236,7 @@ OSHA Cards
 
 How to get a legitimate OSHA 10 card: choose the right course, find an authorized trainer, finish the 10 hours, and receive your DOL wallet card. Timelines, costs, and red flags.
 
-4 min readUpdated October 27, 2026
+4 min readUpdated November 6, 2026
 
 ](https://oshawithzahid.com/guides/how-to-get-osha-10-card.html)
 [
@@ -254,7 +254,7 @@ Federal OSHA 10 and 30 cards never expire, but many states, cities, employers, a
 
 ### Who is Zahid Presswala?
 
-Zahid Presswala is an OSHA-authorized Outreach Trainer for Construction and General Industry, based in Naperville, Illinois, with more than 25 years of hands-on field experience. He is listed in OSHA's official Outreach Trainer directory and teaches in English, Gujarati, and Urdu.
+Zahid Presswala is an OSHA-authorized Outreach Trainer for Construction and General Industry with more than 25 years of hands-on field experience. He is listed in OSHA's official Outreach Trainer directory and teaches in English and Spanish.
 
 ### Do your courses come with an official OSHA card?
 
@@ -262,7 +262,7 @@ Yes. Every OSHA 10-Hour and 30-Hour course is taught under the OSHA Outreach Tra
 
 ### Where do you offer OSHA training?
 
-Training is based in Naperville, IL and delivered on-site at your job site, shop, or office anywhere in Chicagoland, including Chicago, Aurora, Joliet, and the western suburbs. On-site training is also available nationwide with a week's notice.
+Training is delivered on-site at your job site, shop, or office, and is available nationwide with as little as a week's notice. Zahid regularly trains crews across the Chicago area, including Chicago, Aurora, Joliet, and Schaumburg.
 
 ### Should my workers take OSHA 10 or OSHA 30?
 
@@ -272,13 +272,13 @@ OSHA 10 is designed for entry-level workers and covers core hazard recognition. 
 
 Yes. Group pricing is available for crews of any size. Include your headcount in the booking form and you will get a custom quote.
 
-### Can training be taught in Gujarati or Urdu?
+### Can training be taught in Spanish?
 
-Yes. Zahid teaches in English, Gujarati, and Urdu, so crews can learn in the language they understand best.
+Yes. Zahid teaches in English and Spanish, so crews can learn in the language they understand best.
 
 ## Ready to get your crew trained?
 
 Book OSHA 10 or 30-Hour training on-site at your location. One short form, and Zahid follows up to confirm the details.
 
 [Book a session ](https://oshawithzahid.com/book.html)
-[ (847) 863-4798](tel:+18478634798)
+[ Email Zahid](mailto:zahidh786@gmail.com)

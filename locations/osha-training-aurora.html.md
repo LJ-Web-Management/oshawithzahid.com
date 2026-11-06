@@ -1,24 +1,23 @@
 # OSHA 10 & 30 Training in Aurora, IL
 
-> OSHA 10 and 30-Hour Construction and General Industry training in Aurora, Illinois, taught on-site by OSHA-authorized trainer Zahid Presswala. Group pricing, English, Gujarati and Urdu, official DOL cards.
+> OSHA 10 and 30-Hour Construction and General Industry training in Aurora, Illinois, taught on-site by OSHA-authorized trainer Zahid Presswala. Group pricing, English and Spanish, official DOL cards.
 
 URL: https://oshawithzahid.com/locations/osha-training-aurora.html
 Author: Zahid Presswala, OSHA Authorized Outreach Trainer
-Updated: 2026-10-27
+Updated: 2026-11-06
 
-Zahid Presswala, an OSHA-authorized Outreach Trainer for Construction and General Industry, teaches OSHA 10 and OSHA 30 on-site in Aurora, Illinois (Kane, DuPage, Will, and Kendall counties). Classes run at your job site, shop, or office, are available in English, Gujarati, and Urdu, and every graduate receives an official U.S. Department of Labor OSHA wallet card. Book online or call (847) 863-4798.
+Zahid Presswala, an OSHA-authorized Outreach Trainer for Construction and General Industry, teaches OSHA 10 and OSHA 30 on-site in Aurora, Illinois (Kane, DuPage, Will, and Kendall counties). Classes run at your job site, shop, or office, are available in English and Spanish, and every graduate receives an official U.S. Department of Labor OSHA wallet card. Book online or email zahidh786@gmail.com.
 
 | Trainer | Zahid Presswala, OSHA-authorized Outreach Trainer |
 | --- | --- |
 | Courses | OSHA 10 & 30, Construction and General Industry |
 | Location | On-site anywhere in Aurora (Kane, DuPage, Will, and Kendall counties) |
-| Distance from Naperville base | about 8 miles |
-| Languages | English, Gujarati, Urdu |
+| Languages | English, Spanish |
 | Card | Official DOL OSHA wallet card |
 
 ## OSHA training in Aurora
 
-Aurora, Illinois' second-largest city, mixes a long manufacturing history with a fast-growing base of warehouses, distribution centers, and construction. Its location along I-88 and the Fox River makes it a hub for industrial employers who need both Construction and General Industry training, and it's just minutes from Zahid's Naperville base.
+Aurora, Illinois' second-largest city, mixes a long manufacturing history with a fast-growing base of warehouses, distribution centers, and construction. Its location along I-88 and the Fox River makes it a hub for industrial employers who need both Construction and General Industry training.
 
 ## Who we train in Aurora
 
@@ -57,7 +56,7 @@ Along with Aurora, Zahid regularly trains crews in North Aurora, Montgomery, Osw
 
 ### Where can I get OSHA 10 training in Aurora, IL?
 
-Zahid Presswala teaches OSHA 10 and 30 on-site at Aurora workplaces and job sites. He's based in neighboring Naperville, so scheduling is easy. Use the booking form or call (847) 863-4798.
+Zahid Presswala teaches OSHA 10 and 30 on-site at Aurora workplaces and job sites. Use the booking form or email zahidh786@gmail.com.
 
 ### Should Aurora warehouse workers take Construction or General Industry?
 
@@ -67,9 +66,9 @@ General Industry. Warehouses, plants, and distribution centers fall under 29 CFR
 
 Yes. Sessions can be scheduled for first, second, or third shift, as long as no day exceeds OSHA's 7.5-hour training limit.
 
-### Is OSHA training available in Gujarati or Urdu in Aurora?
+### Is OSHA training available in Spanish in Aurora?
 
-Yes. Zahid teaches in English, Gujarati, and Urdu.
+Yes. Zahid teaches in English and Spanish.
 
 ## Sources & further reading
 

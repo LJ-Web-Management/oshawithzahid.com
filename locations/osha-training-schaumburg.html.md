@@ -1,19 +1,18 @@
 # OSHA 10 & 30 Training in Schaumburg, IL
 
-> OSHA 10 and 30-Hour Construction and General Industry training in Schaumburg, Illinois, taught on-site by OSHA-authorized trainer Zahid Presswala. Group pricing, English, Gujarati and Urdu, official DOL cards.
+> OSHA 10 and 30-Hour Construction and General Industry training in Schaumburg, Illinois, taught on-site by OSHA-authorized trainer Zahid Presswala. Group pricing, English and Spanish, official DOL cards.
 
 URL: https://oshawithzahid.com/locations/osha-training-schaumburg.html
 Author: Zahid Presswala, OSHA Authorized Outreach Trainer
-Updated: 2026-10-27
+Updated: 2026-11-06
 
-Zahid Presswala, an OSHA-authorized Outreach Trainer for Construction and General Industry, teaches OSHA 10 and OSHA 30 on-site in Schaumburg, Illinois (Cook and DuPage counties). Classes run at your job site, shop, or office, are available in English, Gujarati, and Urdu, and every graduate receives an official U.S. Department of Labor OSHA wallet card. Book online or call (847) 863-4798.
+Zahid Presswala, an OSHA-authorized Outreach Trainer for Construction and General Industry, teaches OSHA 10 and OSHA 30 on-site in Schaumburg, Illinois (Cook and DuPage counties). Classes run at your job site, shop, or office, are available in English and Spanish, and every graduate receives an official U.S. Department of Labor OSHA wallet card. Book online or email zahidh786@gmail.com.
 
 | Trainer | Zahid Presswala, OSHA-authorized Outreach Trainer |
 | --- | --- |
 | Courses | OSHA 10 & 30, Construction and General Industry |
 | Location | On-site anywhere in Schaumburg (Cook and DuPage counties) |
-| Distance from Naperville base | about 25 miles |
-| Languages | English, Gujarati, Urdu |
+| Languages | English, Spanish |
 | Card | Official DOL OSHA wallet card |
 
 ## OSHA training in Schaumburg
@@ -57,7 +56,7 @@ Along with Schaumburg, Zahid regularly trains crews in Hoffman Estates, Rolling 
 
 ### Where can I get OSHA training in Schaumburg?
 
-Zahid Presswala teaches OSHA 10 and 30 on-site at Schaumburg job sites, hotels, and facilities. Use the booking form or call (847) 863-4798.
+Zahid Presswala teaches OSHA 10 and 30 on-site at Schaumburg job sites, hotels, and facilities. Use the booking form or email zahidh786@gmail.com.
 
 ### Do hotel maintenance workers need OSHA 10?
 
@@ -67,9 +66,9 @@ It's not legally required for every worker, but OSHA 10 General Industry is an e
 
 Construction. Build-out, renovation, and remodeling work falls under 29 CFR 1926.
 
-### Can you train our team in Gujarati?
+### Can you train our team in Spanish?
 
-Yes. Zahid teaches in English, Gujarati, and Urdu, which is helpful for many hotel ownership and maintenance teams.
+Yes. Zahid teaches in English and Spanish, which is helpful for many hotel housekeeping and maintenance teams.
 
 ## Sources & further reading
 
