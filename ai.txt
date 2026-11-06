@@ -23,5 +23,5 @@ Allow: /
 # - Courses: OSHA 10-Hour and 30-Hour, Construction and General Industry.
 # - Format: in person, on-site at the client's location or a shared venue.
 # - Languages: English, Gujarati, Urdu.
-# - Area: Naperville, Chicago, and all of Chicagoland, Illinois; nationwide by arrangement.
+# - Area: Naperville, Chicago, and all of Chicagoland, Illinois; nationwide with a week's notice.
 # - Book: https://oshawithzahid.com/book.html  Phone: +1 (847) 863-4798

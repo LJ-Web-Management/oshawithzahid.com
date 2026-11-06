@@ -9,7 +9,7 @@ Author: Zahid Presswala, OSHA Authorized Outreach Trainer
 2. Service areas
 
 
-Zahid Presswala is based in Naperville and brings OSHA 10 and 30-Hour Construction and General Industry courses to job sites, plants, warehouses, and offices throughout Chicagoland, and nationwide by arrangement.
+Zahid Presswala is based in Naperville and brings OSHA 10 and 30-Hour Construction and General Industry courses to job sites, plants, warehouses, and offices throughout Chicagoland, and nationwide with a week's notice.
 
 [
 
@@ -91,7 +91,7 @@ OSHA training for Wheaton contractors and public-sector teams under Illinois OSH
 
 ## We train wherever your crew works
 
-These are just the places we train most often. Zahid regularly teaches in Plainfield, Lisle, Woodridge, Romeoville, Oswego, St. Charles, Elmhurst, Des Plaines, Arlington Heights, Waukegan, Lake County, McHenry County, and Northwest Indiana. Classes outside the Chicago area are available by arrangement.
+These are just the places we train most often. Zahid regularly teaches in Plainfield, Lisle, Woodridge, Romeoville, Oswego, St. Charles, Elmhurst, Des Plaines, Arlington Heights, Waukegan, Lake County, McHenry County, and Northwest Indiana. Classes anywhere in the U.S. are available with a week's notice.
 
 [Request training at your location ](https://oshawithzahid.com/book.html)
 
@@ -121,7 +121,7 @@ OSHA 10 and 30 taught in Urdu (and understood by Hindi speakers). Official DOL c
 
 ### What areas do you serve for OSHA training?
 
-Zahid Presswala is based in Naperville, Illinois, and teaches OSHA 10 and 30 on-site throughout Chicagoland, including Cook, DuPage, Will, Kane, Lake, McHenry, and Kendall counties. Travel elsewhere in Illinois and to other states is available by arrangement.
+Zahid Presswala is based in Naperville, Illinois, and teaches OSHA 10 and 30 on-site throughout Chicagoland, including Cook, DuPage, Will, Kane, Lake, McHenry, and Kendall counties. Training anywhere else in the U.S. is available with a week's notice.
 
 ### Is there an extra charge for travel?
 
@@ -129,7 +129,7 @@ Travel within the Chicago area is usually included in the group quote. For longe
 
 ### Can you train outside Illinois?
 
-Yes. On-site training in other states is available by arrangement for groups. Federal OSHA Outreach cards are recognized nationwide.
+Yes. On-site training in other states is available for groups with just a week's notice. Federal OSHA Outreach cards are recognized nationwide.
 
 ## Ready to get your crew trained?
 

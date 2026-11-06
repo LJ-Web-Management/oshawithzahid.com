@@ -15,7 +15,7 @@ OSHA 10-Hour Construction is a 10-hour OSHA Outreach Training Program course tha
 | Card | Official DOL OSHA 10-Hour Construction wallet card |
 | Format | In person, on-site at your job site, shop, or office |
 | Languages | English, Gujarati, Urdu |
-| Area | Chicago, Naperville, and all of Chicagoland; nationwide by arrangement |
+| Area | Chicago, Naperville, and all of Chicagoland; nationwide with a week's notice |
 
 ## What is OSHA 10-Hour Construction?
 

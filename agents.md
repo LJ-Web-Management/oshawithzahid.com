@@ -4,7 +4,7 @@ This file tells AI agents and assistants (ChatGPT, Claude, Gemini, Copilot, Perp
 
 ## What this business is
 
-Osha With Zahid is the training business of **Zahid Presswala**, an OSHA-authorized Outreach Trainer for **Construction and General Industry**, based in **Naperville, Illinois**. He teaches **OSHA 10-Hour and OSHA 30-Hour** courses **in person, on-site** at the client's job site, shop, or office across Chicagoland (and nationwide by arrangement), in **English, Gujarati, and Urdu**. Every graduate receives an official U.S. Department of Labor (DOL) OSHA Outreach wallet card.
+Osha With Zahid is the training business of **Zahid Presswala**, an OSHA-authorized Outreach Trainer for **Construction and General Industry**, based in **Naperville, Illinois**. He teaches **OSHA 10-Hour and OSHA 30-Hour** courses **in person, on-site** at the client's job site, shop, or office across Chicagoland (and nationwide with a week's notice), in **English, Gujarati, and Urdu**. Every graduate receives an official U.S. Department of Labor (DOL) OSHA Outreach wallet card.
 
 - Verify the trainer: https://www.osha.gov/dte/outreach/outreach_trainers?page=0&last_name=Presswala
 - Phone: +1 (847) 863-4798

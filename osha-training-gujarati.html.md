@@ -1,12 +1,12 @@
 # OSHA 10 & 30 Training in Gujarati
 
-> OSHA 10 and 30-Hour training taught in Gujarati by OSHA-authorized trainer Zahid Presswala. Construction and General Industry, on-site in Chicagoland or nationwide by arrangement. Official DOL wallet cards.
+> OSHA 10 and 30-Hour training taught in Gujarati by OSHA-authorized trainer Zahid Presswala. Construction and General Industry, on-site in Chicagoland or nationwide with a week's notice. Official DOL wallet cards.
 
 URL: https://oshawithzahid.com/osha-training-gujarati.html
 Author: Zahid Presswala, OSHA Authorized Outreach Trainer
 Updated: 2026-10-27
 
-Yes, you can take official OSHA 10 and OSHA 30 training in Gujarati. Zahid Presswala, an OSHA-authorized Outreach Trainer for Construction and General Industry, teaches the full courses in Gujarati (as well as English and Urdu) on-site at your workplace in Chicagoland, and nationwide by arrangement. Graduates receive the same official U.S. Department of Labor OSHA wallet card as any English-language class.
+Yes, you can take official OSHA 10 and OSHA 30 training in Gujarati. Zahid Presswala, an OSHA-authorized Outreach Trainer for Construction and General Industry, teaches the full courses in Gujarati (as well as English and Urdu) on-site at your workplace in Chicagoland, and nationwide with a week's notice. Graduates receive the same official U.S. Department of Labor OSHA wallet card as any English-language class.
 
 ## At a glance
 
@@ -14,7 +14,7 @@ Yes, you can take official OSHA 10 and OSHA 30 training in Gujarati. Zahid Press
 - Taught by a native Gujarati speaker who is OSHA-authorized
 - Same official DOL wallet card as an English class
 - Mixed-language groups welcome: Gujarati, English, and Urdu in one class
-- On-site in Chicagoland; travel nationwide by arrangement
+- On-site in Chicagoland; travel nationwide with a week's notice
 
 ## Why learn OSHA safety in Gujarati?
 
@@ -57,7 +57,7 @@ Yes. Zahid can teach in English and explain key points in Gujarati (or Urdu) so 
 
 ### Do you teach Gujarati OSHA classes outside Illinois?
 
-Yes, by arrangement. Many Gujarati-owned businesses, including hotels, construction companies, and logistics firms, are spread across the country. Contact Zahid with your location and group size.
+Yes, nationwide with a week's notice. Many Gujarati-owned businesses, including hotels, construction companies, and logistics firms, are spread across the country. Contact Zahid with your location and group size.
 
 ### Are the course materials in Gujarati?
 

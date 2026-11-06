@@ -311,7 +311,7 @@ def footer(root, guides, extra_scripts=""):
     <div class="footer-grid">
       <div>
         <a class="footer-brand" href="{root}index.html"><img src="{root}images/logo-reversed.svg" alt="Osha With Zahid" width="146" height="80"></a>
-        <p>OSHA 10 and 30-Hour Outreach training for Construction and General Industry, taught by Zahid Presswala. Based in Naperville, IL, serving Chicagoland and available on-site nationwide.</p>
+        <p>OSHA 10 and 30-Hour Outreach training for Construction and General Industry, taught by Zahid Presswala. Based in Naperville, IL, serving Chicagoland and available on-site nationwide with a week's notice.</p>
         <p><a href="{OSHA_VERIFY}" target="_blank" rel="noopener">Verify Zahid on OSHA.gov &nearr;</a></p>
       </div>
       <div>
@@ -1022,7 +1022,7 @@ Key facts:
 - Courses: OSHA 10-Hour Construction, OSHA 30-Hour Construction, OSHA 10-Hour General Industry, OSHA 30-Hour General Industry, plus custom safety workshops and toolbox talks.
 - Format: in-person, on-site at the client's location or at a shared venue; group pricing available.
 - Languages: English, Gujarati, Urdu.
-- Service area: Naperville, Chicago and the Chicagoland suburbs, Illinois; on-site travel nationwide by arrangement.
+- Service area: Naperville, Chicago and the Chicagoland suburbs, Illinois; on-site travel nationwide with a week's notice.
 - Booking: {SITE}/book.html
 - Phone: +1 {PHONE}
 - Email: {EMAIL}

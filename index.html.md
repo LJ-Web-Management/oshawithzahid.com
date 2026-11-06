@@ -38,7 +38,7 @@ Construction & General Industry
 
 **DOL wallet card**Issued to every graduate
 
-**Chicagoland**On-site, travel nationwide
+**Chicagoland**Nationwide with a week's notice
 
 **Multilingual**English, Gujarati, Urdu
 
@@ -131,7 +131,7 @@ Your crew completes the course on-site and every graduate receives a DOL wallet 
 
 ## On-site OSHA training across Chicagoland
 
-Based in Naperville and training crews at job sites, plants, and offices throughout Chicago and the suburbs, plus nationwide by arrangement.
+Based in Naperville and training crews at job sites, plants, and offices throughout Chicago and the suburbs, plus nationwide with a week's notice.
 
 [All service areas ](https://oshawithzahid.com/locations/)
 
@@ -262,7 +262,7 @@ Yes. Every OSHA 10-Hour and 30-Hour course is taught under the OSHA Outreach Tra
 
 ### Where do you offer OSHA training?
 
-Training is based in Naperville, IL and delivered on-site at your job site, shop, or office anywhere in Chicagoland, including Chicago, Aurora, Joliet, and the western suburbs. On-site travel outside Illinois is available by arrangement.
+Training is based in Naperville, IL and delivered on-site at your job site, shop, or office anywhere in Chicagoland, including Chicago, Aurora, Joliet, and the western suburbs. On-site training is also available nationwide with a week's notice.
 
 ### Should my workers take OSHA 10 or OSHA 30?
 
