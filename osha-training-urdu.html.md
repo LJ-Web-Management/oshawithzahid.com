@@ -6,7 +6,7 @@ URL: https://oshawithzahid.com/osha-training-urdu.html
 Author: Zahid Presswala, OSHA Authorized Outreach Trainer
 Updated: 2026-10-27
 
-Yes, official OSHA 10 and OSHA 30 training is available in Urdu. Zahid Presswala, an OSHA-authorized Outreach Trainer for Construction and General Industry, teaches the full courses in Urdu, and conversational Hindi speakers generally follow along easily. Classes are held on-site in Chicagoland or nationwide by arrangement, and graduates receive the official U.S. Department of Labor OSHA wallet card.
+Yes, official OSHA 10 and OSHA 30 training is available in Urdu. Zahid Presswala, an OSHA-authorized Outreach Trainer for Construction and General Industry, teaches the full courses in Urdu, and conversational Hindi speakers generally follow along easily. Classes are held on-site in Chicagoland or nationwide with a week's notice, and graduates receive the official U.S. Department of Labor OSHA wallet card.
 
 ## At a glance
 
@@ -57,7 +57,7 @@ Yes. It is the same official U.S. Department of Labor Outreach wallet card. The 
 
 ### Do you offer Urdu OSHA training outside Chicago?
 
-Yes, by arrangement. Share your location and group size through the booking form.
+Yes, nationwide with a week's notice. Share your location and group size through the booking form.
 
 ### کیا OSHA 10 اردو میں ہو سکتا ہے؟ (Can OSHA 10 be taught in Urdu?)
 

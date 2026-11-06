@@ -64,7 +64,7 @@ Yes. General contractors often bring their subcontractors together, and small co
 
 ### How far will you travel?
 
-Zahid is based in Naperville and regularly teaches throughout Chicago and the suburbs in Cook, DuPage, Will, Kane, Lake, and McHenry counties. Travel elsewhere in Illinois and other states is available by arrangement.
+Zahid is based in Naperville and regularly teaches throughout Chicago and the suburbs in Cook, DuPage, Will, Kane, Lake, and McHenry counties. Training anywhere else in the U.S. is available nationwide with a week's notice.
 
 ### Can you train on weekends or night shift?
 
