@@ -30,7 +30,7 @@ OSHA Cards
 
 How to get a legitimate OSHA 10 card: choose the right course, find an authorized trainer, finish the 10 hours, and receive your DOL wallet card. Timelines, costs, and red flags.
 
-4 min readUpdated October 27, 2026
+4 min readUpdated November 6, 2026
 
 ](https://oshawithzahid.com/guides/how-to-get-osha-10-card.html)
 [
@@ -90,7 +90,7 @@ For Employers
 
 Who enforces OSHA in Illinois, when OSHA 10 or 30 is required, and how Naperville, Chicago, and suburban employers can get crews trained on-site with an authorized trainer.
 
-3 min readUpdated October 25, 2026
+3 min readUpdated November 6, 2026
 
 ](https://oshawithzahid.com/guides/osha-training-requirements-illinois.html)
 [
@@ -100,7 +100,7 @@ For Employers
 
 Online OSHA 10 and 30 courses are flexible; in-person and on-site training is interactive and tailored to your work. Compare cost, time, retention, and card legitimacy.
 
-3 min readUpdated October 25, 2026
+3 min readUpdated November 6, 2026
 
 ](https://oshawithzahid.com/guides/online-vs-in-person-osha-training.html)
 [
@@ -159,4 +159,4 @@ OSHA 10 takes at least two days and OSHA 30 at least four, because OSHA limits O
 Book OSHA 10 or 30-Hour training on-site at your location. One short form, and Zahid follows up to confirm the details.
 
 [Book a session ](https://oshawithzahid.com/book.html)
-[ (847) 863-4798](tel:+18478634798)
+[ Email Zahid](mailto:zahidh786@gmail.com)

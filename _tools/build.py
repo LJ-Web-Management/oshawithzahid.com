@@ -24,8 +24,6 @@ ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "_src"
 SITE = "https://oshawithzahid.com"
 GA_ID = "G-KH6SW3MELB"
-PHONE = "(847) 863-4798"
-PHONE_TEL = "+18478634798"
 EMAIL = "zahidh786@gmail.com"
 OSHA_VERIFY = "https://www.osha.gov/dte/outreach/outreach_trainers?page=0&last_name=Presswala"
 OG_IMAGE = SITE + "/images/og-cover.png"
@@ -145,11 +143,10 @@ PERSON = {
     "@id": PERSON_ID,
     "name": "Zahid Presswala",
     "jobTitle": "OSHA Authorized Outreach Trainer",
-    "description": "OSHA-authorized Outreach Trainer for Construction and General Industry with 25+ years of field experience, based in Naperville, Illinois.",
+    "description": "OSHA-authorized Outreach Trainer for Construction and General Industry with 25+ years of field experience, teaching on-site nationwide.",
     "url": SITE + "/about.html",
     "email": "mailto:" + EMAIL,
-    "telephone": "+1-847-863-4798",
-    "knowsLanguage": ["English", "Gujarati", "Urdu"],
+    "knowsLanguage": ["English", "Spanish"],
     "knowsAbout": ["OSHA 10-Hour Construction", "OSHA 30-Hour Construction", "OSHA 10-Hour General Industry",
                    "OSHA 30-Hour General Industry", "Fall protection", "Hazard communication",
                    "Construction safety", "Workplace safety compliance"],
@@ -170,13 +167,12 @@ BUSINESS = {
     "url": SITE + "/",
     "logo": SITE + "/images/logo.png",
     "image": OG_IMAGE,
-    "description": "OSHA-authorized Outreach training for Construction and General Industry: OSHA 10-Hour and 30-Hour courses delivered on-site or in group sessions, taught by Zahid Presswala in English, Gujarati, and Urdu.",
-    "telephone": "+1-847-863-4798",
+    "description": "OSHA-authorized Outreach training for Construction and General Industry: OSHA 10-Hour and 30-Hour courses delivered on-site or in group sessions, taught by Zahid Presswala in English and Spanish, on-site nationwide with as little as a week's notice.",
     "email": EMAIL,
     "priceRange": "$$",
     "founder": {"@id": PERSON_ID},
-    "address": {"@type": "PostalAddress", "addressLocality": "Naperville", "addressRegion": "IL", "addressCountry": "US"},
     "areaServed": [
+        {"@type": "Country", "name": "United States"},
         {"@type": "City", "name": "Naperville, IL"},
         {"@type": "City", "name": "Chicago, IL"},
         {"@type": "AdministrativeArea", "name": "Chicagoland"},
@@ -190,9 +186,8 @@ BUSINESS = {
         {"@type": "City", "name": "Elk Grove Village, IL"},
         {"@type": "City", "name": "Wheaton, IL"},
         {"@type": "State", "name": "Illinois"},
-        {"@type": "Country", "name": "United States"},
     ],
-    "knowsLanguage": ["English", "Gujarati", "Urdu"],
+    "knowsLanguage": ["English", "Spanish"],
     "knowsAbout": ["OSHA 10-Hour training", "OSHA 30-Hour training", "OSHA Outreach Training Program",
                    "Construction safety", "General industry safety", "Fall protection", "Hazard communication"],
     "sameAs": [OSHA_VERIFY],
@@ -290,7 +285,6 @@ def header(active, root):
 {links}
     </nav>
     <div class="nav-cta">
-      <a class="nav-phone" href="tel:{PHONE_TEL}">{icon("phone")}{PHONE}</a>
       <a href="{root}book.html" class="btn btn-primary btn-sm">Book training</a>
       <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false" aria-controls="navLinks">
         <span></span><span></span><span></span>
@@ -311,7 +305,7 @@ def footer(root, guides, extra_scripts=""):
     <div class="footer-grid">
       <div>
         <a class="footer-brand" href="{root}index.html"><img src="{root}images/logo-reversed.svg" alt="Osha With Zahid" width="146" height="80"></a>
-        <p>OSHA 10 and 30-Hour Outreach training for Construction and General Industry, taught by Zahid Presswala. Based in Naperville, IL, serving Chicagoland and available on-site nationwide with a week's notice.</p>
+        <p>OSHA 10 and 30-Hour Outreach training for Construction and General Industry, taught by Zahid Presswala. Available on-site nationwide with as little as a week's notice.</p>
         <p><a href="{OSHA_VERIFY}" target="_blank" rel="noopener">Verify Zahid on OSHA.gov &nearr;</a></p>
       </div>
       <div>
@@ -322,8 +316,7 @@ def footer(root, guides, extra_scripts=""):
           <li><a href="{root}osha-10-general-industry.html">OSHA 10 General Industry</a></li>
           <li><a href="{root}osha-30-general-industry.html">OSHA 30 General Industry</a></li>
           <li><a href="{root}on-site-osha-training.html">On-site group training</a></li>
-          <li><a href="{root}osha-training-gujarati.html">Training in Gujarati</a></li>
-          <li><a href="{root}osha-training-urdu.html">Training in Urdu</a></li>
+          <li><a href="{root}osha-training-spanish.html">Training in Spanish</a></li>
         </ul>
       </div>
       <div>
@@ -347,9 +340,8 @@ def footer(root, guides, extra_scripts=""):
       <div>
         <h4>Contact</h4>
         <ul>
-          <li><a href="tel:{PHONE_TEL}">{PHONE}</a></li>
           <li><a href="mailto:{EMAIL}">{EMAIL}</a></li>
-          <li>Naperville, IL</li>
+          <li>Available nationwide</li>
           <li><a href="{root}about.html">About Zahid</a></li>
           <li><a href="{root}contact.html">Contact page</a></li>
           <li><a href="{root}book.html">Book a session</a></li>
@@ -439,7 +431,7 @@ def cta_band(root, title="Ready to get your crew trained?",
       </div>
       <div class="actions">
         <a href="{root}book.html" class="btn btn-hivis">Book a session {icon("arrow")}</a>
-        <a href="tel:{PHONE_TEL}" class="btn btn-ghost-dark">{icon("phone")} {PHONE}</a>
+        <a href="mailto:{EMAIL}" class="btn btn-ghost-dark">{icon("mail")} Email Zahid</a>
       </div>
     </div>
   </div>
@@ -469,10 +461,6 @@ def render_template(body, root, guides, meta):
             return root
         if key == "icon":
             return icon(arg)
-        if key == "phone":
-            return PHONE
-        if key == "tel":
-            return PHONE_TEL
         if key == "email":
             return EMAIL
         if key == "verify":
@@ -526,10 +514,10 @@ def build_page(path, guides):
                 "@type": "Course", "@id": f"{SITE}/services.html#{cid}", "name": name, "description": desc,
                 "url": f"{SITE}/{COURSE_PAGES[cid]}", "provider": {"@id": ORG_ID},
                 "educationalCredentialAwarded": f"DOL OSHA {hours}-Hour {field} wallet card",
-                "inLanguage": ["en", "gu", "ur"], "teaches": f"OSHA {field} safety standards and hazard recognition",
+                "inLanguage": ["en", "es"], "teaches": f"OSHA {field} safety standards and hazard recognition",
                 "timeRequired": f"PT{hours}H",
                 "hasCourseInstance": {"@type": "CourseInstance", "courseMode": "Onsite", "courseWorkload": f"PT{hours}H",
-                                      "instructor": {"@id": PERSON_ID}, "location": {"@type": "Place", "name": "Your job site or a shared venue", "address": {"@type": "PostalAddress", "addressLocality": "Naperville", "addressRegion": "IL", "addressCountry": "US"}}},
+                                      "instructor": {"@id": PERSON_ID}, "location": {"@type": "Place", "name": "Your job site or a shared venue", "address": {"@type": "PostalAddress", "addressCountry": "US"}}},
                 "offers": {"@type": "Offer", "category": "Paid", "url": SITE + "/book.html", "availability": "https://schema.org/InStock"},
             })
         lds.append({"@context": "https://schema.org", "@graph": [BUSINESS, PERSON] + courses})
@@ -663,7 +651,7 @@ def build_guide(g, guides):
         <span class="avatar" aria-hidden="true">ZP</span>
         <div>
           <h3>About the author</h3>
-          <p>Zahid Presswala is an OSHA-authorized Outreach Trainer for Construction and General Industry with more than 25 years of hands-on field experience. He teaches OSHA 10 and 30-Hour courses on-site across Chicagoland and beyond, in English, Gujarati, and Urdu.</p>
+          <p>Zahid Presswala is an OSHA-authorized Outreach Trainer for Construction and General Industry with more than 25 years of hands-on field experience. He teaches OSHA 10 and 30-Hour courses on-site nationwide, in English and Spanish.</p>
           <a href="{root}about.html">More about Zahid &rarr;</a> &nbsp; <a href="{esc(OSHA_VERIFY)}" target="_blank" rel="noopener">Verify on OSHA.gov &nearr;</a>
         </div>
       </div>
@@ -791,8 +779,8 @@ def landing_schema(p, canonical):
             "audience": {"@type": "Audience", "audienceType": c["audience"]},
             "teaches": c["teaches"],
             "about": [{"@type": "Thing", "name": f"OSHA {c['field']} safety standards ({c['cfr']})"}],
-            "inLanguage": ["en", "gu", "ur"],
-            "availableLanguage": ["English", "Gujarati", "Urdu"],
+            "inLanguage": ["en", "es"],
+            "availableLanguage": ["English", "Spanish"],
             "timeRequired": f"PT{c['hours']}H",
             "isAccessibleForFree": False,
             "hasCourseInstance": [{
@@ -801,8 +789,8 @@ def landing_schema(p, canonical):
                 "courseWorkload": f"PT{c['hours']}H",
                 "courseSchedule": {"@type": "Schedule", "repeatFrequency": "P1D", "repeatCount": c["min_days"]},
                 "instructor": {"@id": PERSON_ID, "@type": "Person", "name": "Zahid Presswala"},
-                "location": {"@type": "Place", "name": "Your job site, shop, office, or a shared venue in Chicagoland",
-                             "address": {"@type": "PostalAddress", "addressLocality": "Naperville", "addressRegion": "IL", "addressCountry": "US"}},
+                "location": {"@type": "Place", "name": "Your job site, shop, office, or a shared venue anywhere in the U.S.",
+                             "address": {"@type": "PostalAddress", "addressCountry": "US"}},
             }],
             "offers": {"@type": "Offer", "category": "Paid", "url": SITE + "/book.html",
                        "availability": "https://schema.org/InStock", "seller": {"@id": ORG_ID}},
@@ -816,8 +804,7 @@ def landing_schema(p, canonical):
         "description": p["description"],
         "url": canonical,
         "provider": {**{k: v for k, v in BUSINESS.items() if k != "hasOfferCatalog"}},
-        "availableChannel": {"@type": "ServiceChannel", "serviceUrl": SITE + "/book.html",
-                             "servicePhone": {"@type": "ContactPoint", "telephone": "+1-847-863-4798", "contactType": "booking"}},
+        "availableChannel": {"@type": "ServiceChannel", "serviceUrl": SITE + "/book.html"},
         "offers": {"@type": "Offer", "url": SITE + "/book.html", "availability": "https://schema.org/InStock"},
     }
     if kind == "location":
@@ -920,7 +907,7 @@ def build_landing(p, guides):
       <p class="dek">{p['dek']}</p>
       <div class="hero-actions" style="margin-top:24px">
         <a href="{root}book.html" class="btn btn-primary">Book training {icon('arrow')}</a>
-        <a href="tel:{PHONE_TEL}" class="btn btn-ghost">{icon('phone')} {PHONE}</a>
+        <a href="mailto:{EMAIL}" class="btn btn-ghost">{icon('mail')} Email Zahid</a>
       </div>
       <div class="byline">
         <span class="avatar" aria-hidden="true">ZP</span>
@@ -941,7 +928,7 @@ def build_landing(p, guides):
         <span class="avatar" aria-hidden="true">ZP</span>
         <div>
           <h3>Your trainer: Zahid Presswala</h3>
-          <p>Zahid is an OSHA-authorized Outreach Trainer for Construction and General Industry with more than 25 years of hands-on field experience. He teaches OSHA 10 and 30-Hour courses on-site across Chicagoland and beyond, in English, Gujarati, and Urdu, and every graduate receives an official DOL wallet card.</p>
+          <p>Zahid is an OSHA-authorized Outreach Trainer for Construction and General Industry with more than 25 years of hands-on field experience. He teaches OSHA 10 and 30-Hour courses on-site nationwide, in English and Spanish, and every graduate receives an official DOL wallet card.</p>
           <a href="{root}about.html">More about Zahid &rarr;</a> &nbsp; <a href="{esc(OSHA_VERIFY)}" target="_blank" rel="noopener">Verify on OSHA.gov &nearr;</a>
         </div>
       </div>
@@ -1015,16 +1002,15 @@ def write_sitemap(entries):
 def write_llms(pages, landings_out, guides_out):
     intro = f"""# Osha With Zahid
 
-> Osha With Zahid is the training business of Zahid Presswala, an OSHA-authorized Outreach Trainer for Construction and General Industry based in Naperville, Illinois. Zahid has 25+ years of hands-on field experience and teaches OSHA 10-Hour and 30-Hour Outreach courses on-site at job sites, shops, and offices across Chicagoland and nationwide, in English, Gujarati, and Urdu. Every course ends with an official U.S. Department of Labor (DOL) OSHA wallet card.
+> Osha With Zahid is the training business of Zahid Presswala, an OSHA-authorized Outreach Trainer for Construction and General Industry. Zahid has 25+ years of hands-on field experience and teaches OSHA 10-Hour and 30-Hour Outreach courses on-site at job sites, shops, and offices nationwide, with as little as a week's notice, in English and Spanish. Every course ends with an official U.S. Department of Labor (DOL) OSHA wallet card.
 
 Key facts:
 - Trainer: Zahid Presswala, OSHA Outreach Training Program authorized trainer (Construction and General Industry). Verify: {OSHA_VERIFY}
 - Courses: OSHA 10-Hour Construction, OSHA 30-Hour Construction, OSHA 10-Hour General Industry, OSHA 30-Hour General Industry, plus custom safety workshops and toolbox talks.
 - Format: in-person, on-site at the client's location or at a shared venue; group pricing available.
-- Languages: English, Gujarati, Urdu.
-- Service area: Naperville, Chicago and the Chicagoland suburbs, Illinois; on-site travel nationwide with a week's notice.
+- Languages: English, Spanish.
+- Service area: available on-site nationwide with as little as a week's notice.
 - Booking: {SITE}/book.html
-- Phone: +1 {PHONE}
 - Email: {EMAIL}
 """
     lines = [intro, "## Main pages\n"]

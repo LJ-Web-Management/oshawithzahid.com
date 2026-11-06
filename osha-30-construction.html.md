@@ -1,12 +1,12 @@
 # OSHA 30-Hour Construction Training
 
-> OSHA 30-Hour Construction training for foremen, supervisors, and safety leads, taught on-site by authorized trainer Zahid Presswala. Official DOL OSHA 30 card. Serving Chicago, Naperville and all of Chicagoland.
+> OSHA 30-Hour Construction training for foremen, supervisors, and safety leads, taught on-site by authorized trainer Zahid Presswala. Official DOL OSHA 30 card. Available on-site nationwide.
 
 URL: https://oshawithzahid.com/osha-30-construction.html
 Author: Zahid Presswala, OSHA Authorized Outreach Trainer
-Updated: 2026-10-27
+Updated: 2026-11-06
 
-OSHA 30-Hour Construction is a 30-hour OSHA Outreach Training Program course for foremen, supervisors, and anyone with safety responsibility on a construction site. It covers hazard recognition in depth, plus how to manage safety on a crew, and takes at least four days (OSHA caps class time at 7.5 hours per day). Graduates receive an official U.S. Department of Labor OSHA 30 wallet card. Zahid Presswala teaches it on-site across Chicagoland.
+OSHA 30-Hour Construction is a 30-hour OSHA Outreach Training Program course for foremen, supervisors, and anyone with safety responsibility on a construction site. It covers hazard recognition in depth, plus how to manage safety on a crew, and takes at least four days (OSHA caps class time at 7.5 hours per day). Graduates receive an official U.S. Department of Labor OSHA 30 wallet card. Zahid Presswala teaches it on-site at your workplace, anywhere in the U.S. with as little as a week's notice.
 
 | Length | 30 contact hours, at least 4 days |
 | --- | --- |
@@ -15,7 +15,7 @@ OSHA 30-Hour Construction is a 30-hour OSHA Outreach Training Program course for
 | Prerequisite | None. OSHA 10 is not required first |
 | Card | Official DOL OSHA 30-Hour Construction wallet card |
 | Format | In person, on-site; consecutive days or spread over weeks |
-| Languages | English, Gujarati, Urdu |
+| Languages | English, Spanish |
 
 ## What is OSHA 30-Hour Construction?
 

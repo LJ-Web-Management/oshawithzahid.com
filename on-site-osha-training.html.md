@@ -1,12 +1,12 @@
 # On-Site OSHA Training for Employers
 
-> On-site OSHA 10 and 30-Hour training for construction crews and general industry teams. An authorized trainer comes to your job site, shop, or office anywhere in Chicagoland. Group pricing and official DOL cards.
+> On-site OSHA 10 and 30-Hour training for construction crews and general industry teams. An authorized trainer comes to your job site, shop, or office anywhere in the U.S., with as little as a week's notice. Group pricing and official DOL cards.
 
 URL: https://oshawithzahid.com/on-site-osha-training.html
 Author: Zahid Presswala, OSHA Authorized Outreach Trainer
-Updated: 2026-10-27
+Updated: 2026-11-06
 
-On-site OSHA training means an OSHA-authorized Outreach Trainer comes to your job site, shop, or office and teaches OSHA 10 or OSHA 30 to your group in person. Zahid Presswala offers on-site Construction and General Industry classes throughout Chicagoland, with group pricing, flexible scheduling, instruction in English, Gujarati, or Urdu, and an official DOL wallet card for every graduate.
+On-site OSHA training means an OSHA-authorized Outreach Trainer comes to your job site, shop, or office and teaches OSHA 10 or OSHA 30 to your group in person. Zahid Presswala offers on-site Construction and General Industry classes nationwide with as little as a week's notice, with group pricing, flexible scheduling, instruction in English or Spanish, and an official DOL wallet card for every graduate.
 
 ## At a glance
 
@@ -14,7 +14,8 @@ On-site OSHA training means an OSHA-authorized Outreach Trainer comes to your jo
 - At your job site, shop, office, or a shared venue
 - Up to 40 students per class (OSHA limit); multiple sessions for larger teams
 - Group pricing, so the per-worker cost drops as headcount grows
-- Taught in English, Gujarati, or Urdu
+- Taught in English or Spanish
+- Available nationwide with as little as a week's notice
 
 ## How on-site OSHA training works
 
@@ -30,7 +31,7 @@ On-site OSHA training means an OSHA-authorized Outreach Trainer comes to your jo
 | **Travel time** | None | Commutes, mileage | None |
 | **Tailored to your hazards** | Yes | Sometimes | No |
 | **Live Q&A with a trainer** | Yes | Yes | Limited |
-| **Language options** | English, Gujarati, Urdu | Varies | Usually English or Spanish |
+| **Language options** | English, Spanish | Varies | Usually English or Spanish |
 | **Everyone done at once** | Yes | Staggered | Hard to track |
 | **Group pricing** | Yes | Rarely | Sometimes |
 
@@ -46,7 +47,7 @@ For a deeper comparison, read [online vs in-person OSHA training](https://oshawi
 
 ## Where we train
 
-Zahid is based in Naperville and trains on-site across Chicagoland, including [Chicago](https://oshawithzahid.com/locations/osha-training-chicago.html), [Naperville](https://oshawithzahid.com/locations/osha-training-naperville.html), [Aurora](https://oshawithzahid.com/locations/osha-training-aurora.html), [Joliet](https://oshawithzahid.com/locations/osha-training-joliet.html), [Bolingbrook](https://oshawithzahid.com/locations/osha-training-bolingbrook.html), [Schaumburg](https://oshawithzahid.com/locations/osha-training-schaumburg.html), [Elgin](https://oshawithzahid.com/locations/osha-training-elgin.html), [Downers Grove](https://oshawithzahid.com/locations/osha-training-downers-grove.html), [Oak Brook](https://oshawithzahid.com/locations/osha-training-oak-brook.html), [Elk Grove Village](https://oshawithzahid.com/locations/osha-training-elk-grove-village.html), and [Wheaton](https://oshawithzahid.com/locations/osha-training-wheaton.html). [See all service areas.](https://oshawithzahid.com/locations/)
+Zahid trains on-site nationwide with as little as a week's notice. Areas where he teaches most often include [Chicago](https://oshawithzahid.com/locations/osha-training-chicago.html), [Naperville](https://oshawithzahid.com/locations/osha-training-naperville.html), [Aurora](https://oshawithzahid.com/locations/osha-training-aurora.html), [Joliet](https://oshawithzahid.com/locations/osha-training-joliet.html), [Bolingbrook](https://oshawithzahid.com/locations/osha-training-bolingbrook.html), [Schaumburg](https://oshawithzahid.com/locations/osha-training-schaumburg.html), [Elgin](https://oshawithzahid.com/locations/osha-training-elgin.html), [Downers Grove](https://oshawithzahid.com/locations/osha-training-downers-grove.html), [Oak Brook](https://oshawithzahid.com/locations/osha-training-oak-brook.html), [Elk Grove Village](https://oshawithzahid.com/locations/osha-training-elk-grove-village.html), and [Wheaton](https://oshawithzahid.com/locations/osha-training-wheaton.html). [See all service areas.](https://oshawithzahid.com/locations/)
 
 ## Frequently asked questions
 
@@ -64,7 +65,7 @@ Yes. General contractors often bring their subcontractors together, and small co
 
 ### How far will you travel?
 
-Zahid is based in Naperville and regularly teaches throughout Chicago and the suburbs in Cook, DuPage, Will, Kane, Lake, and McHenry counties. Training anywhere else in the U.S. is available with a week's notice.
+Anywhere in the U.S. On-site training is available nationwide with as little as a week's notice. Zahid also teaches regularly throughout Chicago and the suburbs in Cook, DuPage, Will, Kane, Lake, and McHenry counties.
 
 ### Can you train on weekends or night shift?
 

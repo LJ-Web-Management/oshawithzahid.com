@@ -79,7 +79,7 @@ Zahid brings the full course to your job site, shop, or office, scheduled around
 Combine crews or companies in a shared venue. Group pricing is available for any headcount.
 
 ### Taught in your language
-Full courses in English, [Gujarati](https://oshawithzahid.com/osha-training-gujarati.html), and [Urdu](https://oshawithzahid.com/osha-training-urdu.html), with the same official DOL card.
+Full courses in English and [Spanish](https://oshawithzahid.com/osha-training-spanish.html), with the same official DOL card.
 
 ### Custom workshops
 Toolbox talks, refreshers, and hazard-specific workshops tailored to your trade and site conditions.
@@ -111,4 +111,4 @@ Construction courses follow 29 CFR 1926 and cover building, renovation, demoliti
 Book OSHA 10 or 30-Hour training on-site at your location. One short form, and Zahid follows up to confirm the details.
 
 [Book a session ](https://oshawithzahid.com/book.html)
-[ (847) 863-4798](tel:+18478634798)
+[ Email Zahid](mailto:zahidh786@gmail.com)

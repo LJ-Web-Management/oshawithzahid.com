@@ -1,12 +1,12 @@
 # OSHA 10-Hour Construction Training
 
-> OSHA 10-Hour Construction training taught on-site by authorized trainer Zahid Presswala. Focus Four hazards, PPE, and worker rights, plus an official DOL OSHA 10 card. Serving Chicago, Naperville and all of Chicagoland.
+> OSHA 10-Hour Construction training taught on-site by authorized trainer Zahid Presswala. Focus Four hazards, PPE, and worker rights, plus an official DOL OSHA 10 card. Available on-site nationwide.
 
 URL: https://oshawithzahid.com/osha-10-construction.html
 Author: Zahid Presswala, OSHA Authorized Outreach Trainer
-Updated: 2026-10-27
+Updated: 2026-11-06
 
-OSHA 10-Hour Construction is a 10-hour OSHA Outreach Training Program course that teaches entry-level construction workers to recognize and prevent job-site hazards, including OSHA's Focus Four: falls, electrocution, struck-by, and caught-in or between. It takes at least two days (OSHA caps class time at 7.5 hours per day) and ends with an official U.S. Department of Labor OSHA 10 wallet card. Zahid Presswala teaches it on-site across Chicagoland.
+OSHA 10-Hour Construction is a 10-hour OSHA Outreach Training Program course that teaches entry-level construction workers to recognize and prevent job-site hazards, including OSHA's Focus Four: falls, electrocution, struck-by, and caught-in or between. It takes at least two days (OSHA caps class time at 7.5 hours per day) and ends with an official U.S. Department of Labor OSHA 10 wallet card. Zahid Presswala teaches it on-site at your workplace, anywhere in the U.S. with as little as a week's notice.
 
 | Length | 10 contact hours, at least 2 days |
 | --- | --- |
@@ -14,8 +14,8 @@ OSHA 10-Hour Construction is a 10-hour OSHA Outreach Training Program course tha
 | Who it's for | Laborers, apprentices, new hires, and tradespeople |
 | Card | Official DOL OSHA 10-Hour Construction wallet card |
 | Format | In person, on-site at your job site, shop, or office |
-| Languages | English, Gujarati, Urdu |
-| Area | Chicago, Naperville, and all of Chicagoland; nationwide with a week's notice |
+| Languages | English, Spanish |
+| Area | Nationwide, with as little as a week's notice |
 
 ## What is OSHA 10-Hour Construction?
 
@@ -50,7 +50,7 @@ If you supervise others or are responsible for site safety, [OSHA 30 Constructio
 
 - **Taught by someone who's done the work.** Zahid has 25+ years on construction and industrial sites, so the examples come from real jobs.
 - **At your site, on your schedule.** No travel days, and the class can use your actual equipment and conditions as examples.
-- **In your crew's language.** Classes are available in English, Gujarati, and Urdu.
+- **In your crew's language.** Classes are available in English and Spanish.
 - **Real questions, real answers.** Workers can ask about the scaffold, ladder, or trench they'll be on next week, which online courses can't offer.
 - **Legitimate cards.** Every graduate receives an official DOL card. [Here's how to verify one.](https://oshawithzahid.com/guides/how-to-verify-osha-card.html)
 
@@ -82,7 +82,7 @@ OSHA requires trainers to verify that students have learned the material. In Zah
 
 ### Can you teach OSHA 10 at our job site?
 
-Yes. On-site training is the most common format. Zahid brings everything needed and teaches at your job site trailer, shop, office, or a nearby venue anywhere in Chicagoland.
+Yes. On-site training is the most common format. Zahid brings everything needed and teaches at your job site trailer, shop, office, or a nearby venue, anywhere in the U.S.
 
 ### How much does OSHA 10 Construction cost?
 

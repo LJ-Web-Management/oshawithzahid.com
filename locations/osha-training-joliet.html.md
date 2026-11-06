@@ -1,19 +1,18 @@
 # OSHA 10 & 30 Training in Joliet, IL
 
-> OSHA 10 and 30-Hour Construction and General Industry training in Joliet, Illinois, taught on-site by OSHA-authorized trainer Zahid Presswala. Group pricing, English, Gujarati and Urdu, official DOL cards.
+> OSHA 10 and 30-Hour Construction and General Industry training in Joliet, Illinois, taught on-site by OSHA-authorized trainer Zahid Presswala. Group pricing, English and Spanish, official DOL cards.
 
 URL: https://oshawithzahid.com/locations/osha-training-joliet.html
 Author: Zahid Presswala, OSHA Authorized Outreach Trainer
-Updated: 2026-10-27
+Updated: 2026-11-06
 
-Zahid Presswala, an OSHA-authorized Outreach Trainer for Construction and General Industry, teaches OSHA 10 and OSHA 30 on-site in Joliet, Illinois (Will and Kendall counties). Classes run at your job site, shop, or office, are available in English, Gujarati, and Urdu, and every graduate receives an official U.S. Department of Labor OSHA wallet card. Book online or call (847) 863-4798.
+Zahid Presswala, an OSHA-authorized Outreach Trainer for Construction and General Industry, teaches OSHA 10 and OSHA 30 on-site in Joliet, Illinois (Will and Kendall counties). Classes run at your job site, shop, or office, are available in English and Spanish, and every graduate receives an official U.S. Department of Labor OSHA wallet card. Book online or email zahidh786@gmail.com.
 
 | Trainer | Zahid Presswala, OSHA-authorized Outreach Trainer |
 | --- | --- |
 | Courses | OSHA 10 & 30, Construction and General Industry |
 | Location | On-site anywhere in Joliet (Will and Kendall counties) |
-| Distance from Naperville base | about 20 miles |
-| Languages | English, Gujarati, Urdu |
+| Languages | English, Spanish |
 | Card | Official DOL OSHA wallet card |
 
 ## OSHA training in Joliet
@@ -57,7 +56,7 @@ Along with Joliet, Zahid regularly trains crews in Romeoville, Shorewood, Plainf
 
 ### Where can I take OSHA 10 in Joliet?
 
-Zahid Presswala teaches OSHA 10 and 30 on-site at Joliet job sites, warehouses, and yards. Use the booking form or call (847) 863-4798 to schedule.
+Zahid Presswala teaches OSHA 10 and 30 on-site at Joliet job sites, warehouses, and yards. Use the booking form or email zahidh786@gmail.com to schedule.
 
 ### Does OSHA 10 cover forklifts for Joliet warehouses?
 

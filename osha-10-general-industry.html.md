@@ -1,12 +1,12 @@
 # OSHA 10-Hour General Industry Training
 
-> OSHA 10-Hour General Industry training for warehouse, manufacturing, healthcare, and facility workers, taught on-site by authorized trainer Zahid Presswala. Official DOL OSHA 10 card. Serving Chicagoland.
+> OSHA 10-Hour General Industry training for warehouse, manufacturing, healthcare, and facility workers, taught on-site by authorized trainer Zahid Presswala. Official DOL OSHA 10 card. Available on-site nationwide.
 
 URL: https://oshawithzahid.com/osha-10-general-industry.html
 Author: Zahid Presswala, OSHA Authorized Outreach Trainer
-Updated: 2026-10-27
+Updated: 2026-11-06
 
-OSHA 10-Hour General Industry is a 10-hour OSHA Outreach Training Program course for entry-level workers in warehouses, manufacturing plants, healthcare, retail, and other non-construction workplaces. It follows 29 CFR 1910 and covers walking-working surfaces, emergency action plans, electrical safety, PPE, and hazard communication. It takes at least two days and ends with an official DOL OSHA 10 wallet card. Zahid Presswala teaches it on-site across Chicagoland.
+OSHA 10-Hour General Industry is a 10-hour OSHA Outreach Training Program course for entry-level workers in warehouses, manufacturing plants, healthcare, retail, and other non-construction workplaces. It follows 29 CFR 1910 and covers walking-working surfaces, emergency action plans, electrical safety, PPE, and hazard communication. It takes at least two days and ends with an official DOL OSHA 10 wallet card. Zahid Presswala teaches it on-site at your workplace, anywhere in the U.S. with as little as a week's notice.
 
 | Length | 10 contact hours, at least 2 days |
 | --- | --- |
@@ -14,7 +14,7 @@ OSHA 10-Hour General Industry is a 10-hour OSHA Outreach Training Program course
 | Who it's for | Warehouse, plant, shop, healthcare, retail, and facility staff |
 | Card | Official DOL OSHA 10-Hour General Industry wallet card |
 | Format | In person, on-site at your facility; shift-friendly scheduling |
-| Languages | English, Gujarati, Urdu |
+| Languages | English, Spanish |
 
 ## What is OSHA 10-Hour General Industry?
 
@@ -47,7 +47,7 @@ Supervisors and safety coordinators should consider [OSHA 30 General Industry](h
 
 - **Your hazards, not generic ones.** Zahid uses your docks, racking, machines, and chemicals as examples.
 - **Shift-friendly.** Sessions can be scheduled for any shift without sending people offsite.
-- **Language access.** English, Gujarati, and Urdu instruction for multilingual workforces.
+- **Language access.** English and Spanish instruction for mixed-language workforces.
 - **One record for the whole team.** Everyone trains together and is documented together.
 
 ## How to book

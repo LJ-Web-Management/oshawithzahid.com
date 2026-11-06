@@ -4,7 +4,7 @@
 
 URL: https://oshawithzahid.com/guides/how-to-get-osha-10-card.html
 Author: Zahid Presswala, OSHA Authorized Outreach Trainer
-Updated: 2026-10-27
+Updated: 2026-11-06
 
 To get an OSHA 10 card: (1) choose Construction or General Industry, (2) enroll with an OSHA-authorized Outreach trainer or an OSHA-accepted online provider, (3) complete all 10 contact hours over at least two days and pass the course assessment, and (4) receive your official Department of Labor wallet card, which trainers must issue within 90 days.
 
@@ -88,7 +88,7 @@ Contact the trainer or online provider who issued it. Replacement cards are limi
 
 ### Can I get an OSHA 10 card in Spanish or another language?
 
-Yes. Outreach courses can be taught in other languages by trainers who are fluent in them. Zahid teaches in English, Gujarati, and Urdu.
+Yes. Outreach courses can be taught in other languages by trainers who are fluent in them. Zahid teaches in English and [Spanish](https://oshawithzahid.com/osha-training-spanish.html).
 
 ## Sources & further reading
 

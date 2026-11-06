@@ -4,9 +4,9 @@
 
 URL: https://oshawithzahid.com/osha-30-general-industry.html
 Author: Zahid Presswala, OSHA Authorized Outreach Trainer
-Updated: 2026-10-27
+Updated: 2026-11-06
 
-OSHA 30-Hour General Industry is a 30-hour OSHA Outreach Training Program course for supervisors, managers, and safety coordinators in warehouses, manufacturing, healthcare, and other non-construction workplaces. It follows 29 CFR 1910 and covers safety program management plus hazards like lockout/tagout, machine guarding, forklifts, and confined spaces. It takes at least four days and ends with an official DOL OSHA 30 wallet card. Zahid Presswala teaches it on-site across Chicagoland.
+OSHA 30-Hour General Industry is a 30-hour OSHA Outreach Training Program course for supervisors, managers, and safety coordinators in warehouses, manufacturing, healthcare, and other non-construction workplaces. It follows 29 CFR 1910 and covers safety program management plus hazards like lockout/tagout, machine guarding, forklifts, and confined spaces. It takes at least four days and ends with an official DOL OSHA 30 wallet card. Zahid Presswala teaches it on-site at your workplace, anywhere in the U.S. with as little as a week's notice.
 
 | Length | 30 contact hours, at least 4 days |
 | --- | --- |
@@ -15,7 +15,7 @@ OSHA 30-Hour General Industry is a 30-hour OSHA Outreach Training Program course
 | Prerequisite | None |
 | Card | Official DOL OSHA 30-Hour General Industry wallet card |
 | Format | In person, on-site; consecutive days or spread over weeks |
-| Languages | English, Gujarati, Urdu |
+| Languages | English, Spanish |
 
 ## What is OSHA 30-Hour General Industry?
 

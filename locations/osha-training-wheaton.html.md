@@ -1,24 +1,23 @@
 # OSHA 10 & 30 Training in Wheaton, IL
 
-> OSHA 10 and 30-Hour Construction and General Industry training in Wheaton, Illinois, taught on-site by OSHA-authorized trainer Zahid Presswala. Group pricing, English, Gujarati and Urdu, official DOL cards.
+> OSHA 10 and 30-Hour Construction and General Industry training in Wheaton, Illinois, taught on-site by OSHA-authorized trainer Zahid Presswala. Group pricing, English and Spanish, official DOL cards.
 
 URL: https://oshawithzahid.com/locations/osha-training-wheaton.html
 Author: Zahid Presswala, OSHA Authorized Outreach Trainer
-Updated: 2026-10-27
+Updated: 2026-11-06
 
-Zahid Presswala, an OSHA-authorized Outreach Trainer for Construction and General Industry, teaches OSHA 10 and OSHA 30 on-site in Wheaton, Illinois (DuPage County). Classes run at your job site, shop, or office, are available in English, Gujarati, and Urdu, and every graduate receives an official U.S. Department of Labor OSHA wallet card. Book online or call (847) 863-4798.
+Zahid Presswala, an OSHA-authorized Outreach Trainer for Construction and General Industry, teaches OSHA 10 and OSHA 30 on-site in Wheaton, Illinois (DuPage County). Classes run at your job site, shop, or office, are available in English and Spanish, and every graduate receives an official U.S. Department of Labor OSHA wallet card. Book online or email zahidh786@gmail.com.
 
 | Trainer | Zahid Presswala, OSHA-authorized Outreach Trainer |
 | --- | --- |
 | Courses | OSHA 10 & 30, Construction and General Industry |
 | Location | On-site anywhere in Wheaton (DuPage County) |
-| Distance from Naperville base | about 8 miles |
-| Languages | English, Gujarati, Urdu |
+| Languages | English, Spanish |
 | Card | Official DOL OSHA wallet card |
 
 ## OSHA training in Wheaton
 
-Wheaton is the DuPage County seat, with county and municipal operations, a college campus, established neighborhoods, and steady residential and commercial construction. It's next door to Naperville, so Zahid can schedule OSHA 10 and 30 classes in Wheaton quickly for contractors, facilities teams, and public employers.
+Wheaton is the DuPage County seat, with county and municipal operations, a college campus, established neighborhoods, and steady residential and commercial construction. Zahid can schedule OSHA 10 and 30 classes in Wheaton quickly for contractors, facilities teams, and public employers.
 
 ## Who we train in Wheaton
 
@@ -57,7 +56,7 @@ Along with Wheaton, Zahid regularly trains crews in Glen Ellyn, Winfield, Carol 
 
 ### Is OSHA 10 available in Wheaton, IL?
 
-Yes. Zahid Presswala teaches OSHA 10 and 30 on-site in Wheaton. Use the booking form or call (847) 863-4798.
+Yes. Zahid Presswala teaches OSHA 10 and 30 on-site in Wheaton. Use the booking form or email zahidh786@gmail.com.
 
 ### Who enforces OSHA for public employees in Wheaton?
 
