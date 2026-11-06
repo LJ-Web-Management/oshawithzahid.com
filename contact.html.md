@@ -21,24 +21,9 @@ On-site with as little as a week's notice
 
 [Prefer to book now? ](https://oshawithzahid.com/book.html)
 
-Fill this out and it will open in your email app, addressed to Zahid.
+Send a note here and Zahid will reply to you by email.
 
-Full name
-
-Email address
-
-Course of interest
-
-OSHA 10-Hour Construction
-OSHA 30-Hour Construction
-OSHA 10-Hour General Industry
-OSHA 30-Hour General Industry
-Custom Workshop
-Not Sure Yet
-
-Message
-
-Send message
+Form not loading? Email [zahidh786@gmail.com](mailto:zahidh786@gmail.com).
 
 ## Ready to get your crew trained?
 

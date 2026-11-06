@@ -392,6 +392,8 @@ a.contact-item:hover { border-color: var(--green); color: var(--ink); }
 .contact-item small { display: block; color: var(--ink-3); font-size: .8rem; text-transform: uppercase; letter-spacing: .06em; font-weight: 600; }
 .contact-item strong { font-weight: 600; font-size: 1.05rem; word-break: break-word; }
 .tf-wrap { min-height: 120px; }
+/* Typeform auto-resize embeds collapse to 150px on phones/tablets (tap-to-start card) and narrow windows */
+.tf-wrap [data-tf-widget] { min-height: 600px; }
 
 /* ---------- Article ---------- */
 .article-hero { padding: 48px 0 40px; background: linear-gradient(180deg, var(--surface), var(--bg)); border-bottom: 1px solid var(--line); }
