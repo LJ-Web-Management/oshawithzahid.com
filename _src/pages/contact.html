@@ -33,15 +33,18 @@
 
       <div class="panel">
         <span class="eyebrow">{{icon:message}} Send a message</span>
-        <p style="margin-top:10px">Fill this out and it will open in your email app, addressed to Zahid.</p>
-        <form id="contactForm" action="mailto:{{email}}" method="post" enctype="text/plain">
+        <p style="margin-top:10px">Send a note here and Zahid will reply to you by email.</p>
+        <form id="contactForm" action="https://formsubmit.co/{{email}}" method="POST" data-ajax-action="https://formsubmit.co/ajax/{{email}}" data-email="{{email}}">
+          <input type="hidden" name="_subject" value="New message from oshawithzahid.com">
+          <input type="hidden" name="_template" value="table">
+          <div class="form-hp" aria-hidden="true"><input type="text" name="_honey" tabindex="-1" autocomplete="off"></div>
           <div class="form-field">
             <label for="name">Full name</label>
             <input type="text" id="name" name="Name" autocomplete="name" required>
           </div>
           <div class="form-field">
             <label for="email">Email address</label>
-            <input type="email" id="email" name="Email" autocomplete="email" required>
+            <input type="email" id="email" name="email" autocomplete="email" required>
           </div>
           <div class="form-field">
             <label for="course">Course of interest</label>
@@ -59,6 +62,7 @@
             <textarea id="message" name="Message" placeholder="Group size, preferred dates, location, and any questions..." required></textarea>
           </div>
           <button type="submit" class="btn btn-primary btn-block">Send message {{icon:arrow}}</button>
+          <div class="form-status" role="status" aria-live="polite" hidden></div>
         </form>
       </div>
     </div>

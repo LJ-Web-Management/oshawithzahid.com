@@ -21,7 +21,7 @@ On-site with as little as a week's notice
 
 [Prefer to book now? ](https://oshawithzahid.com/book.html)
 
-Fill this out and it will open in your email app, addressed to Zahid.
+Send a note here and Zahid will reply to you by email.
 
 Full name
 
