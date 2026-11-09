@@ -131,87 +131,60 @@ Your crew completes the course on-site and every graduate receives a DOL wallet 
 
 ## On-site OSHA training wherever your crew works
 
-Available nationwide with as little as a week's notice. These are the Chicago-area communities where we train most often.
+Available in all 50 states with as little as a week's notice. Zahid brings OSHA 10 and 30-Hour courses to your job site, shop, or office, wherever it is.
 
 [All service areas ](https://oshawithzahid.com/locations/)
 
-[
-
-### OSHA training in Chicago
-
-On-site OSHA 10 and 30 at Chicago job sites, plants, and facilities, from the Loop to O'Hare.
-
-](https://oshawithzahid.com/locations/osha-training-chicago.html)
-[
-
-### OSHA training in Naperville
-
-OSHA 10 and 30 on-site anywhere in Naperville, from downtown job sites to the I-88 corridor.
-
-](https://oshawithzahid.com/locations/osha-training-naperville.html)
-[
-
-### OSHA training in Aurora
-
-OSHA 10 and 30 for Aurora manufacturers, warehouses, and contractors along I-88.
-
-](https://oshawithzahid.com/locations/osha-training-aurora.html)
-[
-
-### OSHA training in Joliet
-
-On-site OSHA training for Joliet's logistics hub, intermodal, and construction crews.
-
-](https://oshawithzahid.com/locations/osha-training-joliet.html)
-[
-
-### OSHA training in Bolingbrook
-
-OSHA 10 and 30 for Bolingbrook's I-55 distribution centers and contractors.
-
-](https://oshawithzahid.com/locations/osha-training-bolingbrook.html)
-[
-
-### OSHA training in Schaumburg
-
-OSHA training for Schaumburg's hotels, retail, offices, and commercial construction.
-
-](https://oshawithzahid.com/locations/osha-training-schaumburg.html)
-[
-
-### OSHA training in Elgin
-
-OSHA 10 and 30 for Elgin manufacturers, industrial parks, and contractors.
-
-](https://oshawithzahid.com/locations/osha-training-elgin.html)
-[
-
-### OSHA training in Downers Grove
-
-OSHA training for Downers Grove contractors, healthcare, and office facilities.
-
-](https://oshawithzahid.com/locations/osha-training-downers-grove.html)
-[
-
-### OSHA training in Oak Brook
-
-OSHA training for Oak Brook property management, corporate facilities, and contractors.
-
-](https://oshawithzahid.com/locations/osha-training-oak-brook.html)
-[
-
-### OSHA training in Elk Grove Village
-
-OSHA 10 and 30 for Elk Grove Village's industrial park, plants, and data centers.
-
-](https://oshawithzahid.com/locations/osha-training-elk-grove-village.html)
-[
-
-### OSHA training in Wheaton
-
-OSHA training for Wheaton contractors and public-sector teams under Illinois OSHA.
-
-](https://oshawithzahid.com/locations/osha-training-wheaton.html)
+- Alabama
+- Alaska
+- Arizona
+- Arkansas
+- California
+- Colorado
+- Connecticut
+- Delaware
+- Florida
+- Georgia
+- Hawaii
+- Idaho
+- Illinois
+- Indiana
+- Iowa
+- Kansas
+- Kentucky
+- Louisiana
+- Maine
+- Maryland
+- Massachusetts
+- Michigan
+- Minnesota
+- Mississippi
+- Missouri
+- Montana
+- Nebraska
+- Nevada
+- New Hampshire
+- New Jersey
+- New Mexico
+- New York
+- North Carolina
+- North Dakota
+- Ohio
+- Oklahoma
+- Oregon
+- Pennsylvania
+- Rhode Island
+- South Carolina
+- South Dakota
+- Tennessee
+- Texas
+- Utah
+- Vermont
+- Virginia
+- Washington
+- West Virginia
+- Wisconsin
+- Wyoming
 
 ## Straight answers to common OSHA questions
 

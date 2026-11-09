@@ -98,6 +98,22 @@ def esc(s):
     return html.escape(s, quote=True)
 
 
+STATES = [
+    "Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Delaware",
+    "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky",
+    "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan", "Minnesota", "Mississippi",
+    "Missouri", "Montana", "Nebraska", "Nevada", "New Hampshire", "New Jersey", "New Mexico",
+    "New York", "North Carolina", "North Dakota", "Ohio", "Oklahoma", "Oregon", "Pennsylvania",
+    "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas", "Utah", "Vermont",
+    "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming",
+]
+
+
+def states_grid():
+    items = "\n".join(f'  <li>{icon("map-pin")}<span>{esc(st)}</span></li>' for st in STATES)
+    return f'<ul class="states-grid reveal" aria-label="States where on-site OSHA training is available">\n{items}\n</ul>'
+
+
 def parse(path):
     text = path.read_text(encoding="utf-8")
     m = re.match(r"\s*<!--(.*?)-->\s*", text, re.S)
@@ -320,17 +336,6 @@ def footer(root, guides, extra_scripts=""):
         </ul>
       </div>
       <div>
-        <h4>Service areas</h4>
-        <ul>
-          <li><a href="{root}locations/osha-training-chicago.html">Chicago</a></li>
-          <li><a href="{root}locations/osha-training-naperville.html">Naperville</a></li>
-          <li><a href="{root}locations/osha-training-aurora.html">Aurora</a></li>
-          <li><a href="{root}locations/osha-training-joliet.html">Joliet</a></li>
-          <li><a href="{root}locations/osha-training-schaumburg.html">Schaumburg</a></li>
-          <li><a href="{root}locations/">All service areas &rarr;</a></li>
-        </ul>
-      </div>
-      <div>
         <h4>Guides</h4>
         <ul>
 {guide_links}
@@ -474,6 +479,8 @@ def render_template(body, root, guides, meta):
         if key == "guides":
             picked = guides if arg == "all" else [g for g in guides if g.get("featured")][: int(arg)]
             return "\n".join(guide_card(g, root) for g in picked)
+        if key == "states":
+            return states_grid()
         if key == "landings":
             return "\n".join(landing_card(p, root) for p in LANDINGS if p["kind"] == arg)
         if key == "filters":
