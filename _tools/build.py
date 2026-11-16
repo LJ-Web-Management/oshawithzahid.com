@@ -268,17 +268,23 @@ def head(meta, root, canonical):
 </head>"""
 
 
+def home_href(root):
+    """Link to the home page as its folder, never index.html: Google files /index.html as a
+    second copy of / ("Alternate page with proper canonical tag")."""
+    return root or "./"
+
+
 def header(active, root):
     current = ' aria-current="page"'
     links = "\n".join(
-        f'      <a href="{root}{href or "index.html"}"{current if key == active else ""}>{label}</a>'
+        f'      <a href="{root + href if href else home_href(root)}"{current if key == active else ""}>{label}</a>'
         for key, label, href in NAV
     )
     return f"""<body>
 <a class="skip-link" href="#main">Skip to content</a>
 <header class="site-header">
   <div class="container nav">
-    <a href="{root}index.html" class="brand" aria-label="Osha With Zahid, home">
+    <a href="{home_href(root)}" class="brand" aria-label="Osha With Zahid, home">
       <img class="brand-logo" src="{root}images/logo.svg" alt="Osha With Zahid" width="98" height="54">
     </a>
     <nav class="nav-links" id="navLinks" aria-label="Primary">
@@ -304,7 +310,7 @@ def footer(root, guides, extra_scripts=""):
   <div class="container">
     <div class="footer-grid">
       <div>
-        <a class="footer-brand" href="{root}index.html"><img src="{root}images/logo-reversed.svg" alt="Osha With Zahid" width="146" height="80"></a>
+        <a class="footer-brand" href="{home_href(root)}"><img src="{root}images/logo-reversed.svg" alt="Osha With Zahid" width="146" height="80"></a>
         <p>OSHA 10 and 30-Hour Outreach training for Construction and General Industry, taught by Zahid Presswala. Available on-site nationwide with as little as a week's notice.</p>
         <p><a href="{OSHA_VERIFY}" target="_blank" rel="noopener">Verify Zahid on OSHA.gov &nearr;</a></p>
       </div>
@@ -378,7 +384,7 @@ def breadcrumbs_html(crumbs, root):
         if i == len(crumbs) - 1:
             items.append(f'<li aria-current="page">{esc(name)}</li>')
         else:
-            items.append(f'<li><a href="{root}{path or "index.html"}">{esc(name)}</a></li>')
+            items.append(f'<li><a href="{root + path if path else home_href(root)}">{esc(name)}</a></li>')
     return f'<ol class="crumbs" aria-label="Breadcrumb">{"".join(items)}</ol>'
 
 

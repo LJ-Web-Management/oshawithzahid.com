@@ -5,7 +5,7 @@
 URL: https://oshawithzahid.com/contact.html
 Author: Zahid Presswala, OSHA Authorized Outreach Trainer
 
-1. [Home](https://oshawithzahid.com/index.html)
+1. [Home](https://oshawithzahid.com/)
 2. Contact
 
 
